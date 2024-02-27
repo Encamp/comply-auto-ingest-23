@@ -1,4 +1,4 @@
-Tenant ID,Facility Chemical Id,Facility Id,Chemical Id,Reporting Year,Max Amount,Average Amount,Max Amount Largest Container,Unit,Days On Site,Has Confidential Storage Locations?,Always report this chemical even when it is below reporting thresholds
+Tenant ID,Facility Chemical ID,Facility ID,Chemical ID,Reporting Year,Max Amount,Average Amount,Max Amount Largest Container,Unit,Days On Site,Has Confidential Storage Locations?,Always report this chemical even when it is below reporting thresholds
 018fec99-8a8f-4b02-921d-421a8792f4e9,33abc16e-2ce1-4710-a9fe-31cac6614997,fd2dc628-a341-4586-b491-be9fc9e52665,33abc16e-2ce1-4710-a9fe-31cac6614997,2023,13,null,13,GALLONS,365,false,true
 018fec99-8a8f-4b02-921d-421a8792f4e9,15716fe4-c33a-427c-b06e-0a4266bc6790,fd2dc628-a341-4586-b491-be9fc9e52665,15716fe4-c33a-427c-b06e-0a4266bc6790,2023,2,null,2,LITERS,365,false,true
 018fec99-8a8f-4b02-921d-421a8792f4e9,7cda1d83-bf3b-4bf7-a12f-5826e9733656,fd2dc628-a341-4586-b491-be9fc9e52665,7cda1d83-bf3b-4bf7-a12f-5826e9733656,2023,1,null,1,LITERS,365,false,true
