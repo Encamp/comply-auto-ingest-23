@@ -97,4 +97,4 @@ chemical_ids = [
 ]
 
 # Call the function
-filter_chemical_ids('FACILITY_CHEMICAL_REGULATORY_INFORMATION.csv', chemical_ids)
+filter_chemical_ids('./haddad/FACILITY_CHEMICAL_REGULATORY_INFORMATION.csv', chemical_ids)
