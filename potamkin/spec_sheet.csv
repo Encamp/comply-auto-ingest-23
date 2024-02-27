@@ -1,0 +1,10 @@
+impacted_facility_name,tenant_id,customer_name,encamp_facility_id_(if_applicable),is_this_a_pipeline_facility?,remove_all_2022_product_ids,product_ids_to_keep
+Folsom Lake Hyundai,6c1a22f1-7dec-4db3-88ae-198a34b924fd,Potamkin Auto Group,74f1625b-e4bc-4f7c-963f-064e73e78b14,yes,yes,
+Humble Hyundai,6c1a22f1-7dec-4db3-88ae-198a34b924fd,Potamkin Auto Group,e4a7984d-efb8-451e-8628-7f17580ba8a6,yes,yes,
+Springfield Hyundai,6c1a22f1-7dec-4db3-88ae-198a34b924fd,Potamkin Auto Group,07ee7c7e-0778-442b-8a3b-345343e3a0d5,yes,yes,
+Baytown Hyundai and Genesis of Baytown,6c1a22f1-7dec-4db3-88ae-198a34b924fd,Potamkin Auto Group,49c6661c-7425-4e9f-934c-5cc50781ff01,yes,yes,
+Hyundai of El Paso and Genesis of El Paso,6c1a22f1-7dec-4db3-88ae-198a34b924fd,Potamkin Auto Group,7a12966d-1451-4bf9-a095-9369483ed803,yes,yes,
+North Freeway Hyundai,6c1a22f1-7dec-4db3-88ae-198a34b924fd,Potamkin Auto Group,44439b28-57c8-45bd-86ef-b9e024f1e2a2,yes,yes,
+Potamkin Hyundai Stone Mountain,6c1a22f1-7dec-4db3-88ae-198a34b924fd,Potamkin Auto Group,a9424e7d-a5e0-49ff-b2f8-cb9c838ba400,yes,yes,
+Hyundai of Elk Grove,6c1a22f1-7dec-4db3-88ae-198a34b924fd,Potamkin Auto Group,bb2138ce-b567-4721-b9dc-cacd5be69285,yes,yes,
+Roseville Hyundai,6c1a22f1-7dec-4db3-88ae-198a34b924fd,Potamkin Auto Group,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b,yes,yes,
