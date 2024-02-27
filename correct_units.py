@@ -6,6 +6,8 @@ def convert_units(row):
     units_to_convert = ['QUARTS', 'OUNCES']
 
     for column in ['Max Amount', 'Average Amount', 'Max Amount Largest Container']:
+        if column not in row:
+            continue
         if row['Unit'] in units_to_convert:
             row[column] = row[column] * conversion_factors[row['Unit']]
     if row['Unit'] in units_to_convert:
@@ -14,6 +16,9 @@ def convert_units(row):
 
 def fill_missing_values(df):
     for index, row in df.iterrows():
+        if 'Max Amount' not in df.columns or 'Average Amount' not in df.columns or 'Max Amount Largest Container' not in df.columns:
+            continue
+
         max_amount = row['Max Amount']
         average_amount = row['Average Amount']
         max_amount_largest_container = row['Max Amount Largest Container']
@@ -38,7 +43,6 @@ def fill_missing_values(df):
         df.fillna(0, inplace=True)
 
     return df
-
 def process_csv(file_path):
     # Read the CSV file
     df = pd.read_csv(file_path)
