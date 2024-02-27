@@ -2,6 +2,7 @@ import pandas as pd
 import uuid
 
 def generate_uuid(facility_id, chemical_id):
+    print(f"Facility ID: {facility_id}, Chemical ID: {chemical_id}")
     # Namespace for UUID generation
     namespace = uuid.UUID('6ba7b810-9dad-11d1-80b4-00c04fd430c8')
     return str(uuid.uuid5(namespace, f"{facility_id}-{chemical_id}"))
