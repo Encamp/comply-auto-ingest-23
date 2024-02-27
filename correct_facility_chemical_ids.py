@@ -36,7 +36,7 @@ def correct_facility_chemical_ids(facility_chemical_path, facility_chemical_stor
 
 # Example usage
 corrected_facility_chemical_path, corrected_facility_chemical_storage_location_path = correct_facility_chemical_ids(
-    './lexus/FACILITY_CHEMICAL.csv',
-    './lexus/FACILITY_CHEMICAL_STORAGE_LOCATION.csv'
+    './thomas/FACILITY_CHEMICAL.csv',
+    './thomas/FACILITY_CHEMICAL_STORAGE_LOCATION.csv'
 )
 
