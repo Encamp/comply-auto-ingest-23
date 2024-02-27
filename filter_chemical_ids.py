@@ -5,7 +5,7 @@ def filter_chemical_ids(file_path, chemical_ids):
     df = pd.read_csv(file_path)
 
     # Filter rows where 'Chemical ID' is in the list of Chemical IDs
-    filtered_df = df[df['Chemical ID'].isin(chemical_ids)]
+    filtered_df = df[~df['Chemical ID'].isin(chemical_ids)]
 
     # Create the output file path by replacing '.csv' with '_filtered.csv'
     output_path = file_path.replace('.csv', '_filtered.csv')
