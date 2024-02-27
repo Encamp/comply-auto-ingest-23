@@ -27,8 +27,10 @@ def correct_facility_chemical_ids(facility_chemical_path, facility_chemical_stor
     facility_chemical_storage_location_df.drop(columns=['Corrected Facility Chemical ID'], inplace=True)
 
     # Save the corrected datasets
-    corrected_facility_chemical_path = facility_chemical_path.replace('.csv', '_corrected.csv')
-    corrected_facility_chemical_storage_location_path = facility_chemical_storage_location_path.replace('.csv', '_corrected.csv')
+    # corrected_facility_chemical_path = facility_chemical_path.replace('.csv', '_corrected.csv')
+    # corrected_facility_chemical_storage_location_path = facility_chemical_storage_location_path.replace('.csv', '_corrected.csv')
+    corrected_facility_chemical_path = facility_chemical_path
+    corrected_facility_chemical_storage_location_path = facility_chemical_storage_location_path
 
     facility_chemical_df.to_csv(corrected_facility_chemical_path, index=False)
     facility_chemical_storage_location_df.to_csv(corrected_facility_chemical_storage_location_path, index=False)
@@ -37,7 +39,7 @@ def correct_facility_chemical_ids(facility_chemical_path, facility_chemical_stor
 
 # Example usage
 corrected_facility_chemical_path, corrected_facility_chemical_storage_location_path = correct_facility_chemical_ids(
-    './vista/FACILITY_CHEMICAL.csv',
-    './vista/FACILITY_CHEMICAL_STORAGE_LOCATION.csv'
+    './banner/FACILITY_CHEMICAL.csv',
+    './banner/FACILITY_CHEMICAL_STORAGE_LOCATION.csv'
 )
 
