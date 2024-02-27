@@ -1,4 +1,4 @@
-Facility Id,Facility Chemical Storage Location ID,Facility Chemical ID,Storage Location ID,Unit,Max Amount,Storage Type,Storage Type Description,Pressure,Temperature
+Facility ID,Facility Chemical Storage Location ID,Facility Chemical ID,Storage Location ID,Unit,Max Amount,Storage Type,Storage Type Description,Pressure,Temperature
 5bf7854b-39a1-4908-bc88-8751d2f532b4,a1286d10-6901-4c22-9f88-54491718a2cf,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,12492d1d-99ec-4cfe-9cb6-f21c172fc2e1,OUNCES,22,CAN,Parts dept retail pkg,AMBIENT_PRESSURE,AMBIENT_TEMPERATURE
 5bf7854b-39a1-4908-bc88-8751d2f532b4,5a90beb8-0e03-452a-95c4-0c3a95f36abe,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,76ef9232-ae3b-4fc8-9c7a-8653d8a7e1f7,OUNCES,1000,CAN,Vending,AMBIENT_PRESSURE,AMBIENT_TEMPERATURE
 5bf7854b-39a1-4908-bc88-8751d2f532b4,f152a93a-8225-48c7-85fa-913106175631,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,4416f520-5384-47ce-8ce5-07cb3cfe6650,GALLONS,1,PLASTIC_BOTTLE,parts,AMBIENT_PRESSURE,AMBIENT_TEMPERATURE

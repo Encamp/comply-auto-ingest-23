@@ -1,4 +1,4 @@
-Facility Chemical Id,Facility Id,Chemical Id,Reporting Year,Max Amount,Average Amount,Max Amount Largest Container,Unit,Days On Site,Has Confidential Storage Locations?,Always report this chemical even when it is below reporting thresholds
+Facility Chemical ID,Facility ID,Chemical ID,Reporting Year,Max Amount,Average Amount,Max Amount Largest Container,Unit,Days On Site,Has Confidential Storage Locations?,Always report this chemical even when it is below reporting thresholds
 8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,5bf7854b-39a1-4908-bc88-8751d2f532b4,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,null,null,22,OUNCES,365,FALSE,TRUE
 da467bf7-b6c0-4195-a9f8-3a02d93f1d06,5bf7854b-39a1-4908-bc88-8751d2f532b4,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,null,null,1000,OUNCES,365,FALSE,TRUE
 4ebb2f00-5676-45d0-b9d3-f83d72dd9500,5bf7854b-39a1-4908-bc88-8751d2f532b4,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,null,null,1,GALLONS,365,FALSE,TRUE
