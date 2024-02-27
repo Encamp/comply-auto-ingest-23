@@ -1,76 +1,76 @@
 Tenant ID,Facility Chemical Id,Facility Id,Chemical Id,Reporting Year,Max Amount,Average Amount,Max Amount Largest Container,Unit,Days On Site,Has Confidential Storage Locations?,Always report this chemical even when it is below reporting thresholds
-883b7124-9c13-41ff-a6ee-341efbcde9ca,dead3739-e58d-446d-8938-915598433f39,3ba92ba0-2732-4fda-8bef-00a23eef350c,dead3739-e58d-446d-8938-915598433f39,2023,15,6,0,LITERS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,98ec8ceb-27b7-4ee3-b97f-310f966c817e,3ba92ba0-2732-4fda-8bef-00a23eef350c,98ec8ceb-27b7-4ee3-b97f-310f966c817e,2023,4,4,4,QUARTS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,33c5a060-d68b-4f0d-8dbc-71effca62d43,3ba92ba0-2732-4fda-8bef-00a23eef350c,33c5a060-d68b-4f0d-8dbc-71effca62d43,2023,1,1,1,QUARTS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,985d0789-d71a-4b67-9d03-b89c2f071a97,3ba92ba0-2732-4fda-8bef-00a23eef350c,985d0789-d71a-4b67-9d03-b89c2f071a97,2023,25,15,25,GALLONS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,f2efcd2f-87d0-448d-aa99-ca8d15ec0a5c,3ba92ba0-2732-4fda-8bef-00a23eef350c,f2efcd2f-87d0-448d-aa99-ca8d15ec0a5c,2023,50,30,50,GALLONS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,15d2a98f-70b9-4517-ae77-1fc4efa45749,3ba92ba0-2732-4fda-8bef-00a23eef350c,15d2a98f-70b9-4517-ae77-1fc4efa45749,2023,40,30,40,QUARTS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,77e12311-2771-4a3c-a34a-f2d7342145f5,3ba92ba0-2732-4fda-8bef-00a23eef350c,77e12311-2771-4a3c-a34a-f2d7342145f5,2023,30,20,30,GALLONS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,5bd7c116-b78d-4d48-a327-827127cbdb82,3ba92ba0-2732-4fda-8bef-00a23eef350c,5bd7c116-b78d-4d48-a327-827127cbdb82,2023,12,12,12,GALLONS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,8299f07d-fe8a-477a-8a9f-c751831e799c,3ba92ba0-2732-4fda-8bef-00a23eef350c,8299f07d-fe8a-477a-8a9f-c751831e799c,2023,6,6,6,GALLONS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,d18aefd3-c95f-4c58-8b48-2d3eaf0ecd9e,3ba92ba0-2732-4fda-8bef-00a23eef350c,d18aefd3-c95f-4c58-8b48-2d3eaf0ecd9e,2023,55,55,55,GALLONS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,0359f2d8-b364-41e9-808f-057fccbc472a,3ba92ba0-2732-4fda-8bef-00a23eef350c,0359f2d8-b364-41e9-808f-057fccbc472a,2023,20,15,20,GALLONS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,2cd6b35e-f4bb-437b-bc3e-dbed1ecd5647,bc1aeb51-a6e1-4237-bc75-c285eeb01682,2cd6b35e-f4bb-437b-bc3e-dbed1ecd5647,2023,null,null,0,QUARTS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,a9a0f347-ad0f-45e4-bd65-d5cd8d3fe572,bc1aeb51-a6e1-4237-bc75-c285eeb01682,a9a0f347-ad0f-45e4-bd65-d5cd8d3fe572,2023,null,30,30,CUBIC_FEET,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,8c42d057-c06a-4d80-8448-65f210b35b48,bc1aeb51-a6e1-4237-bc75-c285eeb01682,8c42d057-c06a-4d80-8448-65f210b35b48,2023,null,null,40,CUBIC_FEET,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,45dd3f3d-39b8-4463-879a-98590fe256f1,bc1aeb51-a6e1-4237-bc75-c285eeb01682,45dd3f3d-39b8-4463-879a-98590fe256f1,2023,null,null,0,QUARTS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,84d7dd81-8ece-4d3d-bc62-15fe889741a9,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,84d7dd81-8ece-4d3d-bc62-15fe889741a9,2023,null,null,0,GALLONS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,7d0f0a01-9b48-49a1-ad79-566ee2cd0ef3,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,7d0f0a01-9b48-49a1-ad79-566ee2cd0ef3,2023,null,null,0,QUARTS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,e69c1106-bb9b-411c-9fcc-ba5ba4efaa73,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,e69c1106-bb9b-411c-9fcc-ba5ba4efaa73,2023,null,null,0,QUARTS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,b94781fd-ed0e-4dbb-a060-c77f40553a22,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,b94781fd-ed0e-4dbb-a060-c77f40553a22,2023,null,null,0,QUARTS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,9a23671e-c77e-4bca-8efd-014775443cfd,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,9a23671e-c77e-4bca-8efd-014775443cfd,2023,null,null,0,QUARTS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,cee3641c-8ed6-46d1-9099-66385b977e5d,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,cee3641c-8ed6-46d1-9099-66385b977e5d,2023,null,null,0,QUARTS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,713b50e5-e8ce-4249-9b7f-bf94e0acfecf,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,713b50e5-e8ce-4249-9b7f-bf94e0acfecf,2023,null,null,0,QUARTS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,052a71bc-4b6f-4562-9cb6-d6ae8d28d149,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,052a71bc-4b6f-4562-9cb6-d6ae8d28d149,2023,null,null,0,QUARTS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,b4929d0f-0ebd-4c30-9699-be4e72fdf6c9,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,b4929d0f-0ebd-4c30-9699-be4e72fdf6c9,2023,null,null,0,GALLONS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,ea1bf237-4b66-4f16-9fe6-5ca29995d844,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,ea1bf237-4b66-4f16-9fe6-5ca29995d844,2023,null,null,0,GALLONS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,dc115865-c928-4273-9c73-e07b06b07afd,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,dc115865-c928-4273-9c73-e07b06b07afd,2023,null,null,0,POUNDS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,a0c96571-3c9c-4225-8e5c-257bb77482c4,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,a0c96571-3c9c-4225-8e5c-257bb77482c4,2023,null,null,0,POUNDS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,42d94481-e621-4345-ba25-e97ab1308bfb,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,42d94481-e621-4345-ba25-e97ab1308bfb,2023,null,null,0,POUNDS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,6689dd29-5a7b-44cd-be1d-dfc049171140,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,6689dd29-5a7b-44cd-be1d-dfc049171140,2023,null,null,0,POUNDS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,4237ab55-892f-40b7-bebc-45c104ec3c52,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,4237ab55-892f-40b7-bebc-45c104ec3c52,2023,null,null,0,POUNDS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,d26d05d6-92cd-45c0-93cf-0bfcee30bc64,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,d26d05d6-92cd-45c0-93cf-0bfcee30bc64,2023,null,null,0,GALLONS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,90b57b76-2f73-4cde-82bc-afbc4c4c75f8,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,90b57b76-2f73-4cde-82bc-afbc4c4c75f8,2023,null,null,0,POUNDS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,ed0b6258-32e3-4f15-9415-c00b2dba5a3c,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,ed0b6258-32e3-4f15-9415-c00b2dba5a3c,2023,null,null,0,GALLONS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,dd6ade6d-964d-48f6-bf5a-c0bb1212ce56,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,dd6ade6d-964d-48f6-bf5a-c0bb1212ce56,2023,null,null,0,POUNDS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,917df877-3788-4f7e-95e1-4091651064e4,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,917df877-3788-4f7e-95e1-4091651064e4,2023,null,null,0,POUNDS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,8e909a6b-e3fa-4f89-9e95-88e02986b021,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,8e909a6b-e3fa-4f89-9e95-88e02986b021,2023,null,null,0,POUNDS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,9bca6524-da36-49e2-9079-d247e9b2c77b,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,9bca6524-da36-49e2-9079-d247e9b2c77b,2023,null,null,0,POUNDS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,d0b74cac-8d56-4d87-bb59-9eb4ad01ea81,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,d0b74cac-8d56-4d87-bb59-9eb4ad01ea81,2023,null,null,0,POUNDS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,24f28372-dff4-4091-b815-ae9d84801bd0,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,24f28372-dff4-4091-b815-ae9d84801bd0,2023,null,null,0,POUNDS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,a3e98a9b-ac01-4500-a9f8-609df76a1c17,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,a3e98a9b-ac01-4500-a9f8-609df76a1c17,2023,null,null,0,GALLONS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,1e542e06-d909-4cdc-80db-08fc7c33f679,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,1e542e06-d909-4cdc-80db-08fc7c33f679,2023,null,null,0,GALLONS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,b9edad54-9065-4a5c-b8c8-cd95323c0427,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,b9edad54-9065-4a5c-b8c8-cd95323c0427,2023,null,null,0,GALLONS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,0673377f-ed03-4567-b85b-3a92b6fbd822,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,0673377f-ed03-4567-b85b-3a92b6fbd822,2023,null,null,0,GALLONS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,0740b985-3c43-4d88-b84f-acbfa30061ce,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,0740b985-3c43-4d88-b84f-acbfa30061ce,2023,null,null,0,QUARTS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,1904ba9d-283b-4548-80c8-9c62c34afb5f,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,1904ba9d-283b-4548-80c8-9c62c34afb5f,2023,null,null,0,POUNDS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,83916e96-c3cb-4c12-9f75-1a72e38ec3f8,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,83916e96-c3cb-4c12-9f75-1a72e38ec3f8,2023,null,null,0,QUARTS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,5fe8bf3b-1c37-43f4-99c6-b47b5eae783d,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,5fe8bf3b-1c37-43f4-99c6-b47b5eae783d,2023,null,null,0,QUARTS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,e9abc32f-414e-44fe-b3ad-ae5dbb50b073,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,e9abc32f-414e-44fe-b3ad-ae5dbb50b073,2023,null,null,0,GALLONS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,c3951a38-cc3d-4c4c-b61b-3762fcca5281,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,c3951a38-cc3d-4c4c-b61b-3762fcca5281,2023,null,null,0,GALLONS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,246b3be6-d588-4435-bff4-9892e6681ee3,bda80115-5256-48b6-ba47-d8e1a7d91829,246b3be6-d588-4435-bff4-9892e6681ee3,2023,null,null,5,QUARTS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,207b2a17-3c5a-4a37-b53a-553226366902,bda80115-5256-48b6-ba47-d8e1a7d91829,207b2a17-3c5a-4a37-b53a-553226366902,2023,null,null,0,GALLONS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,18daf51b-44ec-48e3-b40c-92849b0a351d,bda80115-5256-48b6-ba47-d8e1a7d91829,18daf51b-44ec-48e3-b40c-92849b0a351d,2023,null,null,1,GALLONS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,0359f2d8-b364-41e9-808f-057fccbc472a,bda80115-5256-48b6-ba47-d8e1a7d91829,0359f2d8-b364-41e9-808f-057fccbc472a,2023,null,null,0,GALLONS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,02f8c2ef-eead-446c-b94a-0e7a2c9f05fc,d32ba406-491e-4371-94bd-77f57acce835,02f8c2ef-eead-446c-b94a-0e7a2c9f05fc,2023,null,null,0,POUNDS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,b2b86b09-dfc8-4f50-a085-fa2a8d5aed29,d32ba406-491e-4371-94bd-77f57acce835,b2b86b09-dfc8-4f50-a085-fa2a8d5aed29,2023,null,null,0,QUARTS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,17f18c68-f18e-4816-b688-cce9146f600f,d32ba406-491e-4371-94bd-77f57acce835,17f18c68-f18e-4816-b688-cce9146f600f,2023,null,null,0,GALLONS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,1b5c2c64-07f9-4b52-99bd-c76955f82a53,d32ba406-491e-4371-94bd-77f57acce835,1b5c2c64-07f9-4b52-99bd-c76955f82a53,2023,null,null,0,QUARTS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,1ac8482b-6ee8-438b-9fa2-8674a64d7fd9,d32ba406-491e-4371-94bd-77f57acce835,1ac8482b-6ee8-438b-9fa2-8674a64d7fd9,2023,null,null,0,QUARTS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,07afe417-069f-4b6e-853d-b98ef275c3a3,d32ba406-491e-4371-94bd-77f57acce835,07afe417-069f-4b6e-853d-b98ef275c3a3,2023,null,null,0,QUARTS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,75c51bf1-4f3d-4731-bd5d-5e1feb13eab1,d32ba406-491e-4371-94bd-77f57acce835,75c51bf1-4f3d-4731-bd5d-5e1feb13eab1,2023,null,null,0,QUARTS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,9bfe396e-90c0-45d7-a52a-3ec7c77fccbc,d32ba406-491e-4371-94bd-77f57acce835,9bfe396e-90c0-45d7-a52a-3ec7c77fccbc,2023,null,null,0,QUARTS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,a96ce9aa-c27f-4b17-855d-5e0506bef5aa,d32ba406-491e-4371-94bd-77f57acce835,a96ce9aa-c27f-4b17-855d-5e0506bef5aa,2023,null,null,0,LITERS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,2b0ad827-79b5-4bf5-bb3e-db2e29891396,d32ba406-491e-4371-94bd-77f57acce835,2b0ad827-79b5-4bf5-bb3e-db2e29891396,2023,null,null,0,QUARTS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,aed4139d-dc3f-4d43-b411-8918908c826c,d32ba406-491e-4371-94bd-77f57acce835,aed4139d-dc3f-4d43-b411-8918908c826c,2023,null,null,0,QUARTS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,03f21280-c454-4740-861a-0d31e6e1c67d,d32ba406-491e-4371-94bd-77f57acce835,03f21280-c454-4740-861a-0d31e6e1c67d,2023,null,null,0,GALLONS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,bac56512-7522-436d-ad6f-561c1aedba87,d32ba406-491e-4371-94bd-77f57acce835,bac56512-7522-436d-ad6f-561c1aedba87,2023,null,null,0,QUARTS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,1cce87ae-3ea6-4d73-8a38-6655339f2602,d32ba406-491e-4371-94bd-77f57acce835,1cce87ae-3ea6-4d73-8a38-6655339f2602,2023,null,null,0,GALLONS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,74c03b3c-c305-43f4-81d3-e13c623af6f8,d32ba406-491e-4371-94bd-77f57acce835,74c03b3c-c305-43f4-81d3-e13c623af6f8,2023,null,null,0,QUARTS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,b95b2b7e-cdf2-44ee-ab51-8ac37cede367,d32ba406-491e-4371-94bd-77f57acce835,b95b2b7e-cdf2-44ee-ab51-8ac37cede367,2023,null,null,0,QUARTS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,cd13e8ff-1977-4e83-93e2-4022e767c5dd,d32ba406-491e-4371-94bd-77f57acce835,cd13e8ff-1977-4e83-93e2-4022e767c5dd,2023,null,null,0,QUARTS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,3aae5e42-9652-486f-af57-5140338b0224,35caa9a9-a9c3-4ff7-aecf-3c909ceaa67d,3aae5e42-9652-486f-af57-5140338b0224,2023,null,null,0,GALLONS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,153ced20-8caa-4057-8965-d390abf0b356,68499f3f-015e-410a-9ff0-d9947dd354ca,153ced20-8caa-4057-8965-d390abf0b356,2023,1,1,250,GALLONS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,b24480dd-dac6-422a-9130-767d9770029c,68499f3f-015e-410a-9ff0-d9947dd354ca,b24480dd-dac6-422a-9130-767d9770029c,2023,null,null,1,GALLONS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,4b3f0dd6-40bc-458d-9350-e57e371d1d62,68499f3f-015e-410a-9ff0-d9947dd354ca,4b3f0dd6-40bc-458d-9350-e57e371d1d62,2023,null,null,20,QUARTS,365,false,true
-883b7124-9c13-41ff-a6ee-341efbcde9ca,4293fb33-e4f2-4016-8d3b-6270b97924f6,acda3e05-889a-4a62-ba9b-f286aedb0aee,4293fb33-e4f2-4016-8d3b-6270b97924f6,2023,2000,1000,2000,GALLONS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,dead3739-e58d-446d-8938-915598433f39,07ee7c7e-0778-442b-8a3b-345343e3a0d5	,dead3739-e58d-446d-8938-915598433f39,2023,15,6,0,LITERS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,98ec8ceb-27b7-4ee3-b97f-310f966c817e,07ee7c7e-0778-442b-8a3b-345343e3a0d5	,98ec8ceb-27b7-4ee3-b97f-310f966c817e,2023,4,4,4,QUARTS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,33c5a060-d68b-4f0d-8dbc-71effca62d43,07ee7c7e-0778-442b-8a3b-345343e3a0d5	,33c5a060-d68b-4f0d-8dbc-71effca62d43,2023,1,1,1,QUARTS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,985d0789-d71a-4b67-9d03-b89c2f071a97,07ee7c7e-0778-442b-8a3b-345343e3a0d5	,985d0789-d71a-4b67-9d03-b89c2f071a97,2023,25,15,25,GALLONS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,f2efcd2f-87d0-448d-aa99-ca8d15ec0a5c,07ee7c7e-0778-442b-8a3b-345343e3a0d5	,f2efcd2f-87d0-448d-aa99-ca8d15ec0a5c,2023,50,30,50,GALLONS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,15d2a98f-70b9-4517-ae77-1fc4efa45749,07ee7c7e-0778-442b-8a3b-345343e3a0d5	,15d2a98f-70b9-4517-ae77-1fc4efa45749,2023,40,30,40,QUARTS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,77e12311-2771-4a3c-a34a-f2d7342145f5,07ee7c7e-0778-442b-8a3b-345343e3a0d5	,77e12311-2771-4a3c-a34a-f2d7342145f5,2023,30,20,30,GALLONS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,5bd7c116-b78d-4d48-a327-827127cbdb82,07ee7c7e-0778-442b-8a3b-345343e3a0d5	,5bd7c116-b78d-4d48-a327-827127cbdb82,2023,12,12,12,GALLONS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,8299f07d-fe8a-477a-8a9f-c751831e799c,07ee7c7e-0778-442b-8a3b-345343e3a0d5	,8299f07d-fe8a-477a-8a9f-c751831e799c,2023,6,6,6,GALLONS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,d18aefd3-c95f-4c58-8b48-2d3eaf0ecd9e,07ee7c7e-0778-442b-8a3b-345343e3a0d5	,d18aefd3-c95f-4c58-8b48-2d3eaf0ecd9e,2023,55,55,55,GALLONS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,0359f2d8-b364-41e9-808f-057fccbc472a,07ee7c7e-0778-442b-8a3b-345343e3a0d5	,0359f2d8-b364-41e9-808f-057fccbc472a,2023,20,15,20,GALLONS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,2cd6b35e-f4bb-437b-bc3e-dbed1ecd5647,bb2138ce-b567-4721-b9dc-cacd5be69285	,2cd6b35e-f4bb-437b-bc3e-dbed1ecd5647,2023,null,null,0,QUARTS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,a9a0f347-ad0f-45e4-bd65-d5cd8d3fe572,bb2138ce-b567-4721-b9dc-cacd5be69285	,a9a0f347-ad0f-45e4-bd65-d5cd8d3fe572,2023,null,30,30,CUBIC_FEET,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,8c42d057-c06a-4d80-8448-65f210b35b48,bb2138ce-b567-4721-b9dc-cacd5be69285	,8c42d057-c06a-4d80-8448-65f210b35b48,2023,null,null,40,CUBIC_FEET,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,45dd3f3d-39b8-4463-879a-98590fe256f1,bb2138ce-b567-4721-b9dc-cacd5be69285	,45dd3f3d-39b8-4463-879a-98590fe256f1,2023,null,null,0,QUARTS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,84d7dd81-8ece-4d3d-bc62-15fe889741a9,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,84d7dd81-8ece-4d3d-bc62-15fe889741a9,2023,null,null,0,GALLONS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,7d0f0a01-9b48-49a1-ad79-566ee2cd0ef3,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,7d0f0a01-9b48-49a1-ad79-566ee2cd0ef3,2023,null,null,0,QUARTS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,e69c1106-bb9b-411c-9fcc-ba5ba4efaa73,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,e69c1106-bb9b-411c-9fcc-ba5ba4efaa73,2023,null,null,0,QUARTS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,b94781fd-ed0e-4dbb-a060-c77f40553a22,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,b94781fd-ed0e-4dbb-a060-c77f40553a22,2023,null,null,0,QUARTS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,9a23671e-c77e-4bca-8efd-014775443cfd,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,9a23671e-c77e-4bca-8efd-014775443cfd,2023,null,null,0,QUARTS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,cee3641c-8ed6-46d1-9099-66385b977e5d,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,cee3641c-8ed6-46d1-9099-66385b977e5d,2023,null,null,0,QUARTS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,713b50e5-e8ce-4249-9b7f-bf94e0acfecf,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,713b50e5-e8ce-4249-9b7f-bf94e0acfecf,2023,null,null,0,QUARTS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,052a71bc-4b6f-4562-9cb6-d6ae8d28d149,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,052a71bc-4b6f-4562-9cb6-d6ae8d28d149,2023,null,null,0,QUARTS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,b4929d0f-0ebd-4c30-9699-be4e72fdf6c9,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,b4929d0f-0ebd-4c30-9699-be4e72fdf6c9,2023,null,null,0,GALLONS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,ea1bf237-4b66-4f16-9fe6-5ca29995d844,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,ea1bf237-4b66-4f16-9fe6-5ca29995d844,2023,null,null,0,GALLONS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,dc115865-c928-4273-9c73-e07b06b07afd,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,dc115865-c928-4273-9c73-e07b06b07afd,2023,null,null,0,POUNDS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,a0c96571-3c9c-4225-8e5c-257bb77482c4,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,a0c96571-3c9c-4225-8e5c-257bb77482c4,2023,null,null,0,POUNDS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,42d94481-e621-4345-ba25-e97ab1308bfb,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,42d94481-e621-4345-ba25-e97ab1308bfb,2023,null,null,0,POUNDS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,6689dd29-5a7b-44cd-be1d-dfc049171140,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,6689dd29-5a7b-44cd-be1d-dfc049171140,2023,null,null,0,POUNDS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,4237ab55-892f-40b7-bebc-45c104ec3c52,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,4237ab55-892f-40b7-bebc-45c104ec3c52,2023,null,null,0,POUNDS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,d26d05d6-92cd-45c0-93cf-0bfcee30bc64,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,d26d05d6-92cd-45c0-93cf-0bfcee30bc64,2023,null,null,0,GALLONS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,90b57b76-2f73-4cde-82bc-afbc4c4c75f8,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,90b57b76-2f73-4cde-82bc-afbc4c4c75f8,2023,null,null,0,POUNDS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,ed0b6258-32e3-4f15-9415-c00b2dba5a3c,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,ed0b6258-32e3-4f15-9415-c00b2dba5a3c,2023,null,null,0,GALLONS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,dd6ade6d-964d-48f6-bf5a-c0bb1212ce56,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,dd6ade6d-964d-48f6-bf5a-c0bb1212ce56,2023,null,null,0,POUNDS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,917df877-3788-4f7e-95e1-4091651064e4,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,917df877-3788-4f7e-95e1-4091651064e4,2023,null,null,0,POUNDS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,8e909a6b-e3fa-4f89-9e95-88e02986b021,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,8e909a6b-e3fa-4f89-9e95-88e02986b021,2023,null,null,0,POUNDS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,9bca6524-da36-49e2-9079-d247e9b2c77b,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,9bca6524-da36-49e2-9079-d247e9b2c77b,2023,null,null,0,POUNDS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,d0b74cac-8d56-4d87-bb59-9eb4ad01ea81,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,d0b74cac-8d56-4d87-bb59-9eb4ad01ea81,2023,null,null,0,POUNDS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,24f28372-dff4-4091-b815-ae9d84801bd0,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,24f28372-dff4-4091-b815-ae9d84801bd0,2023,null,null,0,POUNDS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,a3e98a9b-ac01-4500-a9f8-609df76a1c17,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,a3e98a9b-ac01-4500-a9f8-609df76a1c17,2023,null,null,0,GALLONS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,1e542e06-d909-4cdc-80db-08fc7c33f679,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,1e542e06-d909-4cdc-80db-08fc7c33f679,2023,null,null,0,GALLONS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,b9edad54-9065-4a5c-b8c8-cd95323c0427,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,b9edad54-9065-4a5c-b8c8-cd95323c0427,2023,null,null,0,GALLONS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,0673377f-ed03-4567-b85b-3a92b6fbd822,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,0673377f-ed03-4567-b85b-3a92b6fbd822,2023,null,null,0,GALLONS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,0740b985-3c43-4d88-b84f-acbfa30061ce,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,0740b985-3c43-4d88-b84f-acbfa30061ce,2023,null,null,0,QUARTS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,1904ba9d-283b-4548-80c8-9c62c34afb5f,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,1904ba9d-283b-4548-80c8-9c62c34afb5f,2023,null,null,0,POUNDS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,83916e96-c3cb-4c12-9f75-1a72e38ec3f8,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,83916e96-c3cb-4c12-9f75-1a72e38ec3f8,2023,null,null,0,QUARTS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,5fe8bf3b-1c37-43f4-99c6-b47b5eae783d,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,5fe8bf3b-1c37-43f4-99c6-b47b5eae783d,2023,null,null,0,QUARTS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,e9abc32f-414e-44fe-b3ad-ae5dbb50b073,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,e9abc32f-414e-44fe-b3ad-ae5dbb50b073,2023,null,null,0,GALLONS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,c3951a38-cc3d-4c4c-b61b-3762fcca5281,a4a1b0b4-05e8-4145-bbaf-0120bbb6c76b	,c3951a38-cc3d-4c4c-b61b-3762fcca5281,2023,null,null,0,GALLONS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,246b3be6-d588-4435-bff4-9892e6681ee3,7a12966d-1451-4bf9-a095-9369483ed803	,246b3be6-d588-4435-bff4-9892e6681ee3,2023,null,null,5,QUARTS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,207b2a17-3c5a-4a37-b53a-553226366902,7a12966d-1451-4bf9-a095-9369483ed803	,207b2a17-3c5a-4a37-b53a-553226366902,2023,null,null,0,GALLONS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,18daf51b-44ec-48e3-b40c-92849b0a351d,7a12966d-1451-4bf9-a095-9369483ed803	,18daf51b-44ec-48e3-b40c-92849b0a351d,2023,null,null,1,GALLONS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,0359f2d8-b364-41e9-808f-057fccbc472a,7a12966d-1451-4bf9-a095-9369483ed803	,0359f2d8-b364-41e9-808f-057fccbc472a,2023,null,null,0,GALLONS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,02f8c2ef-eead-446c-b94a-0e7a2c9f05fc,74f1625b-e4bc-4f7c-963f-064e73e78b14	,02f8c2ef-eead-446c-b94a-0e7a2c9f05fc,2023,null,null,0,POUNDS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,b2b86b09-dfc8-4f50-a085-fa2a8d5aed29,74f1625b-e4bc-4f7c-963f-064e73e78b14	,b2b86b09-dfc8-4f50-a085-fa2a8d5aed29,2023,null,null,0,QUARTS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,17f18c68-f18e-4816-b688-cce9146f600f,74f1625b-e4bc-4f7c-963f-064e73e78b14	,17f18c68-f18e-4816-b688-cce9146f600f,2023,null,null,0,GALLONS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,1b5c2c64-07f9-4b52-99bd-c76955f82a53,74f1625b-e4bc-4f7c-963f-064e73e78b14	,1b5c2c64-07f9-4b52-99bd-c76955f82a53,2023,null,null,0,QUARTS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,1ac8482b-6ee8-438b-9fa2-8674a64d7fd9,74f1625b-e4bc-4f7c-963f-064e73e78b14	,1ac8482b-6ee8-438b-9fa2-8674a64d7fd9,2023,null,null,0,QUARTS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,07afe417-069f-4b6e-853d-b98ef275c3a3,74f1625b-e4bc-4f7c-963f-064e73e78b14	,07afe417-069f-4b6e-853d-b98ef275c3a3,2023,null,null,0,QUARTS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,75c51bf1-4f3d-4731-bd5d-5e1feb13eab1,74f1625b-e4bc-4f7c-963f-064e73e78b14	,75c51bf1-4f3d-4731-bd5d-5e1feb13eab1,2023,null,null,0,QUARTS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,9bfe396e-90c0-45d7-a52a-3ec7c77fccbc,74f1625b-e4bc-4f7c-963f-064e73e78b14	,9bfe396e-90c0-45d7-a52a-3ec7c77fccbc,2023,null,null,0,QUARTS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,a96ce9aa-c27f-4b17-855d-5e0506bef5aa,74f1625b-e4bc-4f7c-963f-064e73e78b14	,a96ce9aa-c27f-4b17-855d-5e0506bef5aa,2023,null,null,0,LITERS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,2b0ad827-79b5-4bf5-bb3e-db2e29891396,74f1625b-e4bc-4f7c-963f-064e73e78b14	,2b0ad827-79b5-4bf5-bb3e-db2e29891396,2023,null,null,0,QUARTS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,aed4139d-dc3f-4d43-b411-8918908c826c,74f1625b-e4bc-4f7c-963f-064e73e78b14	,aed4139d-dc3f-4d43-b411-8918908c826c,2023,null,null,0,QUARTS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,03f21280-c454-4740-861a-0d31e6e1c67d,74f1625b-e4bc-4f7c-963f-064e73e78b14	,03f21280-c454-4740-861a-0d31e6e1c67d,2023,null,null,0,GALLONS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,bac56512-7522-436d-ad6f-561c1aedba87,74f1625b-e4bc-4f7c-963f-064e73e78b14	,bac56512-7522-436d-ad6f-561c1aedba87,2023,null,null,0,QUARTS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,1cce87ae-3ea6-4d73-8a38-6655339f2602,74f1625b-e4bc-4f7c-963f-064e73e78b14	,1cce87ae-3ea6-4d73-8a38-6655339f2602,2023,null,null,0,GALLONS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,74c03b3c-c305-43f4-81d3-e13c623af6f8,74f1625b-e4bc-4f7c-963f-064e73e78b14	,74c03b3c-c305-43f4-81d3-e13c623af6f8,2023,null,null,0,QUARTS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,b95b2b7e-cdf2-44ee-ab51-8ac37cede367,74f1625b-e4bc-4f7c-963f-064e73e78b14	,b95b2b7e-cdf2-44ee-ab51-8ac37cede367,2023,null,null,0,QUARTS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,cd13e8ff-1977-4e83-93e2-4022e767c5dd,74f1625b-e4bc-4f7c-963f-064e73e78b14	,cd13e8ff-1977-4e83-93e2-4022e767c5dd,2023,null,null,0,QUARTS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,3aae5e42-9652-486f-af57-5140338b0224,49c6661c-7425-4e9f-934c-5cc50781ff01	,3aae5e42-9652-486f-af57-5140338b0224,2023,null,null,0,GALLONS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,153ced20-8caa-4057-8965-d390abf0b356,44439b28-57c8-45bd-86ef-b9e024f1e2a2	,153ced20-8caa-4057-8965-d390abf0b356,2023,1,1,250,GALLONS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,b24480dd-dac6-422a-9130-767d9770029c,44439b28-57c8-45bd-86ef-b9e024f1e2a2	,b24480dd-dac6-422a-9130-767d9770029c,2023,null,null,1,GALLONS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,4b3f0dd6-40bc-458d-9350-e57e371d1d62,44439b28-57c8-45bd-86ef-b9e024f1e2a2	,4b3f0dd6-40bc-458d-9350-e57e371d1d62,2023,null,null,20,QUARTS,365,false,true
+883b7124-9c13-41ff-a6ee-341efbcde9ca,4293fb33-e4f2-4016-8d3b-6270b97924f6,e4a7984d-efb8-451e-8628-7f17580ba8a6	,4293fb33-e4f2-4016-8d3b-6270b97924f6,2023,2000,1000,2000,GALLONS,365,false,true
