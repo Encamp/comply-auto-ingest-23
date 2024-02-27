@@ -1,218 +1,218 @@
 Facility ID,Chemical ID,Reporting Year,Key,Value,Extension Type
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,0537f744-a6d6-42d7-ae29-00322fb0a473,2023,commonName,Power Steering Fluid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,0613f9a5-95ef-44fa-9411-8fffc83d8ece,2023,commonName,Automatic Transmission Fluid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,10c85505-fa72-4b6d-bd53-4a27671e601e,2023,commonName,motor oil,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,1ebe6750-af13-46df-a42d-399819628266,2023,commonName,Brake Cleaner,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,1f803b93-2902-43e4-baab-e31836b88d06,2023,commonName,vacuum pump oil,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,26771274-bcc2-43a3-b71b-bc8eca582915,2023,commonName,Brake fluid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,4acf93ba-ac3d-4add-b8e6-e4e750126c1d,2023,commonName,Oil Dye,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,4e4f5b00-cd2d-4893-997e-dfb24e1862ea,2023,commonName,motor oil,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,53e1e898-2919-40bd-9faa-75f20a741d10,2023,commonName,Fuel Injector Cleaner,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,56fde5d5-f121-4280-8b72-1d7e9d4216ad,2023,commonName,motor oil,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,5e81e2e0-d60d-4ffb-856a-c3317361f15f,2023,commonName,Used Batteries,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,6320a1e3-f459-4306-8d1d-7139b18893bf,2023,commonName,Used oil,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,69e6ccbe-4183-45f7-80fd-f3d480b4b754,2023,commonName,gasoline,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,70e01d10-5a77-461b-91a0-dd159002a79c,2023,commonName,Tool Oil,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,74e690ab-a5e5-4d65-a965-b38ddd9d583a,2023,commonName,motor oil,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,721e8ba0-b7f2-4b2f-a0f2-09f0853d7bd5,2023,commonName,Top Engine Cleaner,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,74404669-a4b5-47d0-9da1-c9952c712b20,2023,commonName,motor oil,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,89521e1c-db91-49cf-b7c5-df060718b675,2023,commonName,hydraulic oil,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,7eaf6383-7c9f-4a7e-8d68-c2b5d4f739fe,2023,commonName,Compressor Oil,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,7f4b554e-366f-4445-b95b-9a3043d7c553,2023,commonName,Brake fluid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,85d15a05-7544-40f0-b928-6177c44d2482,2023,commonName,motor oil,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,89fe1e37-6138-456b-a491-f0a33fe1d86b,2023,commonName,coolant,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,94df53b9-0414-4f6c-9586-c77f2d74fdcb,2023,commonName,power steering fluid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,b16beaf2-55e4-47e9-a2a0-d15132af2d12,2023,commonName,motor oil,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,b1cde203-6b39-49f5-b3a0-66ff356e3785,2023,commonName,motor oil,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,b61888ab-87f8-4a78-9a07-aac3480afd96,2023,commonName,motor oil,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,beb05719-235b-42fc-b535-44548ec9d144,2023,commonName,motor oil,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,c3efd744-5917-4e8a-b078-a36e75280d61,2023,commonName,coolant,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,c66a3020-1fd7-44c5-a326-25aa21dacd65,2023,commonName,coolant,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,d11cbdf3-7a8d-403b-8f59-04e578f137c0,2023,commonName,Brake Cleaner,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,d9bd936e-b8e1-46b1-b01f-aa12484b0349,2023,commonName,waste coolant,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,0537f744-a6d6-42d7-ae29-00322fb0a473,2023,radioactive,no,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,0613f9a5-95ef-44fa-9411-8fffc83d8ece,2023,radioactive,no,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,10c85505-fa72-4b6d-bd53-4a27671e601e,2023,radioactive,no,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,1ebe6750-af13-46df-a42d-399819628266,2023,radioactive,no,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,1f803b93-2902-43e4-baab-e31836b88d06,2023,radioactive,no,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,26771274-bcc2-43a3-b71b-bc8eca582915,2023,radioactive,no,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,4acf93ba-ac3d-4add-b8e6-e4e750126c1d,2023,radioactive,no,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,4e4f5b00-cd2d-4893-997e-dfb24e1862ea,2023,radioactive,no,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,53e1e898-2919-40bd-9faa-75f20a741d10,2023,radioactive,Not Applicable,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,56fde5d5-f121-4280-8b72-1d7e9d4216ad,2023,radioactive,no,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,5e81e2e0-d60d-4ffb-856a-c3317361f15f,2023,radioactive,Not Applicable,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,6320a1e3-f459-4306-8d1d-7139b18893bf,2023,radioactive,no,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,69e6ccbe-4183-45f7-80fd-f3d480b4b754,2023,radioactive,no,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,70e01d10-5a77-461b-91a0-dd159002a79c,2023,radioactive,no,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,721e8ba0-b7f2-4b2f-a0f2-09f0853d7bd5,2023,radioactive,no,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,74404669-a4b5-47d0-9da1-c9952c712b20,2023,radioactive,no,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,74e690ab-a5e5-4d65-a965-b38ddd9d583a,2023,radioactive,Not Applicable,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,7f4b554e-366f-4445-b95b-9a3043d7c553,2023,radioactive,no,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,89521e1c-db91-49cf-b7c5-df060718b675,2023,radioactive,no,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,7eaf6383-7c9f-4a7e-8d68-c2b5d4f739fe,2023,radioactive,no,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,85d15a05-7544-40f0-b928-6177c44d2482,2023,radioactive,Not Applicable,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,89fe1e37-6138-456b-a491-f0a33fe1d86b,2023,radioactive,no,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,94df53b9-0414-4f6c-9586-c77f2d74fdcb,2023,radioactive,no,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,b16beaf2-55e4-47e9-a2a0-d15132af2d12,2023,radioactive,no,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,b1cde203-6b39-49f5-b3a0-66ff356e3785,2023,radioactive,no,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,b61888ab-87f8-4a78-9a07-aac3480afd96,2023,radioactive,no,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,beb05719-235b-42fc-b535-44548ec9d144,2023,radioactive,no,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,c3efd744-5917-4e8a-b078-a36e75280d61,2023,radioactive,no,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,c66a3020-1fd7-44c5-a326-25aa21dacd65,2023,radioactive,no,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,d11cbdf3-7a8d-403b-8f59-04e578f137c0,2023,radioactive,no,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,d9bd936e-b8e1-46b1-b01f-aa12484b0349,2023,radioactive,no,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,0537f744-a6d6-42d7-ae29-00322fb0a473,2023,curies,n/a,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,0613f9a5-95ef-44fa-9411-8fffc83d8ece,2023,curies,n/a,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,10c85505-fa72-4b6d-bd53-4a27671e601e,2023,curies,n/a,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,1ebe6750-af13-46df-a42d-399819628266,2023,curies,n/a,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,1f803b93-2902-43e4-baab-e31836b88d06,2023,curies,n/a,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,26771274-bcc2-43a3-b71b-bc8eca582915,2023,curies,n/a,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,4acf93ba-ac3d-4add-b8e6-e4e750126c1d,2023,curies,n/a,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,4e4f5b00-cd2d-4893-997e-dfb24e1862ea,2023,curies,n/a,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,53e1e898-2919-40bd-9faa-75f20a741d10,2023,curies,n/a,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,56fde5d5-f121-4280-8b72-1d7e9d4216ad,2023,curies,n/a,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,5e81e2e0-d60d-4ffb-856a-c3317361f15f,2023,curies,n/a,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,6320a1e3-f459-4306-8d1d-7139b18893bf,2023,curies,n/a,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,69e6ccbe-4183-45f7-80fd-f3d480b4b754,2023,curies,n/a,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,70e01d10-5a77-461b-91a0-dd159002a79c,2023,curies,n/a,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,721e8ba0-b7f2-4b2f-a0f2-09f0853d7bd5,2023,curies,n/a,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,74e690ab-a5e5-4d65-a965-b38ddd9d583a,2023,curies,n/a,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,74404669-a4b5-47d0-9da1-c9952c712b20,2023,curies,n/a,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,89521e1c-db91-49cf-b7c5-df060718b675,2023,curies,n/a,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,7eaf6383-7c9f-4a7e-8d68-c2b5d4f739fe,2023,curies,n/a,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,7f4b554e-366f-4445-b95b-9a3043d7c553,2023,curies,n/a,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,85d15a05-7544-40f0-b928-6177c44d2482,2023,curies,n/a,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,89fe1e37-6138-456b-a491-f0a33fe1d86b,2023,curies,n/a,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,94df53b9-0414-4f6c-9586-c77f2d74fdcb,2023,curies,n/a,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,b16beaf2-55e4-47e9-a2a0-d15132af2d12,2023,curies,n/a,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,b1cde203-6b39-49f5-b3a0-66ff356e3785,2023,curies,n/a,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,b61888ab-87f8-4a78-9a07-aac3480afd96,2023,curies,n/a,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,beb05719-235b-42fc-b535-44548ec9d144,2023,curies,n/a,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,c3efd744-5917-4e8a-b078-a36e75280d61,2023,curies,n/a,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,c66a3020-1fd7-44c5-a326-25aa21dacd65,2023,curies,n/a,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,d11cbdf3-7a8d-403b-8f59-04e578f137c0,2023,curies,n/a,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,d9bd936e-b8e1-46b1-b01f-aa12484b0349,2023,curies,n/a,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,0537f744-a6d6-42d7-ae29-00322fb0a473,2023,physicalStateInTransit,Liquid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,0613f9a5-95ef-44fa-9411-8fffc83d8ece,2023,physicalStateInTransit,liquid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,10c85505-fa72-4b6d-bd53-4a27671e601e,2023,physicalStateInTransit,liquid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,1ebe6750-af13-46df-a42d-399819628266,2023,physicalStateInTransit,aerosol can,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,1f803b93-2902-43e4-baab-e31836b88d06,2023,physicalStateInTransit,liquid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,26771274-bcc2-43a3-b71b-bc8eca582915,2023,physicalStateInTransit,liquid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,4acf93ba-ac3d-4add-b8e6-e4e750126c1d,2023,physicalStateInTransit,liquid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,4e4f5b00-cd2d-4893-997e-dfb24e1862ea,2023,physicalStateInTransit,liquid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,53e1e898-2919-40bd-9faa-75f20a741d10,2023,physicalStateInTransit,liquid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,56fde5d5-f121-4280-8b72-1d7e9d4216ad,2023,physicalStateInTransit,liquid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,5e81e2e0-d60d-4ffb-856a-c3317361f15f,2023,physicalStateInTransit,solid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,6320a1e3-f459-4306-8d1d-7139b18893bf,2023,physicalStateInTransit,liquid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,69e6ccbe-4183-45f7-80fd-f3d480b4b754,2023,physicalStateInTransit,liquid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,70e01d10-5a77-461b-91a0-dd159002a79c,2023,physicalStateInTransit,liquid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,721e8ba0-b7f2-4b2f-a0f2-09f0853d7bd5,2023,physicalStateInTransit,liquid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,74404669-a4b5-47d0-9da1-c9952c712b20,2023,physicalStateInTransit,liquid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,74e690ab-a5e5-4d65-a965-b38ddd9d583a,2023,physicalStateInTransit,liquid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,7f4b554e-366f-4445-b95b-9a3043d7c553,2023,physicalStateInTransit,liquid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,89521e1c-db91-49cf-b7c5-df060718b675,2023,physicalStateInTransit,liquid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,7eaf6383-7c9f-4a7e-8d68-c2b5d4f739fe,2023,physicalStateInTransit,liquid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,85d15a05-7544-40f0-b928-6177c44d2482,2023,physicalStateInTransit,liquid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,89fe1e37-6138-456b-a491-f0a33fe1d86b,2023,physicalStateInTransit,liquid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,94df53b9-0414-4f6c-9586-c77f2d74fdcb,2023,physicalStateInTransit,liquid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,b16beaf2-55e4-47e9-a2a0-d15132af2d12,2023,physicalStateInTransit,liquid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,b1cde203-6b39-49f5-b3a0-66ff356e3785,2023,physicalStateInTransit,liquid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,b61888ab-87f8-4a78-9a07-aac3480afd96,2023,physicalStateInTransit,liquid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,beb05719-235b-42fc-b535-44548ec9d144,2023,physicalStateInTransit,liquid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,c3efd744-5917-4e8a-b078-a36e75280d61,2023,physicalStateInTransit,liquid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,c66a3020-1fd7-44c5-a326-25aa21dacd65,2023,physicalStateInTransit,liquid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,d11cbdf3-7a8d-403b-8f59-04e578f137c0,2023,physicalStateInTransit,aerosol can,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,d9bd936e-b8e1-46b1-b01f-aa12484b0349,2023,physicalStateInTransit,liquid,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,0537f744-a6d6-42d7-ae29-00322fb0a473,2023,annualWasteAmount,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,0613f9a5-95ef-44fa-9411-8fffc83d8ece,2023,annualWasteAmount,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,10c85505-fa72-4b6d-bd53-4a27671e601e,2023,annualWasteAmount,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,1ebe6750-af13-46df-a42d-399819628266,2023,annualWasteAmount,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,1f803b93-2902-43e4-baab-e31836b88d06,2023,annualWasteAmount,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,26771274-bcc2-43a3-b71b-bc8eca582915,2023,annualWasteAmount,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,4acf93ba-ac3d-4add-b8e6-e4e750126c1d,2023,annualWasteAmount,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,4e4f5b00-cd2d-4893-997e-dfb24e1862ea,2023,annualWasteAmount,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,53e1e898-2919-40bd-9faa-75f20a741d10,2023,annualWasteAmount,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,56fde5d5-f121-4280-8b72-1d7e9d4216ad,2023,annualWasteAmount,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,5e81e2e0-d60d-4ffb-856a-c3317361f15f,2023,annualWasteAmount,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,6320a1e3-f459-4306-8d1d-7139b18893bf,2023,annualWasteAmount,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,69e6ccbe-4183-45f7-80fd-f3d480b4b754,2023,annualWasteAmount,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,70e01d10-5a77-461b-91a0-dd159002a79c,2023,annualWasteAmount,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,74e690ab-a5e5-4d65-a965-b38ddd9d583a,2023,annualWasteAmount,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,721e8ba0-b7f2-4b2f-a0f2-09f0853d7bd5,2023,annualWasteAmount,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,74404669-a4b5-47d0-9da1-c9952c712b20,2023,annualWasteAmount,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,89521e1c-db91-49cf-b7c5-df060718b675,2023,annualWasteAmount,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,7eaf6383-7c9f-4a7e-8d68-c2b5d4f739fe,2023,annualWasteAmount,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,7f4b554e-366f-4445-b95b-9a3043d7c553,2023,annualWasteAmount,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,85d15a05-7544-40f0-b928-6177c44d2482,2023,annualWasteAmount,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,89fe1e37-6138-456b-a491-f0a33fe1d86b,2023,annualWasteAmount,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,94df53b9-0414-4f6c-9586-c77f2d74fdcb,2023,annualWasteAmount,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,b16beaf2-55e4-47e9-a2a0-d15132af2d12,2023,annualWasteAmount,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,b1cde203-6b39-49f5-b3a0-66ff356e3785,2023,annualWasteAmount,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,b61888ab-87f8-4a78-9a07-aac3480afd96,2023,annualWasteAmount,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,beb05719-235b-42fc-b535-44548ec9d144,2023,annualWasteAmount,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,c3efd744-5917-4e8a-b078-a36e75280d61,2023,annualWasteAmount,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,c66a3020-1fd7-44c5-a326-25aa21dacd65,2023,annualWasteAmount,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,d11cbdf3-7a8d-403b-8f59-04e578f137c0,2023,annualWasteAmount,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,d9bd936e-b8e1-46b1-b01f-aa12484b0349,2023,annualWasteAmount,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,0537f744-a6d6-42d7-ae29-00322fb0a473,2023,stateWasteCode,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,0613f9a5-95ef-44fa-9411-8fffc83d8ece,2023,stateWasteCode,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,10c85505-fa72-4b6d-bd53-4a27671e601e,2023,stateWasteCode,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,1ebe6750-af13-46df-a42d-399819628266,2023,stateWasteCode,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,1f803b93-2902-43e4-baab-e31836b88d06,2023,stateWasteCode,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,26771274-bcc2-43a3-b71b-bc8eca582915,2023,stateWasteCode,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,4e4f5b00-cd2d-4893-997e-dfb24e1862ea,2023,stateWasteCode,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,4acf93ba-ac3d-4add-b8e6-e4e750126c1d,2023,stateWasteCode,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,53e1e898-2919-40bd-9faa-75f20a741d10,2023,stateWasteCode,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,56fde5d5-f121-4280-8b72-1d7e9d4216ad,2023,stateWasteCode,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,5e81e2e0-d60d-4ffb-856a-c3317361f15f,2023,stateWasteCode,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,6320a1e3-f459-4306-8d1d-7139b18893bf,2023,stateWasteCode,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,69e6ccbe-4183-45f7-80fd-f3d480b4b754,2023,stateWasteCode,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,70e01d10-5a77-461b-91a0-dd159002a79c,2023,stateWasteCode,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,721e8ba0-b7f2-4b2f-a0f2-09f0853d7bd5,2023,stateWasteCode,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,74404669-a4b5-47d0-9da1-c9952c712b20,2023,stateWasteCode,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,74e690ab-a5e5-4d65-a965-b38ddd9d583a,2023,stateWasteCode,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,7f4b554e-366f-4445-b95b-9a3043d7c553,2023,stateWasteCode,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,89521e1c-db91-49cf-b7c5-df060718b675,2023,stateWasteCode,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,7eaf6383-7c9f-4a7e-8d68-c2b5d4f739fe,2023,stateWasteCode,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,85d15a05-7544-40f0-b928-6177c44d2482,2023,stateWasteCode,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,89fe1e37-6138-456b-a491-f0a33fe1d86b,2023,stateWasteCode,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,94df53b9-0414-4f6c-9586-c77f2d74fdcb,2023,stateWasteCode,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,b16beaf2-55e4-47e9-a2a0-d15132af2d12,2023,stateWasteCode,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,b1cde203-6b39-49f5-b3a0-66ff356e3785,2023,stateWasteCode,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,b61888ab-87f8-4a78-9a07-aac3480afd96,2023,stateWasteCode,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,beb05719-235b-42fc-b535-44548ec9d144,2023,stateWasteCode,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,c3efd744-5917-4e8a-b078-a36e75280d61,2023,stateWasteCode,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,c66a3020-1fd7-44c5-a326-25aa21dacd65,2023,stateWasteCode,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,d11cbdf3-7a8d-403b-8f59-04e578f137c0,2023,stateWasteCode,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,d9bd936e-b8e1-46b1-b01f-aa12484b0349,2023,stateWasteCode,unknown,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,0537f744-a6d6-42d7-ae29-00322fb0a473,2023,daysOnSite,365,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,0613f9a5-95ef-44fa-9411-8fffc83d8ece,2023,daysOnSite,365,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,10c85505-fa72-4b6d-bd53-4a27671e601e,2023,daysOnSite,365,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,1ebe6750-af13-46df-a42d-399819628266,2023,daysOnSite,365,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,1f803b93-2902-43e4-baab-e31836b88d06,2023,daysOnSite,365,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,26771274-bcc2-43a3-b71b-bc8eca582915,2023,daysOnSite,365,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,4acf93ba-ac3d-4add-b8e6-e4e750126c1d,2023,daysOnSite,365,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,4e4f5b00-cd2d-4893-997e-dfb24e1862ea,2023,daysOnSite,365,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,53e1e898-2919-40bd-9faa-75f20a741d10,2023,daysOnSite,365,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,56fde5d5-f121-4280-8b72-1d7e9d4216ad,2023,daysOnSite,365,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,5e81e2e0-d60d-4ffb-856a-c3317361f15f,2023,daysOnSite,365,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,6320a1e3-f459-4306-8d1d-7139b18893bf,2023,daysOnSite,365,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,69e6ccbe-4183-45f7-80fd-f3d480b4b754,2023,daysOnSite,365,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,70e01d10-5a77-461b-91a0-dd159002a79c,2023,daysOnSite,365,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,721e8ba0-b7f2-4b2f-a0f2-09f0853d7bd5,2023,daysOnSite,365,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,74e690ab-a5e5-4d65-a965-b38ddd9d583a,2023,daysOnSite,365,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,74404669-a4b5-47d0-9da1-c9952c712b20,2023,daysOnSite,365,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,89521e1c-db91-49cf-b7c5-df060718b675,2023,daysOnSite,365,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,7eaf6383-7c9f-4a7e-8d68-c2b5d4f739fe,2023,daysOnSite,365,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,7f4b554e-366f-4445-b95b-9a3043d7c553,2023,daysOnSite,365,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,85d15a05-7544-40f0-b928-6177c44d2482,2023,daysOnSite,365,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,89fe1e37-6138-456b-a491-f0a33fe1d86b,2023,daysOnSite,365,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,94df53b9-0414-4f6c-9586-c77f2d74fdcb,2023,daysOnSite,365,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,b16beaf2-55e4-47e9-a2a0-d15132af2d12,2023,daysOnSite,365,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,b1cde203-6b39-49f5-b3a0-66ff356e3785,2023,daysOnSite,365,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,b61888ab-87f8-4a78-9a07-aac3480afd96,2023,daysOnSite,365,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,beb05719-235b-42fc-b535-44548ec9d144,2023,daysOnSite,365,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,c3efd744-5917-4e8a-b078-a36e75280d61,2023,daysOnSite,365,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,c66a3020-1fd7-44c5-a326-25aa21dacd65,2023,daysOnSite,365,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,d11cbdf3-7a8d-403b-8f59-04e578f137c0,2023,daysOnSite,365,EPCRA
-6b1694cf-9f1b-4cf3-b267-9d08ca040723,d9bd936e-b8e1-46b1-b01f-aa12484b0349,2023,daysOnSite,365,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,0537f744-a6d6-42d7-ae29-00322fb0a473,2023,commonName,Power Steering Fluid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,0613f9a5-95ef-44fa-9411-8fffc83d8ece,2023,commonName,Automatic Transmission Fluid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,10c85505-fa72-4b6d-bd53-4a27671e601e,2023,commonName,motor oil,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,1ebe6750-af13-46df-a42d-399819628266,2023,commonName,Brake Cleaner,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,1f803b93-2902-43e4-baab-e31836b88d06,2023,commonName,vacuum pump oil,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,26771274-bcc2-43a3-b71b-bc8eca582915,2023,commonName,Brake fluid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,4acf93ba-ac3d-4add-b8e6-e4e750126c1d,2023,commonName,Oil Dye,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,4e4f5b00-cd2d-4893-997e-dfb24e1862ea,2023,commonName,motor oil,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,53e1e898-2919-40bd-9faa-75f20a741d10,2023,commonName,Fuel Injector Cleaner,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,56fde5d5-f121-4280-8b72-1d7e9d4216ad,2023,commonName,motor oil,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,5e81e2e0-d60d-4ffb-856a-c3317361f15f,2023,commonName,Used Batteries,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,6320a1e3-f459-4306-8d1d-7139b18893bf,2023,commonName,Used oil,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,69e6ccbe-4183-45f7-80fd-f3d480b4b754,2023,commonName,gasoline,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,70e01d10-5a77-461b-91a0-dd159002a79c,2023,commonName,Tool Oil,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,74e690ab-a5e5-4d65-a965-b38ddd9d583a,2023,commonName,motor oil,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,721e8ba0-b7f2-4b2f-a0f2-09f0853d7bd5,2023,commonName,Top Engine Cleaner,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,74404669-a4b5-47d0-9da1-c9952c712b20,2023,commonName,motor oil,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,89521e1c-db91-49cf-b7c5-df060718b675,2023,commonName,hydraulic oil,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,7eaf6383-7c9f-4a7e-8d68-c2b5d4f739fe,2023,commonName,Compressor Oil,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,7f4b554e-366f-4445-b95b-9a3043d7c553,2023,commonName,Brake fluid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,85d15a05-7544-40f0-b928-6177c44d2482,2023,commonName,motor oil,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,89fe1e37-6138-456b-a491-f0a33fe1d86b,2023,commonName,coolant,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,94df53b9-0414-4f6c-9586-c77f2d74fdcb,2023,commonName,power steering fluid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,b16beaf2-55e4-47e9-a2a0-d15132af2d12,2023,commonName,motor oil,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,b1cde203-6b39-49f5-b3a0-66ff356e3785,2023,commonName,motor oil,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,b61888ab-87f8-4a78-9a07-aac3480afd96,2023,commonName,motor oil,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,beb05719-235b-42fc-b535-44548ec9d144,2023,commonName,motor oil,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,c3efd744-5917-4e8a-b078-a36e75280d61,2023,commonName,coolant,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,c66a3020-1fd7-44c5-a326-25aa21dacd65,2023,commonName,coolant,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,d11cbdf3-7a8d-403b-8f59-04e578f137c0,2023,commonName,Brake Cleaner,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,d9bd936e-b8e1-46b1-b01f-aa12484b0349,2023,commonName,waste coolant,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,0537f744-a6d6-42d7-ae29-00322fb0a473,2023,radioactive,no,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,0613f9a5-95ef-44fa-9411-8fffc83d8ece,2023,radioactive,no,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,10c85505-fa72-4b6d-bd53-4a27671e601e,2023,radioactive,no,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,1ebe6750-af13-46df-a42d-399819628266,2023,radioactive,no,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,1f803b93-2902-43e4-baab-e31836b88d06,2023,radioactive,no,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,26771274-bcc2-43a3-b71b-bc8eca582915,2023,radioactive,no,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,4acf93ba-ac3d-4add-b8e6-e4e750126c1d,2023,radioactive,no,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,4e4f5b00-cd2d-4893-997e-dfb24e1862ea,2023,radioactive,no,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,53e1e898-2919-40bd-9faa-75f20a741d10,2023,radioactive,Not Applicable,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,56fde5d5-f121-4280-8b72-1d7e9d4216ad,2023,radioactive,no,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,5e81e2e0-d60d-4ffb-856a-c3317361f15f,2023,radioactive,Not Applicable,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,6320a1e3-f459-4306-8d1d-7139b18893bf,2023,radioactive,no,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,69e6ccbe-4183-45f7-80fd-f3d480b4b754,2023,radioactive,no,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,70e01d10-5a77-461b-91a0-dd159002a79c,2023,radioactive,no,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,721e8ba0-b7f2-4b2f-a0f2-09f0853d7bd5,2023,radioactive,no,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,74404669-a4b5-47d0-9da1-c9952c712b20,2023,radioactive,no,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,74e690ab-a5e5-4d65-a965-b38ddd9d583a,2023,radioactive,Not Applicable,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,7f4b554e-366f-4445-b95b-9a3043d7c553,2023,radioactive,no,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,89521e1c-db91-49cf-b7c5-df060718b675,2023,radioactive,no,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,7eaf6383-7c9f-4a7e-8d68-c2b5d4f739fe,2023,radioactive,no,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,85d15a05-7544-40f0-b928-6177c44d2482,2023,radioactive,Not Applicable,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,89fe1e37-6138-456b-a491-f0a33fe1d86b,2023,radioactive,no,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,94df53b9-0414-4f6c-9586-c77f2d74fdcb,2023,radioactive,no,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,b16beaf2-55e4-47e9-a2a0-d15132af2d12,2023,radioactive,no,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,b1cde203-6b39-49f5-b3a0-66ff356e3785,2023,radioactive,no,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,b61888ab-87f8-4a78-9a07-aac3480afd96,2023,radioactive,no,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,beb05719-235b-42fc-b535-44548ec9d144,2023,radioactive,no,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,c3efd744-5917-4e8a-b078-a36e75280d61,2023,radioactive,no,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,c66a3020-1fd7-44c5-a326-25aa21dacd65,2023,radioactive,no,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,d11cbdf3-7a8d-403b-8f59-04e578f137c0,2023,radioactive,no,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,d9bd936e-b8e1-46b1-b01f-aa12484b0349,2023,radioactive,no,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,0537f744-a6d6-42d7-ae29-00322fb0a473,2023,curies,n/a,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,0613f9a5-95ef-44fa-9411-8fffc83d8ece,2023,curies,n/a,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,10c85505-fa72-4b6d-bd53-4a27671e601e,2023,curies,n/a,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,1ebe6750-af13-46df-a42d-399819628266,2023,curies,n/a,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,1f803b93-2902-43e4-baab-e31836b88d06,2023,curies,n/a,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,26771274-bcc2-43a3-b71b-bc8eca582915,2023,curies,n/a,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,4acf93ba-ac3d-4add-b8e6-e4e750126c1d,2023,curies,n/a,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,4e4f5b00-cd2d-4893-997e-dfb24e1862ea,2023,curies,n/a,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,53e1e898-2919-40bd-9faa-75f20a741d10,2023,curies,n/a,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,56fde5d5-f121-4280-8b72-1d7e9d4216ad,2023,curies,n/a,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,5e81e2e0-d60d-4ffb-856a-c3317361f15f,2023,curies,n/a,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,6320a1e3-f459-4306-8d1d-7139b18893bf,2023,curies,n/a,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,69e6ccbe-4183-45f7-80fd-f3d480b4b754,2023,curies,n/a,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,70e01d10-5a77-461b-91a0-dd159002a79c,2023,curies,n/a,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,721e8ba0-b7f2-4b2f-a0f2-09f0853d7bd5,2023,curies,n/a,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,74e690ab-a5e5-4d65-a965-b38ddd9d583a,2023,curies,n/a,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,74404669-a4b5-47d0-9da1-c9952c712b20,2023,curies,n/a,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,89521e1c-db91-49cf-b7c5-df060718b675,2023,curies,n/a,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,7eaf6383-7c9f-4a7e-8d68-c2b5d4f739fe,2023,curies,n/a,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,7f4b554e-366f-4445-b95b-9a3043d7c553,2023,curies,n/a,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,85d15a05-7544-40f0-b928-6177c44d2482,2023,curies,n/a,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,89fe1e37-6138-456b-a491-f0a33fe1d86b,2023,curies,n/a,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,94df53b9-0414-4f6c-9586-c77f2d74fdcb,2023,curies,n/a,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,b16beaf2-55e4-47e9-a2a0-d15132af2d12,2023,curies,n/a,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,b1cde203-6b39-49f5-b3a0-66ff356e3785,2023,curies,n/a,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,b61888ab-87f8-4a78-9a07-aac3480afd96,2023,curies,n/a,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,beb05719-235b-42fc-b535-44548ec9d144,2023,curies,n/a,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,c3efd744-5917-4e8a-b078-a36e75280d61,2023,curies,n/a,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,c66a3020-1fd7-44c5-a326-25aa21dacd65,2023,curies,n/a,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,d11cbdf3-7a8d-403b-8f59-04e578f137c0,2023,curies,n/a,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,d9bd936e-b8e1-46b1-b01f-aa12484b0349,2023,curies,n/a,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,0537f744-a6d6-42d7-ae29-00322fb0a473,2023,physicalStateInTransit,Liquid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,0613f9a5-95ef-44fa-9411-8fffc83d8ece,2023,physicalStateInTransit,liquid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,10c85505-fa72-4b6d-bd53-4a27671e601e,2023,physicalStateInTransit,liquid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,1ebe6750-af13-46df-a42d-399819628266,2023,physicalStateInTransit,aerosol can,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,1f803b93-2902-43e4-baab-e31836b88d06,2023,physicalStateInTransit,liquid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,26771274-bcc2-43a3-b71b-bc8eca582915,2023,physicalStateInTransit,liquid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,4acf93ba-ac3d-4add-b8e6-e4e750126c1d,2023,physicalStateInTransit,liquid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,4e4f5b00-cd2d-4893-997e-dfb24e1862ea,2023,physicalStateInTransit,liquid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,53e1e898-2919-40bd-9faa-75f20a741d10,2023,physicalStateInTransit,liquid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,56fde5d5-f121-4280-8b72-1d7e9d4216ad,2023,physicalStateInTransit,liquid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,5e81e2e0-d60d-4ffb-856a-c3317361f15f,2023,physicalStateInTransit,solid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,6320a1e3-f459-4306-8d1d-7139b18893bf,2023,physicalStateInTransit,liquid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,69e6ccbe-4183-45f7-80fd-f3d480b4b754,2023,physicalStateInTransit,liquid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,70e01d10-5a77-461b-91a0-dd159002a79c,2023,physicalStateInTransit,liquid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,721e8ba0-b7f2-4b2f-a0f2-09f0853d7bd5,2023,physicalStateInTransit,liquid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,74404669-a4b5-47d0-9da1-c9952c712b20,2023,physicalStateInTransit,liquid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,74e690ab-a5e5-4d65-a965-b38ddd9d583a,2023,physicalStateInTransit,liquid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,7f4b554e-366f-4445-b95b-9a3043d7c553,2023,physicalStateInTransit,liquid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,89521e1c-db91-49cf-b7c5-df060718b675,2023,physicalStateInTransit,liquid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,7eaf6383-7c9f-4a7e-8d68-c2b5d4f739fe,2023,physicalStateInTransit,liquid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,85d15a05-7544-40f0-b928-6177c44d2482,2023,physicalStateInTransit,liquid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,89fe1e37-6138-456b-a491-f0a33fe1d86b,2023,physicalStateInTransit,liquid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,94df53b9-0414-4f6c-9586-c77f2d74fdcb,2023,physicalStateInTransit,liquid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,b16beaf2-55e4-47e9-a2a0-d15132af2d12,2023,physicalStateInTransit,liquid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,b1cde203-6b39-49f5-b3a0-66ff356e3785,2023,physicalStateInTransit,liquid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,b61888ab-87f8-4a78-9a07-aac3480afd96,2023,physicalStateInTransit,liquid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,beb05719-235b-42fc-b535-44548ec9d144,2023,physicalStateInTransit,liquid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,c3efd744-5917-4e8a-b078-a36e75280d61,2023,physicalStateInTransit,liquid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,c66a3020-1fd7-44c5-a326-25aa21dacd65,2023,physicalStateInTransit,liquid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,d11cbdf3-7a8d-403b-8f59-04e578f137c0,2023,physicalStateInTransit,aerosol can,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,d9bd936e-b8e1-46b1-b01f-aa12484b0349,2023,physicalStateInTransit,liquid,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,0537f744-a6d6-42d7-ae29-00322fb0a473,2023,annualWasteAmount,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,0613f9a5-95ef-44fa-9411-8fffc83d8ece,2023,annualWasteAmount,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,10c85505-fa72-4b6d-bd53-4a27671e601e,2023,annualWasteAmount,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,1ebe6750-af13-46df-a42d-399819628266,2023,annualWasteAmount,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,1f803b93-2902-43e4-baab-e31836b88d06,2023,annualWasteAmount,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,26771274-bcc2-43a3-b71b-bc8eca582915,2023,annualWasteAmount,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,4acf93ba-ac3d-4add-b8e6-e4e750126c1d,2023,annualWasteAmount,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,4e4f5b00-cd2d-4893-997e-dfb24e1862ea,2023,annualWasteAmount,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,53e1e898-2919-40bd-9faa-75f20a741d10,2023,annualWasteAmount,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,56fde5d5-f121-4280-8b72-1d7e9d4216ad,2023,annualWasteAmount,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,5e81e2e0-d60d-4ffb-856a-c3317361f15f,2023,annualWasteAmount,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,6320a1e3-f459-4306-8d1d-7139b18893bf,2023,annualWasteAmount,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,69e6ccbe-4183-45f7-80fd-f3d480b4b754,2023,annualWasteAmount,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,70e01d10-5a77-461b-91a0-dd159002a79c,2023,annualWasteAmount,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,74e690ab-a5e5-4d65-a965-b38ddd9d583a,2023,annualWasteAmount,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,721e8ba0-b7f2-4b2f-a0f2-09f0853d7bd5,2023,annualWasteAmount,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,74404669-a4b5-47d0-9da1-c9952c712b20,2023,annualWasteAmount,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,89521e1c-db91-49cf-b7c5-df060718b675,2023,annualWasteAmount,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,7eaf6383-7c9f-4a7e-8d68-c2b5d4f739fe,2023,annualWasteAmount,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,7f4b554e-366f-4445-b95b-9a3043d7c553,2023,annualWasteAmount,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,85d15a05-7544-40f0-b928-6177c44d2482,2023,annualWasteAmount,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,89fe1e37-6138-456b-a491-f0a33fe1d86b,2023,annualWasteAmount,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,94df53b9-0414-4f6c-9586-c77f2d74fdcb,2023,annualWasteAmount,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,b16beaf2-55e4-47e9-a2a0-d15132af2d12,2023,annualWasteAmount,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,b1cde203-6b39-49f5-b3a0-66ff356e3785,2023,annualWasteAmount,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,b61888ab-87f8-4a78-9a07-aac3480afd96,2023,annualWasteAmount,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,beb05719-235b-42fc-b535-44548ec9d144,2023,annualWasteAmount,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,c3efd744-5917-4e8a-b078-a36e75280d61,2023,annualWasteAmount,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,c66a3020-1fd7-44c5-a326-25aa21dacd65,2023,annualWasteAmount,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,d11cbdf3-7a8d-403b-8f59-04e578f137c0,2023,annualWasteAmount,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,d9bd936e-b8e1-46b1-b01f-aa12484b0349,2023,annualWasteAmount,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,0537f744-a6d6-42d7-ae29-00322fb0a473,2023,stateWasteCode,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,0613f9a5-95ef-44fa-9411-8fffc83d8ece,2023,stateWasteCode,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,10c85505-fa72-4b6d-bd53-4a27671e601e,2023,stateWasteCode,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,1ebe6750-af13-46df-a42d-399819628266,2023,stateWasteCode,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,1f803b93-2902-43e4-baab-e31836b88d06,2023,stateWasteCode,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,26771274-bcc2-43a3-b71b-bc8eca582915,2023,stateWasteCode,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,4e4f5b00-cd2d-4893-997e-dfb24e1862ea,2023,stateWasteCode,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,4acf93ba-ac3d-4add-b8e6-e4e750126c1d,2023,stateWasteCode,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,53e1e898-2919-40bd-9faa-75f20a741d10,2023,stateWasteCode,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,56fde5d5-f121-4280-8b72-1d7e9d4216ad,2023,stateWasteCode,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,5e81e2e0-d60d-4ffb-856a-c3317361f15f,2023,stateWasteCode,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,6320a1e3-f459-4306-8d1d-7139b18893bf,2023,stateWasteCode,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,69e6ccbe-4183-45f7-80fd-f3d480b4b754,2023,stateWasteCode,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,70e01d10-5a77-461b-91a0-dd159002a79c,2023,stateWasteCode,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,721e8ba0-b7f2-4b2f-a0f2-09f0853d7bd5,2023,stateWasteCode,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,74404669-a4b5-47d0-9da1-c9952c712b20,2023,stateWasteCode,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,74e690ab-a5e5-4d65-a965-b38ddd9d583a,2023,stateWasteCode,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,7f4b554e-366f-4445-b95b-9a3043d7c553,2023,stateWasteCode,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,89521e1c-db91-49cf-b7c5-df060718b675,2023,stateWasteCode,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,7eaf6383-7c9f-4a7e-8d68-c2b5d4f739fe,2023,stateWasteCode,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,85d15a05-7544-40f0-b928-6177c44d2482,2023,stateWasteCode,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,89fe1e37-6138-456b-a491-f0a33fe1d86b,2023,stateWasteCode,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,94df53b9-0414-4f6c-9586-c77f2d74fdcb,2023,stateWasteCode,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,b16beaf2-55e4-47e9-a2a0-d15132af2d12,2023,stateWasteCode,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,b1cde203-6b39-49f5-b3a0-66ff356e3785,2023,stateWasteCode,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,b61888ab-87f8-4a78-9a07-aac3480afd96,2023,stateWasteCode,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,beb05719-235b-42fc-b535-44548ec9d144,2023,stateWasteCode,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,c3efd744-5917-4e8a-b078-a36e75280d61,2023,stateWasteCode,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,c66a3020-1fd7-44c5-a326-25aa21dacd65,2023,stateWasteCode,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,d11cbdf3-7a8d-403b-8f59-04e578f137c0,2023,stateWasteCode,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,d9bd936e-b8e1-46b1-b01f-aa12484b0349,2023,stateWasteCode,unknown,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,0537f744-a6d6-42d7-ae29-00322fb0a473,2023,daysOnSite,365,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,0613f9a5-95ef-44fa-9411-8fffc83d8ece,2023,daysOnSite,365,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,10c85505-fa72-4b6d-bd53-4a27671e601e,2023,daysOnSite,365,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,1ebe6750-af13-46df-a42d-399819628266,2023,daysOnSite,365,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,1f803b93-2902-43e4-baab-e31836b88d06,2023,daysOnSite,365,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,26771274-bcc2-43a3-b71b-bc8eca582915,2023,daysOnSite,365,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,4acf93ba-ac3d-4add-b8e6-e4e750126c1d,2023,daysOnSite,365,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,4e4f5b00-cd2d-4893-997e-dfb24e1862ea,2023,daysOnSite,365,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,53e1e898-2919-40bd-9faa-75f20a741d10,2023,daysOnSite,365,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,56fde5d5-f121-4280-8b72-1d7e9d4216ad,2023,daysOnSite,365,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,5e81e2e0-d60d-4ffb-856a-c3317361f15f,2023,daysOnSite,365,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,6320a1e3-f459-4306-8d1d-7139b18893bf,2023,daysOnSite,365,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,69e6ccbe-4183-45f7-80fd-f3d480b4b754,2023,daysOnSite,365,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,70e01d10-5a77-461b-91a0-dd159002a79c,2023,daysOnSite,365,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,721e8ba0-b7f2-4b2f-a0f2-09f0853d7bd5,2023,daysOnSite,365,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,74e690ab-a5e5-4d65-a965-b38ddd9d583a,2023,daysOnSite,365,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,74404669-a4b5-47d0-9da1-c9952c712b20,2023,daysOnSite,365,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,89521e1c-db91-49cf-b7c5-df060718b675,2023,daysOnSite,365,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,7eaf6383-7c9f-4a7e-8d68-c2b5d4f739fe,2023,daysOnSite,365,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,7f4b554e-366f-4445-b95b-9a3043d7c553,2023,daysOnSite,365,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,85d15a05-7544-40f0-b928-6177c44d2482,2023,daysOnSite,365,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,89fe1e37-6138-456b-a491-f0a33fe1d86b,2023,daysOnSite,365,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,94df53b9-0414-4f6c-9586-c77f2d74fdcb,2023,daysOnSite,365,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,b16beaf2-55e4-47e9-a2a0-d15132af2d12,2023,daysOnSite,365,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,b1cde203-6b39-49f5-b3a0-66ff356e3785,2023,daysOnSite,365,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,b61888ab-87f8-4a78-9a07-aac3480afd96,2023,daysOnSite,365,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,beb05719-235b-42fc-b535-44548ec9d144,2023,daysOnSite,365,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,c3efd744-5917-4e8a-b078-a36e75280d61,2023,daysOnSite,365,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,c66a3020-1fd7-44c5-a326-25aa21dacd65,2023,daysOnSite,365,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,d11cbdf3-7a8d-403b-8f59-04e578f137c0,2023,daysOnSite,365,EPCRA
+b1c07cd7-c38a-4ace-abca-3c5b77684491,d9bd936e-b8e1-46b1-b01f-aa12484b0349,2023,daysOnSite,365,EPCRA
