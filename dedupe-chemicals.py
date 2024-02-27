@@ -30,6 +30,6 @@ def correct_chemical_ids(chemicals_path, components_path):
 
 
 corrected_chemicals_path, corrected_components_path = correct_chemical_ids(
-    './haddad/CHEMICALS-chemicals.csv',
-    './haddad/CHEMICALS-components.csv'
+    './lexus/CHEMICALS-chemicals.csv',
+    './lexus/CHEMICALS-components.csv'
 )
