@@ -1,0 +1,10 @@
+Maximum Number of Occupants,Dun & Bradstreet Number,Facility Phone Number,sicCode,Facility Name,Company Name,Customer Facility Id,Tenant ID,Street Address Line 1,Street Address Line 2,Street Address City,Street Address State,Street Address Zip Code,Facility ID
+250,123456,(484) 470-2100,5511,Springfield Hyundai,Potamkin Auto Group,3ba92ba0-2732-4fda-8bef-00a23eef350c,883b7124-9c13-41ff-a6ee-341efbcde9ca,754 Baltimore Pike,,Springfield,PA,19064,3ba92ba0-2732-4fda-8bef-00a23eef350c
+250,N/A,,,Hyundai of Elk Grove,Potamkin Auto Group,bc1aeb51-a6e1-4237-bc75-c285eeb01682,883b7124-9c13-41ff-a6ee-341efbcde9ca,6250 Florin Rd,,Sacramento,CA,95823,bc1aeb51-a6e1-4237-bc75-c285eeb01682
+151,,,,Roseville Hyundai,Potamkin Auto Group,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,883b7124-9c13-41ff-a6ee-341efbcde9ca,200 N Sunrise,,Roseville,CA,95661,5f7123ac-6326-4bbf-95c1-99d3bbb1d45a
+0,,,,Hyundai of El Paso and Genesis of El Paso,Potamkin Auto Group,bda80115-5256-48b6-ba47-d8e1a7d91829,883b7124-9c13-41ff-a6ee-341efbcde9ca,8600 Montana Ave,,El Paso,TX,79925,bda80115-5256-48b6-ba47-d8e1a7d91829
+100,,,,Folsom Lake Hyundai,Potamkin Auto Group,d32ba406-491e-4371-94bd-77f57acce835,883b7124-9c13-41ff-a6ee-341efbcde9ca,12530 Auto Mall Cir,,Folsom,CA,95630,d32ba406-491e-4371-94bd-77f57acce835
+100,,,,Potamkin Hyundai Stone Mountain,Potamkin Auto Group,2137918f-5718-4f0c-8223-6e489073f146,883b7124-9c13-41ff-a6ee-341efbcde9ca,4355 Stone Mountain Hwy,,Liliburn,GA,30047,2137918f-5718-4f0c-8223-6e489073f146
+,,,,Baytown Hyundai and Genesis of Baytown,Potamkin Auto Group,35caa9a9-a9c3-4ff7-aecf-3c909ceaa67d,883b7124-9c13-41ff-a6ee-341efbcde9ca,4343 East Fwy,,Baytown,TX,77521,35caa9a9-a9c3-4ff7-aecf-3c909ceaa67d
+,,,,North Freeway Hyundai ,Potamkin Auto Group,68499f3f-015e-410a-9ff0-d9947dd354ca,883b7124-9c13-41ff-a6ee-341efbcde9ca,20440 Interstate 45N,,Spring,TX,77373,68499f3f-015e-410a-9ff0-d9947dd354ca
+,,,,Humble Hyundai,Potamkin Auto Group,acda3e05-889a-4a62-ba9b-f286aedb0aee,883b7124-9c13-41ff-a6ee-341efbcde9ca,18877 US-59,,Humble,TX,77338,acda3e05-889a-4a62-ba9b-f286aedb0aee

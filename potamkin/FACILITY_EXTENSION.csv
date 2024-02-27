@@ -1,0 +1,97 @@
+Facility ID,Reporting Year,Key,Value,Extension Type
+bc1aeb51-a6e1-4237-bc75-c285eeb01682,2023,,,EPCRA
+bc1aeb51-a6e1-4237-bc75-c285eeb01682,2023,,,EPCRA
+bc1aeb51-a6e1-4237-bc75-c285eeb01682,2023,,,EPCRA
+bc1aeb51-a6e1-4237-bc75-c285eeb01682,2023,,,EPCRA
+bc1aeb51-a6e1-4237-bc75-c285eeb01682,2023,epaId,cal000470091,EPCRA
+bc1aeb51-a6e1-4237-bc75-c285eeb01682,2023,businessName,Elk Grove Hyundai,EPCRA
+bc1aeb51-a6e1-4237-bc75-c285eeb01682,2023,calarpRegulatedSubstance,no,EPCRA
+bc1aeb51-a6e1-4237-bc75-c285eeb01682,2023,hasAPS,yes,EPCRA
+bc1aeb51-a6e1-4237-bc75-c285eeb01682,2023,generatesHazardousWaste,yes,EPCRA
+bc1aeb51-a6e1-4237-bc75-c285eeb01682,2023,recycle,no,EPCRA
+bc1aeb51-a6e1-4237-bc75-c285eeb01682,2023,treatsHazardousWaste,no,EPCRA
+bc1aeb51-a6e1-4237-bc75-c285eeb01682,2023,hazardousWasteFinancialAssuranceRequirements,Not Applicable,EPCRA
+bc1aeb51-a6e1-4237-bc75-c285eeb01682,2023,hazardousWasteConsolidate,no,EPCRA
+bc1aeb51-a6e1-4237-bc75-c285eeb01682,2023,hazardousWasteTankClosureRemoval,Not Applicable,EPCRA
+bc1aeb51-a6e1-4237-bc75-c285eeb01682,2023,hazardousWasteRCRA,yes,EPCRA
+bc1aeb51-a6e1-4237-bc75-c285eeb01682,2023,hazardousWasteHHWCollectionSite,no,EPCRA
+bc1aeb51-a6e1-4237-bc75-c285eeb01682,2023,businessPhone,(916) 427-1234,EPCRA
+bc1aeb51-a6e1-4237-bc75-c285eeb01682,2023,businessFax,(916) 422-9320,EPCRA
+bc1aeb51-a6e1-4237-bc75-c285eeb01682,2023,dunBradStreet,1234,EPCRA
+bc1aeb51-a6e1-4237-bc75-c285eeb01682,2023,sicCode,5511,EPCRA
+bc1aeb51-a6e1-4237-bc75-c285eeb01682,2023,naicsCode,441110,EPCRA
+bc1aeb51-a6e1-4237-bc75-c285eeb01682,2023,totalNumberOfUst,0,EPCRA
+bc1aeb51-a6e1-4237-bc75-c285eeb01682,2023,indianOrTrustLand,no,EPCRA
+bc1aeb51-a6e1-4237-bc75-c285eeb01682,2023,supervisorDivisionSectionOffice,Chris Shaffer 12530 automall circle Folsom Ca 95630,EPCRA
+bc1aeb51-a6e1-4237-bc75-c285eeb01682,2023,boeNumber,n/a,EPCRA
+bc1aeb51-a6e1-4237-bc75-c285eeb01682,2023,permitHolder,n/a,EPCRA
+bc1aeb51-a6e1-4237-bc75-c285eeb01682,2023,financialInstitutionOrSuretyCountry,united states,EPCRA
+bc1aeb51-a6e1-4237-bc75-c285eeb01682,2023,numberOfEmployees,62,EPCRA
+bc1aeb51-a6e1-4237-bc75-c285eeb01682,2023,apsaConditionallyExempt,Not Applicable,EPCRA
+bc1aeb51-a6e1-4237-bc75-c285eeb01682,2023,apsaTotalStorageCapacity,1525,EPCRA
+bc1aeb51-a6e1-4237-bc75-c285eeb01682,2023,apsaTanksInUndergroundAreas,-1,EPCRA
+bc1aeb51-a6e1-4237-bc75-c285eeb01682,2023,apsaDateOfCertificationOrReview,2023-02-03,EPCRA
+5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,2023,epaId,CAL000297570,EPCRA
+5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,2023,businessName,HYUNDAI OF ROSEVILLE,EPCRA
+5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,2023,calarpRegulatedSubstance,no,EPCRA
+5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,2023,hasAPS,yes,EPCRA
+5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,2023,generatesHazardousWaste,yes,EPCRA
+5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,2023,recycle,no,EPCRA
+5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,2023,treatsHazardousWaste,no,EPCRA
+5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,2023,hazardousWasteFinancialAssuranceRequirements,Not Applicable,EPCRA
+5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,2023,hazardousWasteConsolidate,no,EPCRA
+5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,2023,hazardousWasteTankClosureRemoval,Not Applicable,EPCRA
+5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,2023,hazardousWasteRCRA,yes,EPCRA
+5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,2023,hazardousWasteHHWCollectionSite,no,EPCRA
+5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,2023,businessPhone,(916) 677-3636,EPCRA
+5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,2023,businessFax,(916) 625-6847,EPCRA
+5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,2023,dunBradStreet,1234,EPCRA
+5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,2023,sicCode,5511,EPCRA
+5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,2023,naicsCode,441110,EPCRA
+5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,2023,totalNumberOfUst,0,EPCRA
+5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,2023,indianOrTrustLand,no,EPCRA
+5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,2023,supervisorDivisionSectionOffice,Chris Shaffer 12530 automall circle Folsom Ca 95630,EPCRA
+5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,2023,boeNumber,n/a,EPCRA
+5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,2023,permitHolder,n/a,EPCRA
+5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,2023,financialInstitutionOrSuretyCountry,United States,EPCRA
+5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,2023,numberOfEmployees,100,EPCRA
+5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,2023,apsaConditionallyExempt,Not Applicable,EPCRA
+5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,2023,apsaTotalStorageCapacity,2800,EPCRA
+5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,2023,apsaTanksInUndergroundAreas,-1,EPCRA
+5f7123ac-6326-4bbf-95c1-99d3bbb1d45a,2023,apsaDateOfCertificationOrReview,2023-09-27,EPCRA
+bda80115-5256-48b6-ba47-d8e1a7d91829,2023,isNewFacilityThisYear,no,EPCRA
+bda80115-5256-48b6-ba47-d8e1a7d91829,2023,texasCompanyNumber,826,EPCRA
+d32ba406-491e-4371-94bd-77f57acce835,2023,epaId,CAL000366137,EPCRA
+d32ba406-491e-4371-94bd-77f57acce835,2023,calarpRegulatedSubstance,no,EPCRA
+d32ba406-491e-4371-94bd-77f57acce835,2023,businessName,Folsom Lake Hyundai,EPCRA
+d32ba406-491e-4371-94bd-77f57acce835,2023,hasAPS,yes,EPCRA
+d32ba406-491e-4371-94bd-77f57acce835,2023,recycle,no,EPCRA
+d32ba406-491e-4371-94bd-77f57acce835,2023,hazardousWasteFinancialAssuranceRequirements,no,EPCRA
+d32ba406-491e-4371-94bd-77f57acce835,2023,hazardousWasteTankClosureRemoval,yes,EPCRA
+d32ba406-491e-4371-94bd-77f57acce835,2023,hazardousWasteHHWCollectionSite,no,EPCRA
+d32ba406-491e-4371-94bd-77f57acce835,2023,businessFax,(916) 365-8000,EPCRA
+d32ba406-491e-4371-94bd-77f57acce835,2023,sicCode,5511,EPCRA
+d32ba406-491e-4371-94bd-77f57acce835,2023,generatesHazardousWaste,yes,EPCRA
+d32ba406-491e-4371-94bd-77f57acce835,2023,treatsHazardousWaste,no,EPCRA
+d32ba406-491e-4371-94bd-77f57acce835,2023,hazardousWasteConsolidate,no,EPCRA
+d32ba406-491e-4371-94bd-77f57acce835,2023,hazardousWasteRCRA,yes,EPCRA
+d32ba406-491e-4371-94bd-77f57acce835,2023,businessPhone,(916) 365-8000,EPCRA
+d32ba406-491e-4371-94bd-77f57acce835,2023,dunBradStreet,789516437,EPCRA
+d32ba406-491e-4371-94bd-77f57acce835,2023,naicsCode,441110,EPCRA
+d32ba406-491e-4371-94bd-77f57acce835,2023,indianOrTrustLand,no,EPCRA
+d32ba406-491e-4371-94bd-77f57acce835,2023,totalNumberOfUst,0,EPCRA
+d32ba406-491e-4371-94bd-77f57acce835,2023,supervisorDivisionSectionOffice,Chris Shaffer 12530 automall circle Folsom ca 95630,EPCRA
+d32ba406-491e-4371-94bd-77f57acce835,2023,permitHolder,Chris Shaffer 12530 automall circle Folsom ca 95630,EPCRA
+d32ba406-491e-4371-94bd-77f57acce835,2023,financialInstitutionOrSuretyCountry,usa,EPCRA
+d32ba406-491e-4371-94bd-77f57acce835,2023,numberOfEmployees,50,EPCRA
+d32ba406-491e-4371-94bd-77f57acce835,2023,boeNumber,not applicable,EPCRA
+d32ba406-491e-4371-94bd-77f57acce835,2023,apsaConditionallyExempt,no,EPCRA
+d32ba406-491e-4371-94bd-77f57acce835,2023,apsaTotalStorageCapacity,1350,EPCRA
+d32ba406-491e-4371-94bd-77f57acce835,2023,apsaDateOfCertificationOrReview,2024-02-21,EPCRA
+d32ba406-491e-4371-94bd-77f57acce835,2023,apsaTanksInUndergroundAreas,0,EPCRA
+35caa9a9-a9c3-4ff7-aecf-3c909ceaa67d,2023,isNewFacilityThisYear,no,EPCRA
+35caa9a9-a9c3-4ff7-aecf-3c909ceaa67d,2023,texasCompanyNumber,32052660241,EPCRA
+68499f3f-015e-410a-9ff0-d9947dd354ca,2023,isNewFacilityThisYear,no,EPCRA
+68499f3f-015e-410a-9ff0-d9947dd354ca,2023,texasCompanyNumber,12623048068,EPCRA
+acda3e05-889a-4a62-ba9b-f286aedb0aee,2023,isNewFacilityThisYear,no,EPCRA
+acda3e05-889a-4a62-ba9b-f286aedb0aee,2023,texasCompanyNumber,12023876506,EPCRA
