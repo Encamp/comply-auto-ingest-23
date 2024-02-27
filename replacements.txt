@@ -24,3 +24,5 @@ bc1aeb51-a6e1-4237-bc75-c285eeb01682:bb2138ce-b567-4721-b9dc-cacd5be69285
 3ba92ba0-2732-4fda-8bef-00a23eef350c:07ee7c7e-0778-442b-8a3b-345343e3a0d5	
 True:TRUE
 False:FALSE
+false:FALSE
+true:TRUE
