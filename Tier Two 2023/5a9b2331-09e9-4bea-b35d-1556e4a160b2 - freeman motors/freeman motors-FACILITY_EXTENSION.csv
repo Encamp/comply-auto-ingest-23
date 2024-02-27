@@ -1,0 +1,85 @@
+Facility ID,Reporting Year,Key,Value,Extension Type
+e17e2bf3-7900-4239-9430-eb50bc37b56c,2023,epaId,CAD981674831,EPCRA
+e17e2bf3-7900-4239-9430-eb50bc37b56c,2023,businessName,Freeman Motors Inc dba Freeman Toyota,EPCRA
+e17e2bf3-7900-4239-9430-eb50bc37b56c,2023,calarpRegulatedSubstance,yes,EPCRA
+e17e2bf3-7900-4239-9430-eb50bc37b56c,2023,hasAPS,yes,EPCRA
+e17e2bf3-7900-4239-9430-eb50bc37b56c,2023,generatesHazardousWaste,yes,EPCRA
+e17e2bf3-7900-4239-9430-eb50bc37b56c,2023,recycle,yes,EPCRA
+e17e2bf3-7900-4239-9430-eb50bc37b56c,2023,treatsHazardousWaste,no,EPCRA
+e17e2bf3-7900-4239-9430-eb50bc37b56c,2023,hazardousWasteFinancialAssuranceRequirements,Not Applicable,EPCRA
+e17e2bf3-7900-4239-9430-eb50bc37b56c,2023,hazardousWasteConsolidate,no,EPCRA
+e17e2bf3-7900-4239-9430-eb50bc37b56c,2023,hazardousWasteTankClosureRemoval,yes,EPCRA
+e17e2bf3-7900-4239-9430-eb50bc37b56c,2023,hazardousWasteRCRA,yes,EPCRA
+e17e2bf3-7900-4239-9430-eb50bc37b56c,2023,hazardousWasteHHWCollectionSite,no,EPCRA
+e17e2bf3-7900-4239-9430-eb50bc37b56c,2023,businessPhone,(707) 542-1791,EPCRA
+e17e2bf3-7900-4239-9430-eb50bc37b56c,2023,businessFax,(707) 542-4528,EPCRA
+e17e2bf3-7900-4239-9430-eb50bc37b56c,2023,dunBradStreet,02-942-9263,EPCRA
+e17e2bf3-7900-4239-9430-eb50bc37b56c,2023,sicCode,5511,EPCRA
+e17e2bf3-7900-4239-9430-eb50bc37b56c,2023,naicsCode,441110,EPCRA
+e17e2bf3-7900-4239-9430-eb50bc37b56c,2023,totalNumberOfUst,0,EPCRA
+e17e2bf3-7900-4239-9430-eb50bc37b56c,2023,indianOrTrustLand,no,EPCRA
+e17e2bf3-7900-4239-9430-eb50bc37b56c,2023,supervisorDivisionSectionOffice,"Ryan Freeman, 2875 Corby Ave, Santa Rosa CA , 95407",EPCRA
+e17e2bf3-7900-4239-9430-eb50bc37b56c,2023,boeNumber,N/A,EPCRA
+e17e2bf3-7900-4239-9430-eb50bc37b56c,2023,permitHolder,N/A,EPCRA
+e17e2bf3-7900-4239-9430-eb50bc37b56c,2023,financialInstitutionOrSuretyCountry,United States,EPCRA
+e17e2bf3-7900-4239-9430-eb50bc37b56c,2023,numberOfEmployees,152,EPCRA
+e17e2bf3-7900-4239-9430-eb50bc37b56c,2023,apsaConditionallyExempt,no,EPCRA
+e17e2bf3-7900-4239-9430-eb50bc37b56c,2023,apsaTotalStorageCapacity,4300,EPCRA
+e17e2bf3-7900-4239-9430-eb50bc37b56c,2023,apsaTanksInUndergroundAreas,0,EPCRA
+e17e2bf3-7900-4239-9430-eb50bc37b56c,2023,apsaDateOfCertificationOrReview,2021-12-21,EPCRA
+de6fc613-1631-4719-94ae-e5a240863c7b,2023,epaId,CAL000314871,EPCRA
+de6fc613-1631-4719-94ae-e5a240863c7b,2023,businessName,"Freeman Motors Inc, dba Freeman Lexus",EPCRA
+de6fc613-1631-4719-94ae-e5a240863c7b,2023,calarpRegulatedSubstance,yes,EPCRA
+de6fc613-1631-4719-94ae-e5a240863c7b,2023,hasAPS,yes,EPCRA
+de6fc613-1631-4719-94ae-e5a240863c7b,2023,generatesHazardousWaste,yes,EPCRA
+de6fc613-1631-4719-94ae-e5a240863c7b,2023,recycle,yes,EPCRA
+de6fc613-1631-4719-94ae-e5a240863c7b,2023,treatsHazardousWaste,Not Applicable,EPCRA
+de6fc613-1631-4719-94ae-e5a240863c7b,2023,hazardousWasteFinancialAssuranceRequirements,Not Applicable,EPCRA
+de6fc613-1631-4719-94ae-e5a240863c7b,2023,hazardousWasteConsolidate,Not Applicable,EPCRA
+de6fc613-1631-4719-94ae-e5a240863c7b,2023,hazardousWasteTankClosureRemoval,yes,EPCRA
+de6fc613-1631-4719-94ae-e5a240863c7b,2023,hazardousWasteRCRA,no,EPCRA
+de6fc613-1631-4719-94ae-e5a240863c7b,2023,hazardousWasteHHWCollectionSite,Not Applicable,EPCRA
+de6fc613-1631-4719-94ae-e5a240863c7b,2023,businessPhone,(707) 545-9255,EPCRA
+de6fc613-1631-4719-94ae-e5a240863c7b,2023,businessFax,(707) 535-2369,EPCRA
+de6fc613-1631-4719-94ae-e5a240863c7b,2023,dunBradStreet,02-942-9263,EPCRA
+de6fc613-1631-4719-94ae-e5a240863c7b,2023,sicCode,5511,EPCRA
+de6fc613-1631-4719-94ae-e5a240863c7b,2023,naicsCode,441110,EPCRA
+de6fc613-1631-4719-94ae-e5a240863c7b,2023,totalNumberOfUst,0,EPCRA
+de6fc613-1631-4719-94ae-e5a240863c7b,2023,indianOrTrustLand,no,EPCRA
+de6fc613-1631-4719-94ae-e5a240863c7b,2023,supervisorDivisionSectionOffice,"Ryan Freeman, 2875 Corby Ave, Santa Rosa CA , 95407",EPCRA
+de6fc613-1631-4719-94ae-e5a240863c7b,2023,boeNumber,n/a,EPCRA
+de6fc613-1631-4719-94ae-e5a240863c7b,2023,permitHolder,n/a,EPCRA
+de6fc613-1631-4719-94ae-e5a240863c7b,2023,financialInstitutionOrSuretyCountry,United States,EPCRA
+de6fc613-1631-4719-94ae-e5a240863c7b,2023,numberOfEmployees,63,EPCRA
+de6fc613-1631-4719-94ae-e5a240863c7b,2023,apsaConditionallyExempt,no,EPCRA
+de6fc613-1631-4719-94ae-e5a240863c7b,2023,apsaTotalStorageCapacity,2580,EPCRA
+de6fc613-1631-4719-94ae-e5a240863c7b,2023,apsaTanksInUndergroundAreas,0,EPCRA
+de6fc613-1631-4719-94ae-e5a240863c7b,2023,apsaDateOfCertificationOrReview,2021-02-18,EPCRA
+52dafd05-c97e-47f8-8ff7-88916d2f4a3b,2023,epaId,CAR000109728,EPCRA
+52dafd05-c97e-47f8-8ff7-88916d2f4a3b,2023,businessName,Freeman Motors Inc dba Freeman Collision Center,EPCRA
+52dafd05-c97e-47f8-8ff7-88916d2f4a3b,2023,calarpRegulatedSubstance,yes,EPCRA
+52dafd05-c97e-47f8-8ff7-88916d2f4a3b,2023,hasAPS,no,EPCRA
+52dafd05-c97e-47f8-8ff7-88916d2f4a3b,2023,generatesHazardousWaste,yes,EPCRA
+52dafd05-c97e-47f8-8ff7-88916d2f4a3b,2023,recycle,yes,EPCRA
+52dafd05-c97e-47f8-8ff7-88916d2f4a3b,2023,treatsHazardousWaste,no,EPCRA
+52dafd05-c97e-47f8-8ff7-88916d2f4a3b,2023,hazardousWasteFinancialAssuranceRequirements,Not Applicable,EPCRA
+52dafd05-c97e-47f8-8ff7-88916d2f4a3b,2023,hazardousWasteConsolidate,no,EPCRA
+52dafd05-c97e-47f8-8ff7-88916d2f4a3b,2023,hazardousWasteTankClosureRemoval,Not Applicable,EPCRA
+52dafd05-c97e-47f8-8ff7-88916d2f4a3b,2023,hazardousWasteRCRA,no,EPCRA
+52dafd05-c97e-47f8-8ff7-88916d2f4a3b,2023,hazardousWasteHHWCollectionSite,no,EPCRA
+52dafd05-c97e-47f8-8ff7-88916d2f4a3b,2023,businessPhone,(707) 542-2349,EPCRA
+52dafd05-c97e-47f8-8ff7-88916d2f4a3b,2023,businessFax,(707) 542-7183,EPCRA
+52dafd05-c97e-47f8-8ff7-88916d2f4a3b,2023,dunBradStreet,02-942-9263,EPCRA
+52dafd05-c97e-47f8-8ff7-88916d2f4a3b,2023,sicCode,7532,EPCRA
+52dafd05-c97e-47f8-8ff7-88916d2f4a3b,2023,naicsCode,811121,EPCRA
+52dafd05-c97e-47f8-8ff7-88916d2f4a3b,2023,totalNumberOfUst,0,EPCRA
+52dafd05-c97e-47f8-8ff7-88916d2f4a3b,2023,indianOrTrustLand,no,EPCRA
+52dafd05-c97e-47f8-8ff7-88916d2f4a3b,2023,supervisorDivisionSectionOffice,N/A,EPCRA
+52dafd05-c97e-47f8-8ff7-88916d2f4a3b,2023,boeNumber,N/A,EPCRA
+52dafd05-c97e-47f8-8ff7-88916d2f4a3b,2023,permitHolder,N/A,EPCRA
+52dafd05-c97e-47f8-8ff7-88916d2f4a3b,2023,financialInstitutionOrSuretyCountry,United States,EPCRA
+52dafd05-c97e-47f8-8ff7-88916d2f4a3b,2023,numberOfEmployees,22,EPCRA
+52dafd05-c97e-47f8-8ff7-88916d2f4a3b,2023,apsaConditionallyExempt,no,EPCRA
+52dafd05-c97e-47f8-8ff7-88916d2f4a3b,2023,apsaTotalStorageCapacity,0,EPCRA
+52dafd05-c97e-47f8-8ff7-88916d2f4a3b,2023,apsaTanksInUndergroundAreas,0,EPCRA
+52dafd05-c97e-47f8-8ff7-88916d2f4a3b,2023,apsaDateOfCertificationOrReview,2024-02-21,EPCRA

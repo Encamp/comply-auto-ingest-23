@@ -1,0 +1,4 @@
+Maximum Number of Occupants,sicCode,Facility Name,Company Name,Customer Facility Id,Tenant ID,Street Address Line 1,Street Address Line 2,Street Address City,Street Address State,Street Address Zip Code,Facility ID
+75,5511,Banner Ford of Mandeville,Banner Automotive Group,f6843fb5-b4fb-42f4-b50f-065170a20b7f,3e718b82-035d-435d-9395-69c6bb3779fe,1943 North Causeway Boulevard,,Mandeville,LA,70471,f6843fb5-b4fb-42f4-b50f-065170a20b7f
+95,5511,Banner Ford of Monroe,Banner Automotive Group,11928744-6ab0-421b-836d-90d7038fc47a,3e718b82-035d-435d-9395-69c6bb3779fe,6300 Frontage Rd,,Monroe,LA,71202,11928744-6ab0-421b-836d-90d7038fc47a
+95,5511,Banner of New Orleans,Banner Automotive Group,fd69228e-6744-45c5-a218-ecb0b10dabbf,3e718b82-035d-435d-9395-69c6bb3779fe,5950 Chef Menteur Hwy,,New Orleans,LA,70126,fd69228e-6744-45c5-a218-ecb0b10dabbf

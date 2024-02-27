@@ -1,0 +1,4 @@
+Facility Name,Company Name,Customer Facility Id,Tenant ID,Street Address Line 1,Street Address Line 2,Street Address City,Street Address State,Street Address Zip Code,Facility ID
+Freeman Toyota,Freeman Motors,e17e2bf3-7900-4239-9430-eb50bc37b56c,5a9b2331-09e9-4bea-b35d-1556e4a160b2,2875 Corby Ave,,Santa Rosa,CA,95407,e17e2bf3-7900-4239-9430-eb50bc37b56c
+Freeman Lexus,Freeman Motors,de6fc613-1631-4719-94ae-e5a240863c7b,5a9b2331-09e9-4bea-b35d-1556e4a160b2,2550 S Jones Blvd,,Santa Rosa,CA,95407,de6fc613-1631-4719-94ae-e5a240863c7b
+Freeman Collision Center,Freeman Motors,52dafd05-c97e-47f8-8ff7-88916d2f4a3b,5a9b2331-09e9-4bea-b35d-1556e4a160b2,2828 Dowd Dr,,Santa Rosa,CA,95407,52dafd05-c97e-47f8-8ff7-88916d2f4a3b

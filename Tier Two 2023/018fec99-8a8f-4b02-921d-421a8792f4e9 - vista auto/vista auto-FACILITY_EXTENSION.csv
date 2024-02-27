@@ -1,0 +1,29 @@
+Facility ID,Reporting Year,Key,Value,Extension Type
+b7f953ef-a8cb-4ba5-a173-88a44b144343,2023,epaId,CAD072940372,EPCRA
+b7f953ef-a8cb-4ba5-a173-88a44b144343,2023,businessName,Vista Ford Lincoln,EPCRA
+b7f953ef-a8cb-4ba5-a173-88a44b144343,2023,calarpRegulatedSubstance,Not Applicable,EPCRA
+b7f953ef-a8cb-4ba5-a173-88a44b144343,2023,hasAPS,no,EPCRA
+b7f953ef-a8cb-4ba5-a173-88a44b144343,2023,generatesHazardousWaste,yes,EPCRA
+b7f953ef-a8cb-4ba5-a173-88a44b144343,2023,recycle,Not Applicable,EPCRA
+b7f953ef-a8cb-4ba5-a173-88a44b144343,2023,treatsHazardousWaste,no,EPCRA
+b7f953ef-a8cb-4ba5-a173-88a44b144343,2023,hazardousWasteFinancialAssuranceRequirements,yes,EPCRA
+b7f953ef-a8cb-4ba5-a173-88a44b144343,2023,hazardousWasteConsolidate,yes,EPCRA
+b7f953ef-a8cb-4ba5-a173-88a44b144343,2023,hazardousWasteTankClosureRemoval,yes,EPCRA
+b7f953ef-a8cb-4ba5-a173-88a44b144343,2023,hazardousWasteRCRA,no,EPCRA
+b7f953ef-a8cb-4ba5-a173-88a44b144343,2023,hazardousWasteHHWCollectionSite,yes,EPCRA
+b7f953ef-a8cb-4ba5-a173-88a44b144343,2023,businessPhone,(818) 884-7600,EPCRA
+b7f953ef-a8cb-4ba5-a173-88a44b144343,2023,businessFax,(818) 666-1537,EPCRA
+b7f953ef-a8cb-4ba5-a173-88a44b144343,2023,dunBradStreet,72940372,EPCRA
+b7f953ef-a8cb-4ba5-a173-88a44b144343,2023,sicCode,511,EPCRA
+b7f953ef-a8cb-4ba5-a173-88a44b144343,2023,naicsCode,441110,EPCRA
+b7f953ef-a8cb-4ba5-a173-88a44b144343,2023,totalNumberOfUst,1,EPCRA
+b7f953ef-a8cb-4ba5-a173-88a44b144343,2023,indianOrTrustLand,no,EPCRA
+b7f953ef-a8cb-4ba5-a173-88a44b144343,2023,supervisorDivisionSectionOffice,N/A,EPCRA
+b7f953ef-a8cb-4ba5-a173-88a44b144343,2023,boeNumber,n/a,EPCRA
+b7f953ef-a8cb-4ba5-a173-88a44b144343,2023,permitHolder,Vista Ford Linconl,EPCRA
+b7f953ef-a8cb-4ba5-a173-88a44b144343,2023,financialInstitutionOrSuretyCountry,Bank of America,EPCRA
+b7f953ef-a8cb-4ba5-a173-88a44b144343,2023,numberOfEmployees,96,EPCRA
+b7f953ef-a8cb-4ba5-a173-88a44b144343,2023,apsaConditionallyExempt,Not Applicable,EPCRA
+b7f953ef-a8cb-4ba5-a173-88a44b144343,2023,apsaTotalStorageCapacity,0,EPCRA
+b7f953ef-a8cb-4ba5-a173-88a44b144343,2023,apsaTanksInUndergroundAreas,1,EPCRA
+b7f953ef-a8cb-4ba5-a173-88a44b144343,2023,apsaDateOfCertificationOrReview,2024-02-13,EPCRA

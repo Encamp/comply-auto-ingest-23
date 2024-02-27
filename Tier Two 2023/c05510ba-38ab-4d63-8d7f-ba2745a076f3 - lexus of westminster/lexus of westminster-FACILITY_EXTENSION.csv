@@ -1,0 +1,29 @@
+Facility ID,Reporting Year,Key,Value,Extension Type
+6b1694cf-9f1b-4cf3-b267-9d08ca040723,2023,epaId,VQ201653580,EPCRA
+6b1694cf-9f1b-4cf3-b267-9d08ca040723,2023,businessName,RRL Corp. DBA Lexus of Westminster,EPCRA
+6b1694cf-9f1b-4cf3-b267-9d08ca040723,2023,calarpRegulatedSubstance,no,EPCRA
+6b1694cf-9f1b-4cf3-b267-9d08ca040723,2023,hasAPS,no,EPCRA
+6b1694cf-9f1b-4cf3-b267-9d08ca040723,2023,generatesHazardousWaste,yes,EPCRA
+6b1694cf-9f1b-4cf3-b267-9d08ca040723,2023,recycle,no,EPCRA
+6b1694cf-9f1b-4cf3-b267-9d08ca040723,2023,treatsHazardousWaste,no,EPCRA
+6b1694cf-9f1b-4cf3-b267-9d08ca040723,2023,hazardousWasteFinancialAssuranceRequirements,yes,EPCRA
+6b1694cf-9f1b-4cf3-b267-9d08ca040723,2023,hazardousWasteConsolidate,no,EPCRA
+6b1694cf-9f1b-4cf3-b267-9d08ca040723,2023,hazardousWasteTankClosureRemoval,no,EPCRA
+6b1694cf-9f1b-4cf3-b267-9d08ca040723,2023,hazardousWasteRCRA,no,EPCRA
+6b1694cf-9f1b-4cf3-b267-9d08ca040723,2023,hazardousWasteHHWCollectionSite,no,EPCRA
+6b1694cf-9f1b-4cf3-b267-9d08ca040723,2023,businessPhone,(714) 892-6906,EPCRA
+6b1694cf-9f1b-4cf3-b267-9d08ca040723,2023,businessFax,(714) 892-8524,EPCRA
+6b1694cf-9f1b-4cf3-b267-9d08ca040723,2023,dunBradStreet,unknown,EPCRA
+6b1694cf-9f1b-4cf3-b267-9d08ca040723,2023,sicCode,unknown,EPCRA
+6b1694cf-9f1b-4cf3-b267-9d08ca040723,2023,naicsCode,unknown,EPCRA
+6b1694cf-9f1b-4cf3-b267-9d08ca040723,2023,totalNumberOfUst,0,EPCRA
+6b1694cf-9f1b-4cf3-b267-9d08ca040723,2023,indianOrTrustLand,Not Applicable,EPCRA
+6b1694cf-9f1b-4cf3-b267-9d08ca040723,2023,supervisorDivisionSectionOffice,N/A,EPCRA
+6b1694cf-9f1b-4cf3-b267-9d08ca040723,2023,boeNumber,N/A,EPCRA
+6b1694cf-9f1b-4cf3-b267-9d08ca040723,2023,permitHolder,N/A,EPCRA
+6b1694cf-9f1b-4cf3-b267-9d08ca040723,2023,financialInstitutionOrSuretyCountry,United States,EPCRA
+6b1694cf-9f1b-4cf3-b267-9d08ca040723,2023,numberOfEmployees,104,EPCRA
+6b1694cf-9f1b-4cf3-b267-9d08ca040723,2023,apsaConditionallyExempt,yes,EPCRA
+6b1694cf-9f1b-4cf3-b267-9d08ca040723,2023,apsaTotalStorageCapacity,0,EPCRA
+6b1694cf-9f1b-4cf3-b267-9d08ca040723,2023,apsaTanksInUndergroundAreas,0,EPCRA
+6b1694cf-9f1b-4cf3-b267-9d08ca040723,2023,apsaDateOfCertificationOrReview,2024-01-01,EPCRA

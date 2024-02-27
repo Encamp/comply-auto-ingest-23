@@ -1,0 +1,1432 @@
+Facility ID,Chemical ID,Reporting Year,Key,Value,Extension Type
+302fadd2-a5cb-42d4-b669-79ffd3742cba,ab742f24-4cfb-4bf1-b651-968fe83a3911,2023,transportationModes,Truck,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,dd4cb16b-a155-4ffb-af88-5f77c92cbc91,2023,transportationModes,Truck,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,cbaa07da-3a98-4d1b-8308-a7681be93319,2023,transportationModes,Truck/Van,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,transportationModes,Truck,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,9aa60d8c-076e-4f86-83c7-06198f950f7b,2023,transportationModes,Truck,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,81fdde31-ddfc-4d33-8464-d78dd16d5fa8,2023,transportationModes,Truck,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,0923217c-cb92-48cd-88b2-1dfe09512683,2023,transportationModes,truck,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,8dfc8d31-4715-4fcb-b15c-293775c7b784,2023,transportationModes,N/A,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,transportationModes,Truck/Van,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,b332f0ed-754e-419a-b55c-536dc80920cb,2023,transportationModes,Truck,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,3d91f535-c50e-4b92-a018-013c590d6aed,2023,transportationModes,van,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,transportationModes,Truck/Van,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,transportationModes,Truck/Van,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,4f585d04-34f2-49a9-8f66-4572dabb1e84,2023,transportationModes,Truck,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,51e576f9-66ba-4671-9b44-c30bef797499,2023,transportationModes,Truck,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,f1e18ddb-f06b-4fec-9125-c0f7af1ad31d,2023,transportationModes,Truck,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,f08aa55a-465a-4557-bb80-630363e95471,2023,transportationModes,Truck,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,transportationModes,Truck/Van,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,ab742f24-4cfb-4bf1-b651-968fe83a3911,2023,shippingFrequency,As Needed,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,dd4cb16b-a155-4ffb-af88-5f77c92cbc91,2023,shippingFrequency,As Needed,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,cbaa07da-3a98-4d1b-8308-a7681be93319,2023,shippingFrequency,As Needed,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,shippingFrequency,As Needed,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,9aa60d8c-076e-4f86-83c7-06198f950f7b,2023,shippingFrequency,As Needed,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,81fdde31-ddfc-4d33-8464-d78dd16d5fa8,2023,shippingFrequency,As needed,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,0923217c-cb92-48cd-88b2-1dfe09512683,2023,shippingFrequency,as needed,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,8dfc8d31-4715-4fcb-b15c-293775c7b784,2023,shippingFrequency,N/A,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,shippingFrequency,yearly,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,b332f0ed-754e-419a-b55c-536dc80920cb,2023,shippingFrequency,Monthly,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,3d91f535-c50e-4b92-a018-013c590d6aed,2023,shippingFrequency,yearly,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,shippingFrequency,Bi-Monthly,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,shippingFrequency,Yearly,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,4f585d04-34f2-49a9-8f66-4572dabb1e84,2023,shippingFrequency,Once,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,51e576f9-66ba-4671-9b44-c30bef797499,2023,shippingFrequency,Monthly,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,f1e18ddb-f06b-4fec-9125-c0f7af1ad31d,2023,shippingFrequency,As Needed,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,f08aa55a-465a-4557-bb80-630363e95471,2023,shippingFrequency,AS Needed,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,shippingFrequency,bi-weekly,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,ab742f24-4cfb-4bf1-b651-968fe83a3911,2023,maximumCapacityPerSingleVessel,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,dd4cb16b-a155-4ffb-af88-5f77c92cbc91,2023,maximumCapacityPerSingleVessel,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,cbaa07da-3a98-4d1b-8308-a7681be93319,2023,maximumCapacityPerSingleVessel,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,maximumCapacityPerSingleVessel,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,9aa60d8c-076e-4f86-83c7-06198f950f7b,2023,maximumCapacityPerSingleVessel,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,81fdde31-ddfc-4d33-8464-d78dd16d5fa8,2023,maximumCapacityPerSingleVessel,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,0923217c-cb92-48cd-88b2-1dfe09512683,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,8dfc8d31-4715-4fcb-b15c-293775c7b784,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,maximumCapacityPerSingleVessel,30,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,b332f0ed-754e-419a-b55c-536dc80920cb,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,3d91f535-c50e-4b92-a018-013c590d6aed,2023,maximumCapacityPerSingleVessel,40lbs,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,maximumCapacityPerSingleVessel,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,maximumCapacityPerSingleVessel,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,4f585d04-34f2-49a9-8f66-4572dabb1e84,2023,maximumCapacityPerSingleVessel,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,51e576f9-66ba-4671-9b44-c30bef797499,2023,maximumCapacityPerSingleVessel,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,f1e18ddb-f06b-4fec-9125-c0f7af1ad31d,2023,maximumCapacityPerSingleVessel,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,f08aa55a-465a-4557-bb80-630363e95471,2023,maximumCapacityPerSingleVessel,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,maximumCapacityPerSingleVessel,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,ab742f24-4cfb-4bf1-b651-968fe83a3911,2023,maximumShipmentQuantity,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,cbaa07da-3a98-4d1b-8308-a7681be93319,2023,maximumShipmentQuantity,Uknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,dd4cb16b-a155-4ffb-af88-5f77c92cbc91,2023,maximumShipmentQuantity,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,maximumShipmentQuantity,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,9aa60d8c-076e-4f86-83c7-06198f950f7b,2023,maximumShipmentQuantity,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,81fdde31-ddfc-4d33-8464-d78dd16d5fa8,2023,maximumShipmentQuantity,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,0923217c-cb92-48cd-88b2-1dfe09512683,2023,maximumShipmentQuantity,unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,8dfc8d31-4715-4fcb-b15c-293775c7b784,2023,maximumShipmentQuantity,unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,maximumShipmentQuantity,30,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,b332f0ed-754e-419a-b55c-536dc80920cb,2023,maximumShipmentQuantity,unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,3d91f535-c50e-4b92-a018-013c590d6aed,2023,maximumShipmentQuantity,40lbs,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,maximumShipmentQuantity,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,maximumShipmentQuantity,Unknow,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,4f585d04-34f2-49a9-8f66-4572dabb1e84,2023,maximumShipmentQuantity,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,51e576f9-66ba-4671-9b44-c30bef797499,2023,maximumShipmentQuantity,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,f1e18ddb-f06b-4fec-9125-c0f7af1ad31d,2023,maximumShipmentQuantity,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,f08aa55a-465a-4557-bb80-630363e95471,2023,maximumShipmentQuantity,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,maximumShipmentQuantity,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,ab742f24-4cfb-4bf1-b651-968fe83a3911,2023,averageShipmentQuantity,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,dd4cb16b-a155-4ffb-af88-5f77c92cbc91,2023,averageShipmentQuantity,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,cbaa07da-3a98-4d1b-8308-a7681be93319,2023,averageShipmentQuantity,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,averageShipmentQuantity,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,9aa60d8c-076e-4f86-83c7-06198f950f7b,2023,averageShipmentQuantity,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,81fdde31-ddfc-4d33-8464-d78dd16d5fa8,2023,averageShipmentQuantity,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,0923217c-cb92-48cd-88b2-1dfe09512683,2023,averageShipmentQuantity,unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,8dfc8d31-4715-4fcb-b15c-293775c7b784,2023,averageShipmentQuantity,unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,averageShipmentQuantity,30,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,b332f0ed-754e-419a-b55c-536dc80920cb,2023,averageShipmentQuantity,unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,3d91f535-c50e-4b92-a018-013c590d6aed,2023,averageShipmentQuantity,40lbs,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,averageShipmentQuantity,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,averageShipmentQuantity,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,4f585d04-34f2-49a9-8f66-4572dabb1e84,2023,averageShipmentQuantity,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,51e576f9-66ba-4671-9b44-c30bef797499,2023,averageShipmentQuantity,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,f1e18ddb-f06b-4fec-9125-c0f7af1ad31d,2023,averageShipmentQuantity,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,f08aa55a-465a-4557-bb80-630363e95471,2023,averageShipmentQuantity,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,averageShipmentQuantity,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,ab742f24-4cfb-4bf1-b651-968fe83a3911,2023,physicalStateInTransit,Liquid,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,cbaa07da-3a98-4d1b-8308-a7681be93319,2023,physicalStateInTransit,Liquid,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,dd4cb16b-a155-4ffb-af88-5f77c92cbc91,2023,physicalStateInTransit,Liquid,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,physicalStateInTransit,Liquid/individual containers,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,9aa60d8c-076e-4f86-83c7-06198f950f7b,2023,physicalStateInTransit,Liquid/individual containers,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,81fdde31-ddfc-4d33-8464-d78dd16d5fa8,2023,physicalStateInTransit,Liquid/individual containers,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,0923217c-cb92-48cd-88b2-1dfe09512683,2023,physicalStateInTransit,liquid,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,8dfc8d31-4715-4fcb-b15c-293775c7b784,2023,physicalStateInTransit,liquid,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,physicalStateInTransit,gas,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,b332f0ed-754e-419a-b55c-536dc80920cb,2023,physicalStateInTransit,liquid,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,3d91f535-c50e-4b92-a018-013c590d6aed,2023,physicalStateInTransit,Solid,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,physicalStateInTransit,Liquid,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,physicalStateInTransit,Liquid,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,4f585d04-34f2-49a9-8f66-4572dabb1e84,2023,physicalStateInTransit,Liquid,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,51e576f9-66ba-4671-9b44-c30bef797499,2023,physicalStateInTransit,Liquid/Solid/Sealed,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,f1e18ddb-f06b-4fec-9125-c0f7af1ad31d,2023,physicalStateInTransit,Liquid,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,f08aa55a-465a-4557-bb80-630363e95471,2023,physicalStateInTransit,Liquid,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,physicalStateInTransit,Liquid,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,ab742f24-4cfb-4bf1-b651-968fe83a3911,2023,comments,Through SNE,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,dd4cb16b-a155-4ffb-af88-5f77c92cbc91,2023,comments,Through SNE,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,cbaa07da-3a98-4d1b-8308-a7681be93319,2023,comments,BG,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,comments,Wurth,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,9aa60d8c-076e-4f86-83c7-06198f950f7b,2023,comments,Through SNE Local Parts Store,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,81fdde31-ddfc-4d33-8464-d78dd16d5fa8,2023,comments,Wurth,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,0923217c-cb92-48cd-88b2-1dfe09512683,2023,comments,primary,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,8dfc8d31-4715-4fcb-b15c-293775c7b784,2023,comments,N/A,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,comments,primary,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,b332f0ed-754e-419a-b55c-536dc80920cb,2023,comments,Through SNE,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,3d91f535-c50e-4b92-a018-013c590d6aed,2023,comments,Personal Pick up / Walmart,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,comments,Through SNE,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,comments,Through SNE,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,4f585d04-34f2-49a9-8f66-4572dabb1e84,2023,comments,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,51e576f9-66ba-4671-9b44-c30bef797499,2023,comments,Through SNE,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,f1e18ddb-f06b-4fec-9125-c0f7af1ad31d,2023,comments,Unknown,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,f08aa55a-465a-4557-bb80-630363e95471,2023,comments,Through SNE,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,comments,BG,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,ab742f24-4cfb-4bf1-b651-968fe83a3911,2023,carrier,SNE,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,dd4cb16b-a155-4ffb-af88-5f77c92cbc91,2023,carrier,UPS/Burke,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,cbaa07da-3a98-4d1b-8308-a7681be93319,2023,carrier,Warehouse Distributors,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,carrier,UPS,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,9aa60d8c-076e-4f86-83c7-06198f950f7b,2023,carrier,Advance,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,81fdde31-ddfc-4d33-8464-d78dd16d5fa8,2023,carrier,UPS,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,0923217c-cb92-48cd-88b2-1dfe09512683,2023,carrier,Burke,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,8dfc8d31-4715-4fcb-b15c-293775c7b784,2023,carrier,N/A,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,carrier,Advance Auto,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,b332f0ed-754e-419a-b55c-536dc80920cb,2023,carrier,fed-ex/NEMF,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,3d91f535-c50e-4b92-a018-013c590d6aed,2023,carrier,HSSA,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,carrier,UPS,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,carrier,UPS,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,4f585d04-34f2-49a9-8f66-4572dabb1e84,2023,carrier,NEMF/A Dui Pyle,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,51e576f9-66ba-4671-9b44-c30bef797499,2023,carrier,Interstate Batteries,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,f1e18ddb-f06b-4fec-9125-c0f7af1ad31d,2023,carrier,Safety Clean,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,f08aa55a-465a-4557-bb80-630363e95471,2023,carrier,Burke,EPCRA
+302fadd2-a5cb-42d4-b669-79ffd3742cba,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,carrier,Warehouse Distributors,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,1267d2d6-b2b0-464d-895b-91eb50feac10,2023,transportationModes,Truck,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,234d3cf8-ea9f-4296-bdb1-258c7b7deb8a,2023,transportationModes,Truck,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,transportationModes,Truck,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4a2e8b70-e42d-4001-93d8-c0f27be74351,2023,transportationModes,Truck,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c7b40778-d793-442e-896f-ee54b8771696,2023,transportationModes,Truck,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,167aa47e-d555-4763-a0af-206522aa7aac,2023,transportationModes,Truck,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,ca89d0e9-b8b2-499e-89b0-0fc739db6cbe,2023,transportationModes,Truck,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,28837094-2a14-4c41-b58c-66d060127d90,2023,transportationModes,Truck,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2c3f9bba-3f9e-49e0-a13d-e13928daa37e,2023,transportationModes,Truck,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2e7f4013-2677-4de0-9bf4-4bc0dd3c5c11,2023,transportationModes,Truck,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2ecdda9d-c585-43fd-b209-7969711facd6,2023,transportationModes,Truck,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4399814a-d015-4d71-b42c-1a3aac32ff82,2023,transportationModes,Truck,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,387d0d67-1389-4689-8ba4-d15c8c3079cb,2023,transportationModes,Truck,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,transportationModes,Truck,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,transportationModes,Truck,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,51d13f80-7768-4630-b554-1a3172e8fbbb,2023,transportationModes,Truck,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,51e576f9-66ba-4671-9b44-c30bef797499,2023,transportationModes,Truck,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,08941d9c-7c06-4827-bf28-24ed477e92ae,2023,transportationModes,Van,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5721402c-a444-4084-ba8a-698ae7e2782d,2023,transportationModes,Truck,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5764ec3c-7154-43e0-94f7-feffad4aa29b,2023,transportationModes,Truck,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5c0a9109-2333-4236-b89b-7574ec88fc5e,2023,transportationModes,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,transportationModes,Truck,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,7e72b606-292b-4836-8ca5-79cd90ac0e8e,2023,transportationModes,Truck,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,8f3b3132-0ee4-4d54-b373-b43712769422,2023,transportationModes,Truck,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,transportationModes,Truck,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,9cce1fe6-5e0f-4e75-baba-92dcc56e41fd,2023,transportationModes,Truck,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,eee1fe71-710c-4b69-a38f-298b3b409666,2023,transportationModes,Truck,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,a6715aed-39da-40af-85b1-0349ace5138e,2023,transportationModes,Truck,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c5bf5421-b8e6-4949-9ed2-73852cb016c4,2023,transportationModes,Truck,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c9c42cc3-3156-462f-8a19-fb8c438ca6f9,2023,transportationModes,Truck,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,transportationModes,Truck,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,1267d2d6-b2b0-464d-895b-91eb50feac10,2023,shippingFrequency,yearly,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,234d3cf8-ea9f-4296-bdb1-258c7b7deb8a,2023,shippingFrequency,yearly,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,shippingFrequency,yearly,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,shippingFrequency,yearly,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,51e576f9-66ba-4671-9b44-c30bef797499,2023,shippingFrequency,Weekly,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,167aa47e-d555-4763-a0af-206522aa7aac,2023,shippingFrequency,bi-annually,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c7b40778-d793-442e-896f-ee54b8771696,2023,shippingFrequency,yearly,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,28837094-2a14-4c41-b58c-66d060127d90,2023,shippingFrequency,bi-annually,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4a2e8b70-e42d-4001-93d8-c0f27be74351,2023,shippingFrequency,yeary,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,ca89d0e9-b8b2-499e-89b0-0fc739db6cbe,2023,shippingFrequency,Monthly,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2c3f9bba-3f9e-49e0-a13d-e13928daa37e,2023,shippingFrequency,monthly,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2e7f4013-2677-4de0-9bf4-4bc0dd3c5c11,2023,shippingFrequency,as needed,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2ecdda9d-c585-43fd-b209-7969711facd6,2023,shippingFrequency,bi-annually,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,387d0d67-1389-4689-8ba4-d15c8c3079cb,2023,shippingFrequency,monthly,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4399814a-d015-4d71-b42c-1a3aac32ff82,2023,shippingFrequency,as needed,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,51d13f80-7768-4630-b554-1a3172e8fbbb,2023,shippingFrequency,as needed,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,shippingFrequency,bi-annual,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5721402c-a444-4084-ba8a-698ae7e2782d,2023,shippingFrequency,quarterly,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,08941d9c-7c06-4827-bf28-24ed477e92ae,2023,shippingFrequency,yearly,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5764ec3c-7154-43e0-94f7-feffad4aa29b,2023,shippingFrequency,as needed,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5c0a9109-2333-4236-b89b-7574ec88fc5e,2023,shippingFrequency,ordered 3 years ago,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,shippingFrequency,once a year,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,7e72b606-292b-4836-8ca5-79cd90ac0e8e,2023,shippingFrequency,twice a year,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,8f3b3132-0ee4-4d54-b373-b43712769422,2023,shippingFrequency,Sent once by Hyundai,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,shippingFrequency,one time,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c9c42cc3-3156-462f-8a19-fb8c438ca6f9,2023,shippingFrequency,as needed,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,9cce1fe6-5e0f-4e75-baba-92dcc56e41fd,2023,shippingFrequency,was ordered over 3 years ago,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,a6715aed-39da-40af-85b1-0349ace5138e,2023,shippingFrequency,as needed,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c5bf5421-b8e6-4949-9ed2-73852cb016c4,2023,shippingFrequency,bi annually,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,shippingFrequency,bi-annually,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,eee1fe71-710c-4b69-a38f-298b3b409666,2023,shippingFrequency,every few months,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,1267d2d6-b2b0-464d-895b-91eb50feac10,2023,maximumCapacityPerSingleVessel,quarts,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,234d3cf8-ea9f-4296-bdb1-258c7b7deb8a,2023,maximumCapacityPerSingleVessel,pound,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4a2e8b70-e42d-4001-93d8-c0f27be74351,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,167aa47e-d555-4763-a0af-206522aa7aac,2023,maximumCapacityPerSingleVessel,pounds,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c7b40778-d793-442e-896f-ee54b8771696,2023,maximumCapacityPerSingleVessel,pounds,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,ca89d0e9-b8b2-499e-89b0-0fc739db6cbe,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,28837094-2a14-4c41-b58c-66d060127d90,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2c3f9bba-3f9e-49e0-a13d-e13928daa37e,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2e7f4013-2677-4de0-9bf4-4bc0dd3c5c11,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2ecdda9d-c585-43fd-b209-7969711facd6,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4399814a-d015-4d71-b42c-1a3aac32ff82,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,387d0d67-1389-4689-8ba4-d15c8c3079cb,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,51d13f80-7768-4630-b554-1a3172e8fbbb,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,51e576f9-66ba-4671-9b44-c30bef797499,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,08941d9c-7c06-4827-bf28-24ed477e92ae,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5721402c-a444-4084-ba8a-698ae7e2782d,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5764ec3c-7154-43e0-94f7-feffad4aa29b,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5c0a9109-2333-4236-b89b-7574ec88fc5e,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,7e72b606-292b-4836-8ca5-79cd90ac0e8e,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,8f3b3132-0ee4-4d54-b373-b43712769422,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c9c42cc3-3156-462f-8a19-fb8c438ca6f9,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,9cce1fe6-5e0f-4e75-baba-92dcc56e41fd,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,eee1fe71-710c-4b69-a38f-298b3b409666,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,a6715aed-39da-40af-85b1-0349ace5138e,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c5bf5421-b8e6-4949-9ed2-73852cb016c4,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,1267d2d6-b2b0-464d-895b-91eb50feac10,2023,maximumShipmentQuantity,quarts,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,234d3cf8-ea9f-4296-bdb1-258c7b7deb8a,2023,maximumShipmentQuantity,pound,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,maximumShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,maximumShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,51e576f9-66ba-4671-9b44-c30bef797499,2023,maximumShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c7b40778-d793-442e-896f-ee54b8771696,2023,maximumShipmentQuantity,pounds,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,167aa47e-d555-4763-a0af-206522aa7aac,2023,maximumShipmentQuantity,pounds,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,28837094-2a14-4c41-b58c-66d060127d90,2023,maximumShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,ca89d0e9-b8b2-499e-89b0-0fc739db6cbe,2023,maximumShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2c3f9bba-3f9e-49e0-a13d-e13928daa37e,2023,maximumShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2e7f4013-2677-4de0-9bf4-4bc0dd3c5c11,2023,maximumShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2ecdda9d-c585-43fd-b209-7969711facd6,2023,maximumShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,387d0d67-1389-4689-8ba4-d15c8c3079cb,2023,maximumShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4a2e8b70-e42d-4001-93d8-c0f27be74351,2023,maximumShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4399814a-d015-4d71-b42c-1a3aac32ff82,2023,maximumShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,maximumShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,51d13f80-7768-4630-b554-1a3172e8fbbb,2023,maximumShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,08941d9c-7c06-4827-bf28-24ed477e92ae,2023,maximumShipmentQuantity,1 pound,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5721402c-a444-4084-ba8a-698ae7e2782d,2023,maximumShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5764ec3c-7154-43e0-94f7-feffad4aa29b,2023,maximumShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5c0a9109-2333-4236-b89b-7574ec88fc5e,2023,maximumShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,maximumShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,7e72b606-292b-4836-8ca5-79cd90ac0e8e,2023,maximumShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,8f3b3132-0ee4-4d54-b373-b43712769422,2023,maximumShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,maximumShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,9cce1fe6-5e0f-4e75-baba-92dcc56e41fd,2023,maximumShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,a6715aed-39da-40af-85b1-0349ace5138e,2023,maximumShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c5bf5421-b8e6-4949-9ed2-73852cb016c4,2023,maximumShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c9c42cc3-3156-462f-8a19-fb8c438ca6f9,2023,maximumShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,maximumShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,eee1fe71-710c-4b69-a38f-298b3b409666,2023,maximumShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,1267d2d6-b2b0-464d-895b-91eb50feac10,2023,averageShipmentQuantity,10 quarts,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,234d3cf8-ea9f-4296-bdb1-258c7b7deb8a,2023,averageShipmentQuantity,1 pound,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,averageShipmentQuantity,ounces,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4a2e8b70-e42d-4001-93d8-c0f27be74351,2023,averageShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c7b40778-d793-442e-896f-ee54b8771696,2023,averageShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,167aa47e-d555-4763-a0af-206522aa7aac,2023,averageShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,ca89d0e9-b8b2-499e-89b0-0fc739db6cbe,2023,averageShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,28837094-2a14-4c41-b58c-66d060127d90,2023,averageShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2c3f9bba-3f9e-49e0-a13d-e13928daa37e,2023,averageShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2e7f4013-2677-4de0-9bf4-4bc0dd3c5c11,2023,averageShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2ecdda9d-c585-43fd-b209-7969711facd6,2023,averageShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4399814a-d015-4d71-b42c-1a3aac32ff82,2023,averageShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,387d0d67-1389-4689-8ba4-d15c8c3079cb,2023,averageShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,averageShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,51d13f80-7768-4630-b554-1a3172e8fbbb,2023,averageShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,averageShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,51e576f9-66ba-4671-9b44-c30bef797499,2023,averageShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,08941d9c-7c06-4827-bf28-24ed477e92ae,2023,averageShipmentQuantity,pounds,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5721402c-a444-4084-ba8a-698ae7e2782d,2023,averageShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5764ec3c-7154-43e0-94f7-feffad4aa29b,2023,averageShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5c0a9109-2333-4236-b89b-7574ec88fc5e,2023,averageShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,averageShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,7e72b606-292b-4836-8ca5-79cd90ac0e8e,2023,averageShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,8f3b3132-0ee4-4d54-b373-b43712769422,2023,averageShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,averageShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c9c42cc3-3156-462f-8a19-fb8c438ca6f9,2023,averageShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,9cce1fe6-5e0f-4e75-baba-92dcc56e41fd,2023,averageShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,eee1fe71-710c-4b69-a38f-298b3b409666,2023,averageShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,a6715aed-39da-40af-85b1-0349ace5138e,2023,averageShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c5bf5421-b8e6-4949-9ed2-73852cb016c4,2023,averageShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,averageShipmentQuantity,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,1267d2d6-b2b0-464d-895b-91eb50feac10,2023,physicalStateInTransit,liquid,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,234d3cf8-ea9f-4296-bdb1-258c7b7deb8a,2023,physicalStateInTransit,liquid,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,physicalStateInTransit,liquid,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,physicalStateInTransit,liquid,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,51e576f9-66ba-4671-9b44-c30bef797499,2023,physicalStateInTransit,solid,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c7b40778-d793-442e-896f-ee54b8771696,2023,physicalStateInTransit,liquid,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,167aa47e-d555-4763-a0af-206522aa7aac,2023,physicalStateInTransit,liquid,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,28837094-2a14-4c41-b58c-66d060127d90,2023,physicalStateInTransit,liquid,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,ca89d0e9-b8b2-499e-89b0-0fc739db6cbe,2023,physicalStateInTransit,liquid,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2c3f9bba-3f9e-49e0-a13d-e13928daa37e,2023,physicalStateInTransit,liquid,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2e7f4013-2677-4de0-9bf4-4bc0dd3c5c11,2023,physicalStateInTransit,liquid,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2ecdda9d-c585-43fd-b209-7969711facd6,2023,physicalStateInTransit,gas,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,387d0d67-1389-4689-8ba4-d15c8c3079cb,2023,physicalStateInTransit,liquid,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4a2e8b70-e42d-4001-93d8-c0f27be74351,2023,physicalStateInTransit,liquid,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4399814a-d015-4d71-b42c-1a3aac32ff82,2023,physicalStateInTransit,liquid,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,physicalStateInTransit,liquid,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,51d13f80-7768-4630-b554-1a3172e8fbbb,2023,physicalStateInTransit,liquid,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,08941d9c-7c06-4827-bf28-24ed477e92ae,2023,physicalStateInTransit,liquid,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5721402c-a444-4084-ba8a-698ae7e2782d,2023,physicalStateInTransit,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5764ec3c-7154-43e0-94f7-feffad4aa29b,2023,physicalStateInTransit,liquid,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5c0a9109-2333-4236-b89b-7574ec88fc5e,2023,physicalStateInTransit,liquid,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,physicalStateInTransit,gas,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,7e72b606-292b-4836-8ca5-79cd90ac0e8e,2023,physicalStateInTransit,liquid,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,8f3b3132-0ee4-4d54-b373-b43712769422,2023,physicalStateInTransit,liquid,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,physicalStateInTransit,liquid,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,9cce1fe6-5e0f-4e75-baba-92dcc56e41fd,2023,physicalStateInTransit,liquid,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,a6715aed-39da-40af-85b1-0349ace5138e,2023,physicalStateInTransit,liquid,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c9c42cc3-3156-462f-8a19-fb8c438ca6f9,2023,physicalStateInTransit,liquid,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c5bf5421-b8e6-4949-9ed2-73852cb016c4,2023,physicalStateInTransit,gas,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,physicalStateInTransit,gas,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,eee1fe71-710c-4b69-a38f-298b3b409666,2023,physicalStateInTransit,liquid,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,1267d2d6-b2b0-464d-895b-91eb50feac10,2023,comments,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,234d3cf8-ea9f-4296-bdb1-258c7b7deb8a,2023,comments,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,comments,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4a2e8b70-e42d-4001-93d8-c0f27be74351,2023,comments,Fedex,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c7b40778-d793-442e-896f-ee54b8771696,2023,comments,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,167aa47e-d555-4763-a0af-206522aa7aac,2023,comments,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,ca89d0e9-b8b2-499e-89b0-0fc739db6cbe,2023,comments,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,28837094-2a14-4c41-b58c-66d060127d90,2023,comments,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2c3f9bba-3f9e-49e0-a13d-e13928daa37e,2023,comments,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2e7f4013-2677-4de0-9bf4-4bc0dd3c5c11,2023,comments,pick up at parts store,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2ecdda9d-c585-43fd-b209-7969711facd6,2023,comments,primary,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,387d0d67-1389-4689-8ba4-d15c8c3079cb,2023,comments,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,comments,Picked up from a local Honda dealer,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,51d13f80-7768-4630-b554-1a3172e8fbbb,2023,comments,order from BG Rep,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4399814a-d015-4d71-b42c-1a3aac32ff82,2023,comments,oick up from parts store,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,comments,order from  Hyundai comes Fedex,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,51e576f9-66ba-4671-9b44-c30bef797499,2023,comments,order from Hyundai and come via Interstate batteries,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,08941d9c-7c06-4827-bf28-24ed477e92ae,2023,comments,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5721402c-a444-4084-ba8a-698ae7e2782d,2023,comments,order from Hyundai come via Kem Krest and FedEx,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5764ec3c-7154-43e0-94f7-feffad4aa29b,2023,comments,order and pick up from local Honda Dealer,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5c0a9109-2333-4236-b89b-7574ec88fc5e,2023,comments,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,comments,purchase at local parts stores,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,7e72b606-292b-4836-8ca5-79cd90ac0e8e,2023,comments,order Hyundai comes fedex from kem krest,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,8f3b3132-0ee4-4d54-b373-b43712769422,2023,comments,Hyundai sent by Kem Krest via Fedex,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,comments,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c9c42cc3-3156-462f-8a19-fb8c438ca6f9,2023,comments,order from Hyundai comes Kem Krest via Fed Ex,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,9cce1fe6-5e0f-4e75-baba-92dcc56e41fd,2023,comments,Order by Hyundai came from Kem Krest by FedEx,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,eee1fe71-710c-4b69-a38f-298b3b409666,2023,comments,order and pick up at various parts stores,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,a6715aed-39da-40af-85b1-0349ace5138e,2023,comments,Drayton Distributors of New England,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c5bf5421-b8e6-4949-9ed2-73852cb016c4,2023,comments,order from local carrier,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,comments,order from various local parts stores and pick up,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,1267d2d6-b2b0-464d-895b-91eb50feac10,2023,carrier,Fedex,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,234d3cf8-ea9f-4296-bdb1-258c7b7deb8a,2023,carrier,BG Rep,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,carrier,BG Rep,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,carrier,na,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c7b40778-d793-442e-896f-ee54b8771696,2023,carrier,BG Rep,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,167aa47e-d555-4763-a0af-206522aa7aac,2023,carrier,Kem Krest,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,28837094-2a14-4c41-b58c-66d060127d90,2023,carrier,Kem Krest,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,ca89d0e9-b8b2-499e-89b0-0fc739db6cbe,2023,carrier,BG Rep,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2c3f9bba-3f9e-49e0-a13d-e13928daa37e,2023,carrier,Kem Krest,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2e7f4013-2677-4de0-9bf4-4bc0dd3c5c11,2023,carrier,na,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2ecdda9d-c585-43fd-b209-7969711facd6,2023,carrier,pick up at local store,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,387d0d67-1389-4689-8ba4-d15c8c3079cb,2023,carrier,Kem Krest,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4a2e8b70-e42d-4001-93d8-c0f27be74351,2023,carrier,Kem Krest,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4399814a-d015-4d71-b42c-1a3aac32ff82,2023,carrier,na,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,carrier,Kem Krest,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,51d13f80-7768-4630-b554-1a3172e8fbbb,2023,carrier,Drayton Distributors of NE,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,51e576f9-66ba-4671-9b44-c30bef797499,2023,carrier,Interstate Batteries,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,08941d9c-7c06-4827-bf28-24ed477e92ae,2023,carrier,BG Rep,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5721402c-a444-4084-ba8a-698ae7e2782d,2023,carrier,Kem Krest,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5764ec3c-7154-43e0-94f7-feffad4aa29b,2023,carrier,na,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5c0a9109-2333-4236-b89b-7574ec88fc5e,2023,carrier,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,carrier,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,7e72b606-292b-4836-8ca5-79cd90ac0e8e,2023,carrier,Kem Krest,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,8f3b3132-0ee4-4d54-b373-b43712769422,2023,carrier,Kem Krest,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,carrier,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,9cce1fe6-5e0f-4e75-baba-92dcc56e41fd,2023,carrier,Kem Krest,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,a6715aed-39da-40af-85b1-0349ace5138e,2023,carrier,Drayton Distributors of New England,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c5bf5421-b8e6-4949-9ed2-73852cb016c4,2023,carrier,Pittsfield Welding Supply Inc,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c9c42cc3-3156-462f-8a19-fb8c438ca6f9,2023,carrier,Kem Krest,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,carrier,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,eee1fe71-710c-4b69-a38f-298b3b409666,2023,carrier,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,1267d2d6-b2b0-464d-895b-91eb50feac10,2023,carrierAddress,Fedex,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,234d3cf8-ea9f-4296-bdb1-258c7b7deb8a,2023,carrierAddress,66 Leavitt St Seekonk,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,carrierAddress,66 Leavitt St,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4a2e8b70-e42d-4001-93d8-c0f27be74351,2023,carrierAddress,3221 Magnum Dr. Elkhart,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c7b40778-d793-442e-896f-ee54b8771696,2023,carrierAddress,66 Leavitt St,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,167aa47e-d555-4763-a0af-206522aa7aac,2023,carrierAddress,3221 Magnum Dr. Elkhart,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,ca89d0e9-b8b2-499e-89b0-0fc739db6cbe,2023,carrierAddress,66 Leavitt St,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,28837094-2a14-4c41-b58c-66d060127d90,2023,carrierAddress,3221 Magnum Dr. Elkhart,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2c3f9bba-3f9e-49e0-a13d-e13928daa37e,2023,carrierAddress,3221 Magnum Dr. Elkhart,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2e7f4013-2677-4de0-9bf4-4bc0dd3c5c11,2023,carrierAddress,na,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2ecdda9d-c585-43fd-b209-7969711facd6,2023,carrierAddress,na,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,387d0d67-1389-4689-8ba4-d15c8c3079cb,2023,carrierAddress,3221 Magnum Dr. Elkhart,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4399814a-d015-4d71-b42c-1a3aac32ff82,2023,carrierAddress,na,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,carrierAddress,na,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,carrierAddress,3221 Magnum Dr. Elkhart,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,51d13f80-7768-4630-b554-1a3172e8fbbb,2023,carrierAddress,66 Leavitt St,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,51e576f9-66ba-4671-9b44-c30bef797499,2023,carrierAddress,na,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,08941d9c-7c06-4827-bf28-24ed477e92ae,2023,carrierAddress,66 Leavitt St Seeconk,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5721402c-a444-4084-ba8a-698ae7e2782d,2023,carrierAddress,3221 Magnum Dr. Elkhart,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5764ec3c-7154-43e0-94f7-feffad4aa29b,2023,carrierAddress,na,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5c0a9109-2333-4236-b89b-7574ec88fc5e,2023,carrierAddress,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,carrierAddress,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,7e72b606-292b-4836-8ca5-79cd90ac0e8e,2023,carrierAddress,3221 Magnum Dr. Elkhart,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,8f3b3132-0ee4-4d54-b373-b43712769422,2023,carrierAddress,3221 Magnum Dr. Elkhart,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,carrierAddress,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c9c42cc3-3156-462f-8a19-fb8c438ca6f9,2023,carrierAddress,3221 Magnum Dr. Elkhart,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,9cce1fe6-5e0f-4e75-baba-92dcc56e41fd,2023,carrierAddress,3221 Magnum Dr. Elkhart,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,eee1fe71-710c-4b69-a38f-298b3b409666,2023,carrierAddress,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,a6715aed-39da-40af-85b1-0349ace5138e,2023,carrierAddress,66 Leavitt St,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c5bf5421-b8e6-4949-9ed2-73852cb016c4,2023,carrierAddress,1484 East St,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,carrierAddress,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,1267d2d6-b2b0-464d-895b-91eb50feac10,2023,carrierPhone,855-781-5239,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,234d3cf8-ea9f-4296-bdb1-258c7b7deb8a,2023,carrierPhone,800-543-6632,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,carrierPhone,800-543-6632,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,carrierPhone,na,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,51d13f80-7768-4630-b554-1a3172e8fbbb,2023,carrierPhone,800-543-6632,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,167aa47e-d555-4763-a0af-206522aa7aac,2023,carrierPhone,574.389.2650,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c7b40778-d793-442e-896f-ee54b8771696,2023,carrierPhone,800-543-6632,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,28837094-2a14-4c41-b58c-66d060127d90,2023,carrierPhone,574.389.2650,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,ca89d0e9-b8b2-499e-89b0-0fc739db6cbe,2023,carrierPhone,800-543-6632,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2c3f9bba-3f9e-49e0-a13d-e13928daa37e,2023,carrierPhone,574.389.2650,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2e7f4013-2677-4de0-9bf4-4bc0dd3c5c11,2023,carrierPhone,na,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2ecdda9d-c585-43fd-b209-7969711facd6,2023,carrierPhone,na,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,387d0d67-1389-4689-8ba4-d15c8c3079cb,2023,carrierPhone,800-543-6632,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4a2e8b70-e42d-4001-93d8-c0f27be74351,2023,carrierPhone,574.389.2650,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,carrierPhone,574.389.2650,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4399814a-d015-4d71-b42c-1a3aac32ff82,2023,carrierPhone,na,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,51e576f9-66ba-4671-9b44-c30bef797499,2023,carrierPhone,(866) 842-5368,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,08941d9c-7c06-4827-bf28-24ed477e92ae,2023,carrierPhone,800-543-6632,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5721402c-a444-4084-ba8a-698ae7e2782d,2023,carrierPhone,574.389.2650,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5764ec3c-7154-43e0-94f7-feffad4aa29b,2023,carrierPhone,na,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5c0a9109-2333-4236-b89b-7574ec88fc5e,2023,carrierPhone,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,carrierPhone,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,7e72b606-292b-4836-8ca5-79cd90ac0e8e,2023,carrierPhone,574.389.2650,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,8f3b3132-0ee4-4d54-b373-b43712769422,2023,carrierPhone,574.389.2650,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,carrierPhone,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,9cce1fe6-5e0f-4e75-baba-92dcc56e41fd,2023,carrierPhone,574.389.2650,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,eee1fe71-710c-4b69-a38f-298b3b409666,2023,carrierPhone,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,a6715aed-39da-40af-85b1-0349ace5138e,2023,carrierPhone,800-543-6632,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c5bf5421-b8e6-4949-9ed2-73852cb016c4,2023,carrierPhone,413-442-1693,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c9c42cc3-3156-462f-8a19-fb8c438ca6f9,2023,carrierPhone,574.389.2650,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,carrierPhone,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,1267d2d6-b2b0-464d-895b-91eb50feac10,2023,carrier24HourPhone,855-781-5239,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,234d3cf8-ea9f-4296-bdb1-258c7b7deb8a,2023,carrier24HourPhone,800-543-6632,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,carrier24HourPhone,800-543-6632,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4a2e8b70-e42d-4001-93d8-c0f27be74351,2023,carrier24HourPhone,574.389.2650,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c7b40778-d793-442e-896f-ee54b8771696,2023,carrier24HourPhone,800-543-6632,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,167aa47e-d555-4763-a0af-206522aa7aac,2023,carrier24HourPhone,574.389.2650,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,28837094-2a14-4c41-b58c-66d060127d90,2023,carrier24HourPhone,574.389.2650,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,ca89d0e9-b8b2-499e-89b0-0fc739db6cbe,2023,carrier24HourPhone,800-543-6632,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2c3f9bba-3f9e-49e0-a13d-e13928daa37e,2023,carrier24HourPhone,574.389.2650,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2e7f4013-2677-4de0-9bf4-4bc0dd3c5c11,2023,carrier24HourPhone,na,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,2ecdda9d-c585-43fd-b209-7969711facd6,2023,carrier24HourPhone,na,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4399814a-d015-4d71-b42c-1a3aac32ff82,2023,carrier24HourPhone,na,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,387d0d67-1389-4689-8ba4-d15c8c3079cb,2023,carrier24HourPhone,800-543-6632,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,carrier24HourPhone,574.389.2650,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,carrier24HourPhone,na,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,51d13f80-7768-4630-b554-1a3172e8fbbb,2023,carrier24HourPhone,800-543-6632,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,51e576f9-66ba-4671-9b44-c30bef797499,2023,carrier24HourPhone,(866) 842-5368,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,08941d9c-7c06-4827-bf28-24ed477e92ae,2023,carrier24HourPhone,800-543-6632,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5721402c-a444-4084-ba8a-698ae7e2782d,2023,carrier24HourPhone,574.389.2650,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5764ec3c-7154-43e0-94f7-feffad4aa29b,2023,carrier24HourPhone,na,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,5c0a9109-2333-4236-b89b-7574ec88fc5e,2023,carrier24HourPhone,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,carrier24HourPhone,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,7e72b606-292b-4836-8ca5-79cd90ac0e8e,2023,carrier24HourPhone,na,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,8f3b3132-0ee4-4d54-b373-b43712769422,2023,carrier24HourPhone,na,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,carrier24HourPhone,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c9c42cc3-3156-462f-8a19-fb8c438ca6f9,2023,carrier24HourPhone,na,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,9cce1fe6-5e0f-4e75-baba-92dcc56e41fd,2023,carrier24HourPhone,na,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,a6715aed-39da-40af-85b1-0349ace5138e,2023,carrier24HourPhone,800-543-6632,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,c5bf5421-b8e6-4949-9ed2-73852cb016c4,2023,carrier24HourPhone,na,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,carrier24HourPhone,unknown,EPCRA
+9a1d0cea-536a-4d84-87a3-26f38bc8c688,eee1fe71-710c-4b69-a38f-298b3b409666,2023,carrier24HourPhone,unknown,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,transportationModes,Truck,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,transportationModes,Truck,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,transportationModes,Truck,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,51e576f9-66ba-4671-9b44-c30bef797499,2023,transportationModes,Truck,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,78454019-521f-40cf-b60c-9842f6c1e475,2023,transportationModes,Truck,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,transportationModes,truck,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,shippingFrequency,as needed,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,78454019-521f-40cf-b60c-9842f6c1e475,2023,shippingFrequency,as needed,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,51e576f9-66ba-4671-9b44-c30bef797499,2023,shippingFrequency,as needed,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,shippingFrequency,as needed,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,shippingFrequency,quarterly,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,shippingFrequency,quarterly,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,78454019-521f-40cf-b60c-9842f6c1e475,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,maximumCapacityPerSingleVessel,1 tank,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,51e576f9-66ba-4671-9b44-c30bef797499,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,maximumShipmentQuantity,unknown,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,maximumShipmentQuantity,unknown,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,51e576f9-66ba-4671-9b44-c30bef797499,2023,maximumShipmentQuantity,unknown,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,78454019-521f-40cf-b60c-9842f6c1e475,2023,maximumShipmentQuantity,unknown,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,maximumShipmentQuantity,unknown,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,maximumShipmentQuantity,1 tank,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,averageShipmentQuantity,unknown,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,averageShipmentQuantity,unknown,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,averageShipmentQuantity,unknown,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,51e576f9-66ba-4671-9b44-c30bef797499,2023,averageShipmentQuantity,unknown,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,78454019-521f-40cf-b60c-9842f6c1e475,2023,averageShipmentQuantity,unknown,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,averageShipmentQuantity,unknown,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,physicalStateInTransit,liquid,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,78454019-521f-40cf-b60c-9842f6c1e475,2023,physicalStateInTransit,gas,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,51e576f9-66ba-4671-9b44-c30bef797499,2023,physicalStateInTransit,solid,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,physicalStateInTransit,liquid,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,physicalStateInTransit,gas,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,physicalStateInTransit,gas,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,comments,unknown,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,comments,unknown,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,51e576f9-66ba-4671-9b44-c30bef797499,2023,comments,unknown,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,78454019-521f-40cf-b60c-9842f6c1e475,2023,comments,unknown,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,comments,unknown,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,comments,unknown,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,carrier,unknown,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,78454019-521f-40cf-b60c-9842f6c1e475,2023,carrier,Pittsfield Welding Supply Inc,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,carrier,Haddad Toyota,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,51e576f9-66ba-4671-9b44-c30bef797499,2023,carrier,unknown,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,carrier,na,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,carrier,Pittsfield Welding Supply Inc,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,carrierAddress,unknown,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,carrierAddress,130 Pittsfield-Lennox Rd. Pittsfield,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,carrierAddress,1484 East St,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,51e576f9-66ba-4671-9b44-c30bef797499,2023,carrierAddress,na,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,78454019-521f-40cf-b60c-9842f6c1e475,2023,carrierAddress,1484 East St,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,carrierAddress,na,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,carrierPhone,na,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,78454019-521f-40cf-b60c-9842f6c1e475,2023,carrierPhone,(413) 442-1693,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,51e576f9-66ba-4671-9b44-c30bef797499,2023,carrierPhone,na,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,carrierPhone,na,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,carrierPhone,(413) 442-1693,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,carrierPhone,413-445-4535,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,carrier24HourPhone,na,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,carrier24HourPhone,413-445-4535,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,carrier24HourPhone,(413) 442-1693,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,51e576f9-66ba-4671-9b44-c30bef797499,2023,carrier24HourPhone,na,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,78454019-521f-40cf-b60c-9842f6c1e475,2023,carrier24HourPhone,(413) 442-1693,EPCRA
+48ba5240-e847-42df-8d99-05b68b6a0e4d,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,carrier24HourPhone,na,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,31d9743b-1daa-4b66-bcde-5a2162a9cb33,2023,transportationModes,Van,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,c6072e0d-c30a-4a93-ad0c-9201d81c877e,2023,transportationModes,truck,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,364d85c8-7f9f-4534-9df8-012245f78d33,2023,transportationModes,Van,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,transportationModes,Truck,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,51e576f9-66ba-4671-9b44-c30bef797499,2023,transportationModes,Truck,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ca715237-4b95-424d-b21e-865b5c60f848,2023,transportationModes,Truck,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,transportationModes,Truck,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ab742f24-4cfb-4bf1-b651-968fe83a3911,2023,transportationModes,Truck,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,transportationModes,truck,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,d41c3e79-d394-419c-9f2f-d2c03a33340f,2023,transportationModes,truck,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,78454019-521f-40cf-b60c-9842f6c1e475,2023,transportationModes,Truck,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,5bcfe6e5-4a37-40f8-92b1-a5d1d3718c13,2023,transportationModes,Truck,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,6befc1a2-cb49-47b7-9072-b1835b72391a,2023,transportationModes,truck,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,7b1439d0-2aea-41ad-92b9-7d4da9345a21,2023,transportationModes,Truck,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,cbaa07da-3a98-4d1b-8308-a7681be93319,2023,transportationModes,Truck/Van,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,transportationModes,Truck,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,6eb2130a-50b8-4989-b279-40cdf431f65c,2023,transportationModes,Truck,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,transportationModes,Truck/Van,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ca496247-83b1-4e53-b780-bdd19d4b3d91,2023,transportationModes,Truck,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,transportationModes,Truck,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,726b22b4-0960-400e-8d22-cd4348d0a7de,2023,transportationModes,Truck,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,79ebb312-27e1-49bd-a5c2-da0953d3468e,2023,transportationModes,Truck,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,8d52dd89-03a5-476b-9656-412481e84215,2023,transportationModes,Van,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,de8341e1-0ecd-404b-9805-9fffe890e669,2023,transportationModes,Truck,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,81fdde31-ddfc-4d33-8464-d78dd16d5fa8,2023,transportationModes,Truck,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,transportationModes,truck,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,09144c5e-f3bd-40f2-8c72-fac11c8adcfc,2023,transportationModes,Truck,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,df1487df-c4fd-45ec-a359-9232c704ef3e,2023,transportationModes,Truck,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,940b1e39-4b8e-4826-89ce-dc96cbbe2eb2,2023,transportationModes,Truck,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9aa60d8c-076e-4f86-83c7-06198f950f7b,2023,transportationModes,Truck,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,0923217c-cb92-48cd-88b2-1dfe09512683,2023,transportationModes,Truck,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,99408f92-f245-4366-badf-3193864218a7,2023,transportationModes,Truck,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,1e77ddf9-7001-482f-aa12-46ab9ff2a553,2023,transportationModes,truck,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,aa5b21a7-a4d1-4194-af1e-38c394259211,2023,transportationModes,Truck,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,30ac8f0f-3a67-4666-b114-96f27eb7fffd,2023,transportationModes,truck,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,30ac8f0f-3a67-4666-b114-96f27eb7fffd,2023,shippingFrequency,As needed,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,aa5b21a7-a4d1-4194-af1e-38c394259211,2023,shippingFrequency,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,364d85c8-7f9f-4534-9df8-012245f78d33,2023,shippingFrequency,Bi Weekly,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,31d9743b-1daa-4b66-bcde-5a2162a9cb33,2023,shippingFrequency,Bi Weekly,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,726b22b4-0960-400e-8d22-cd4348d0a7de,2023,shippingFrequency,as needed,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,shippingFrequency,As Needed,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ca715237-4b95-424d-b21e-865b5c60f848,2023,shippingFrequency,Bi Weekly,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,d41c3e79-d394-419c-9f2f-d2c03a33340f,2023,shippingFrequency,as needed,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,shippingFrequency,as needed,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,51e576f9-66ba-4671-9b44-c30bef797499,2023,shippingFrequency,Weekly,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ca496247-83b1-4e53-b780-bdd19d4b3d91,2023,shippingFrequency,As needed,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,5bcfe6e5-4a37-40f8-92b1-a5d1d3718c13,2023,shippingFrequency,As needed,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,7b1439d0-2aea-41ad-92b9-7d4da9345a21,2023,shippingFrequency,As needed,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,6befc1a2-cb49-47b7-9072-b1835b72391a,2023,shippingFrequency,As needed,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,shippingFrequency,as needed,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,cbaa07da-3a98-4d1b-8308-a7681be93319,2023,shippingFrequency,Bi Weekly,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,78454019-521f-40cf-b60c-9842f6c1e475,2023,shippingFrequency,as needed,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,6eb2130a-50b8-4989-b279-40cdf431f65c,2023,shippingFrequency,as needed,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,shippingFrequency,As needed,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,79ebb312-27e1-49bd-a5c2-da0953d3468e,2023,shippingFrequency,As needed,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,8d52dd89-03a5-476b-9656-412481e84215,2023,shippingFrequency,Bi Weekly,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,shippingFrequency,Bi weekly,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,de8341e1-0ecd-404b-9805-9fffe890e669,2023,shippingFrequency,as needed,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,81fdde31-ddfc-4d33-8464-d78dd16d5fa8,2023,shippingFrequency,as needed,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,shippingFrequency,as needed,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,df1487df-c4fd-45ec-a359-9232c704ef3e,2023,shippingFrequency,As needed,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,940b1e39-4b8e-4826-89ce-dc96cbbe2eb2,2023,shippingFrequency,As needed,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,shippingFrequency,as needed,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ab742f24-4cfb-4bf1-b651-968fe83a3911,2023,shippingFrequency,as needed,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,09144c5e-f3bd-40f2-8c72-fac11c8adcfc,2023,shippingFrequency,Weekly,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9aa60d8c-076e-4f86-83c7-06198f950f7b,2023,shippingFrequency,as needed,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,0923217c-cb92-48cd-88b2-1dfe09512683,2023,shippingFrequency,As Needed,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,1e77ddf9-7001-482f-aa12-46ab9ff2a553,2023,shippingFrequency,as needed,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,99408f92-f245-4366-badf-3193864218a7,2023,shippingFrequency,As needed,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,c6072e0d-c30a-4a93-ad0c-9201d81c877e,2023,shippingFrequency,as needed,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,31d9743b-1daa-4b66-bcde-5a2162a9cb33,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,c6072e0d-c30a-4a93-ad0c-9201d81c877e,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,364d85c8-7f9f-4534-9df8-012245f78d33,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,51e576f9-66ba-4671-9b44-c30bef797499,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ca715237-4b95-424d-b21e-865b5c60f848,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,d41c3e79-d394-419c-9f2f-d2c03a33340f,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,78454019-521f-40cf-b60c-9842f6c1e475,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,7b1439d0-2aea-41ad-92b9-7d4da9345a21,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,5bcfe6e5-4a37-40f8-92b1-a5d1d3718c13,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,6befc1a2-cb49-47b7-9072-b1835b72391a,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,cbaa07da-3a98-4d1b-8308-a7681be93319,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,6eb2130a-50b8-4989-b279-40cdf431f65c,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ca496247-83b1-4e53-b780-bdd19d4b3d91,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,726b22b4-0960-400e-8d22-cd4348d0a7de,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,09144c5e-f3bd-40f2-8c72-fac11c8adcfc,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,79ebb312-27e1-49bd-a5c2-da0953d3468e,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,8d52dd89-03a5-476b-9656-412481e84215,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,de8341e1-0ecd-404b-9805-9fffe890e669,2023,maximumCapacityPerSingleVessel,uknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,81fdde31-ddfc-4d33-8464-d78dd16d5fa8,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,df1487df-c4fd-45ec-a359-9232c704ef3e,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ab742f24-4cfb-4bf1-b651-968fe83a3911,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,940b1e39-4b8e-4826-89ce-dc96cbbe2eb2,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9aa60d8c-076e-4f86-83c7-06198f950f7b,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,99408f92-f245-4366-badf-3193864218a7,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,0923217c-cb92-48cd-88b2-1dfe09512683,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,1e77ddf9-7001-482f-aa12-46ab9ff2a553,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,aa5b21a7-a4d1-4194-af1e-38c394259211,2023,maximumCapacityPerSingleVessel,unknownu,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,30ac8f0f-3a67-4666-b114-96f27eb7fffd,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,30ac8f0f-3a67-4666-b114-96f27eb7fffd,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,364d85c8-7f9f-4534-9df8-012245f78d33,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,31d9743b-1daa-4b66-bcde-5a2162a9cb33,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,726b22b4-0960-400e-8d22-cd4348d0a7de,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,51e576f9-66ba-4671-9b44-c30bef797499,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ca715237-4b95-424d-b21e-865b5c60f848,2023,maximumShipmentQuantity,unkown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,maximumShipmentQuantity,unknnown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ab742f24-4cfb-4bf1-b651-968fe83a3911,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,d41c3e79-d394-419c-9f2f-d2c03a33340f,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ca496247-83b1-4e53-b780-bdd19d4b3d91,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,5bcfe6e5-4a37-40f8-92b1-a5d1d3718c13,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,7b1439d0-2aea-41ad-92b9-7d4da9345a21,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,6befc1a2-cb49-47b7-9072-b1835b72391a,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,cbaa07da-3a98-4d1b-8308-a7681be93319,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,78454019-521f-40cf-b60c-9842f6c1e475,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,09144c5e-f3bd-40f2-8c72-fac11c8adcfc,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,6eb2130a-50b8-4989-b279-40cdf431f65c,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,79ebb312-27e1-49bd-a5c2-da0953d3468e,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,8d52dd89-03a5-476b-9656-412481e84215,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,de8341e1-0ecd-404b-9805-9fffe890e669,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,81fdde31-ddfc-4d33-8464-d78dd16d5fa8,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,940b1e39-4b8e-4826-89ce-dc96cbbe2eb2,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,df1487df-c4fd-45ec-a359-9232c704ef3e,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,0923217c-cb92-48cd-88b2-1dfe09512683,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9aa60d8c-076e-4f86-83c7-06198f950f7b,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,1e77ddf9-7001-482f-aa12-46ab9ff2a553,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,99408f92-f245-4366-badf-3193864218a7,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,aa5b21a7-a4d1-4194-af1e-38c394259211,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,c6072e0d-c30a-4a93-ad0c-9201d81c877e,2023,maximumShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,31d9743b-1daa-4b66-bcde-5a2162a9cb33,2023,averageShipmentQuantity,48 lbs,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,364d85c8-7f9f-4534-9df8-012245f78d33,2023,averageShipmentQuantity,48 lbs,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,averageShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ca715237-4b95-424d-b21e-865b5c60f848,2023,averageShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,averageShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,5bcfe6e5-4a37-40f8-92b1-a5d1d3718c13,2023,averageShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,d41c3e79-d394-419c-9f2f-d2c03a33340f,2023,averageShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,averageShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,51e576f9-66ba-4671-9b44-c30bef797499,2023,averageShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,7b1439d0-2aea-41ad-92b9-7d4da9345a21,2023,averageShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,6befc1a2-cb49-47b7-9072-b1835b72391a,2023,averageShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,cbaa07da-3a98-4d1b-8308-a7681be93319,2023,averageShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,6eb2130a-50b8-4989-b279-40cdf431f65c,2023,averageShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,averageShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ca496247-83b1-4e53-b780-bdd19d4b3d91,2023,averageShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,averageShipmentQuantity,unkown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,78454019-521f-40cf-b60c-9842f6c1e475,2023,averageShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,09144c5e-f3bd-40f2-8c72-fac11c8adcfc,2023,averageShipmentQuantity,24.9,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,726b22b4-0960-400e-8d22-cd4348d0a7de,2023,averageShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,79ebb312-27e1-49bd-a5c2-da0953d3468e,2023,averageShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,8d52dd89-03a5-476b-9656-412481e84215,2023,averageShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,de8341e1-0ecd-404b-9805-9fffe890e669,2023,averageShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,averageShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,81fdde31-ddfc-4d33-8464-d78dd16d5fa8,2023,averageShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,averageShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,df1487df-c4fd-45ec-a359-9232c704ef3e,2023,averageShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ab742f24-4cfb-4bf1-b651-968fe83a3911,2023,averageShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,940b1e39-4b8e-4826-89ce-dc96cbbe2eb2,2023,averageShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,0923217c-cb92-48cd-88b2-1dfe09512683,2023,averageShipmentQuantity,24 lbs,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,99408f92-f245-4366-badf-3193864218a7,2023,averageShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9aa60d8c-076e-4f86-83c7-06198f950f7b,2023,averageShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,1e77ddf9-7001-482f-aa12-46ab9ff2a553,2023,averageShipmentQuantity,11.3,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,aa5b21a7-a4d1-4194-af1e-38c394259211,2023,averageShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,c6072e0d-c30a-4a93-ad0c-9201d81c877e,2023,averageShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,30ac8f0f-3a67-4666-b114-96f27eb7fffd,2023,averageShipmentQuantity,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,30ac8f0f-3a67-4666-b114-96f27eb7fffd,2023,physicalStateInTransit,liquid,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,aa5b21a7-a4d1-4194-af1e-38c394259211,2023,physicalStateInTransit,liquid,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,31d9743b-1daa-4b66-bcde-5a2162a9cb33,2023,physicalStateInTransit,liquid,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,364d85c8-7f9f-4534-9df8-012245f78d33,2023,physicalStateInTransit,Liquid,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,c6072e0d-c30a-4a93-ad0c-9201d81c877e,2023,physicalStateInTransit,gas,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,physicalStateInTransit,liquid,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,51e576f9-66ba-4671-9b44-c30bef797499,2023,physicalStateInTransit,liquid,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ca715237-4b95-424d-b21e-865b5c60f848,2023,physicalStateInTransit,Liquid,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ab742f24-4cfb-4bf1-b651-968fe83a3911,2023,physicalStateInTransit,Liquid,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,physicalStateInTransit,liquid,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,d41c3e79-d394-419c-9f2f-d2c03a33340f,2023,physicalStateInTransit,Liquid,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,78454019-521f-40cf-b60c-9842f6c1e475,2023,physicalStateInTransit,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ca496247-83b1-4e53-b780-bdd19d4b3d91,2023,physicalStateInTransit,Liquid,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,5bcfe6e5-4a37-40f8-92b1-a5d1d3718c13,2023,physicalStateInTransit,Liquid,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,7b1439d0-2aea-41ad-92b9-7d4da9345a21,2023,physicalStateInTransit,liquid,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,physicalStateInTransit,Liquid,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,6befc1a2-cb49-47b7-9072-b1835b72391a,2023,physicalStateInTransit,Liquid,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,cbaa07da-3a98-4d1b-8308-a7681be93319,2023,physicalStateInTransit,Liquid,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,physicalStateInTransit,Liquid/gas,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,6eb2130a-50b8-4989-b279-40cdf431f65c,2023,physicalStateInTransit,Liquid,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,726b22b4-0960-400e-8d22-cd4348d0a7de,2023,physicalStateInTransit,Liquid,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,physicalStateInTransit,Gas,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,09144c5e-f3bd-40f2-8c72-fac11c8adcfc,2023,physicalStateInTransit,liquid,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,79ebb312-27e1-49bd-a5c2-da0953d3468e,2023,physicalStateInTransit,Liquid,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,8d52dd89-03a5-476b-9656-412481e84215,2023,physicalStateInTransit,Liquid,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,81fdde31-ddfc-4d33-8464-d78dd16d5fa8,2023,physicalStateInTransit,Liquid,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,de8341e1-0ecd-404b-9805-9fffe890e669,2023,physicalStateInTransit,Liquid,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,physicalStateInTransit,Liquid/Gas,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,df1487df-c4fd-45ec-a359-9232c704ef3e,2023,physicalStateInTransit,Liquid,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,940b1e39-4b8e-4826-89ce-dc96cbbe2eb2,2023,physicalStateInTransit,Liquid,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,physicalStateInTransit,Liquid,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9aa60d8c-076e-4f86-83c7-06198f950f7b,2023,physicalStateInTransit,Liquid,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,0923217c-cb92-48cd-88b2-1dfe09512683,2023,physicalStateInTransit,liquid,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,1e77ddf9-7001-482f-aa12-46ab9ff2a553,2023,physicalStateInTransit,liquid,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,99408f92-f245-4366-badf-3193864218a7,2023,physicalStateInTransit,Liquid,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,30ac8f0f-3a67-4666-b114-96f27eb7fffd,2023,comments,no set route,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,31d9743b-1daa-4b66-bcde-5a2162a9cb33,2023,comments,no set route,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,364d85c8-7f9f-4534-9df8-012245f78d33,2023,comments,no set route,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,c6072e0d-c30a-4a93-ad0c-9201d81c877e,2023,comments,no route,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,comments,direct route them to us,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ca715237-4b95-424d-b21e-865b5c60f848,2023,comments,no set route,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,comments,no set route,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,comments,no set route,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,d41c3e79-d394-419c-9f2f-d2c03a33340f,2023,comments,no set route,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,78454019-521f-40cf-b60c-9842f6c1e475,2023,comments,no set route,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,51e576f9-66ba-4671-9b44-c30bef797499,2023,comments,no set route,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,7b1439d0-2aea-41ad-92b9-7d4da9345a21,2023,comments,no set route,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,5bcfe6e5-4a37-40f8-92b1-a5d1d3718c13,2023,comments,no set route,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,6befc1a2-cb49-47b7-9072-b1835b72391a,2023,comments,no set route,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,cbaa07da-3a98-4d1b-8308-a7681be93319,2023,comments,no set route,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,comments,no set route,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,6eb2130a-50b8-4989-b279-40cdf431f65c,2023,comments,no set route,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,comments,no set route,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ca496247-83b1-4e53-b780-bdd19d4b3d91,2023,comments,no set route,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,09144c5e-f3bd-40f2-8c72-fac11c8adcfc,2023,comments,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,726b22b4-0960-400e-8d22-cd4348d0a7de,2023,comments,no set route,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,79ebb312-27e1-49bd-a5c2-da0953d3468e,2023,comments,no set route,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,8d52dd89-03a5-476b-9656-412481e84215,2023,comments,no set route,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,de8341e1-0ecd-404b-9805-9fffe890e669,2023,comments,no set route,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,comments,no set route,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,81fdde31-ddfc-4d33-8464-d78dd16d5fa8,2023,comments,no set route,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,comments,no set route,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,df1487df-c4fd-45ec-a359-9232c704ef3e,2023,comments,no set route,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ab742f24-4cfb-4bf1-b651-968fe83a3911,2023,comments,no set route,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,940b1e39-4b8e-4826-89ce-dc96cbbe2eb2,2023,comments,no set route,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,0923217c-cb92-48cd-88b2-1dfe09512683,2023,comments,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,99408f92-f245-4366-badf-3193864218a7,2023,comments,no set route,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9aa60d8c-076e-4f86-83c7-06198f950f7b,2023,comments,no set route,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,1e77ddf9-7001-482f-aa12-46ab9ff2a553,2023,comments,no set route,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,aa5b21a7-a4d1-4194-af1e-38c394259211,2023,comments,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,30ac8f0f-3a67-4666-b114-96f27eb7fffd,2023,carrier,L.F. Powers Co. INC.,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,aa5b21a7-a4d1-4194-af1e-38c394259211,2023,carrier,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,31d9743b-1daa-4b66-bcde-5a2162a9cb33,2023,carrier,Drayton Disributors,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,726b22b4-0960-400e-8d22-cd4348d0a7de,2023,carrier,Lily Transportation Corp.,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,364d85c8-7f9f-4534-9df8-012245f78d33,2023,carrier,Drayton Distributors,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,carrier,Factory Motor Parts,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,51e576f9-66ba-4671-9b44-c30bef797499,2023,carrier,Interstate Battery,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ab742f24-4cfb-4bf1-b651-968fe83a3911,2023,carrier,multiple sources,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,carrier,no set carrier,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ca715237-4b95-424d-b21e-865b5c60f848,2023,carrier,Drayton Distributors,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,d41c3e79-d394-419c-9f2f-d2c03a33340f,2023,carrier,FedEx,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,5bcfe6e5-4a37-40f8-92b1-a5d1d3718c13,2023,carrier,A Duie Pyle,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,7b1439d0-2aea-41ad-92b9-7d4da9345a21,2023,carrier,Lily Transportation Corp.,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,carrier,Drayton Distributors,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,6befc1a2-cb49-47b7-9072-b1835b72391a,2023,carrier,A Duie Pyle,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ca496247-83b1-4e53-b780-bdd19d4b3d91,2023,carrier,multiple sources,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,cbaa07da-3a98-4d1b-8308-a7681be93319,2023,carrier,Drayton Distributors,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,carrier,multiple sources,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,78454019-521f-40cf-b60c-9842f6c1e475,2023,carrier,multiple sources,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,6eb2130a-50b8-4989-b279-40cdf431f65c,2023,carrier,Fedex,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,carrier,Multiple places we get it from,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,8d52dd89-03a5-476b-9656-412481e84215,2023,carrier,Drayton Distributors,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,09144c5e-f3bd-40f2-8c72-fac11c8adcfc,2023,carrier,BG Van,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,79ebb312-27e1-49bd-a5c2-da0953d3468e,2023,carrier,UPS,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,de8341e1-0ecd-404b-9805-9fffe890e669,2023,carrier,multiple sources,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,81fdde31-ddfc-4d33-8464-d78dd16d5fa8,2023,carrier,UPS,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,carrier,Pittsfield Welding Supply,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,940b1e39-4b8e-4826-89ce-dc96cbbe2eb2,2023,carrier,UPS,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,carrier,multiple sources,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,df1487df-c4fd-45ec-a359-9232c704ef3e,2023,carrier,multiple sources,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,0923217c-cb92-48cd-88b2-1dfe09512683,2023,carrier,Aftermarket parts store deliver truck,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,1e77ddf9-7001-482f-aa12-46ab9ff2a553,2023,carrier,aftermarket parts store,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,99408f92-f245-4366-badf-3193864218a7,2023,carrier,O'reilly Delivery Truck,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9aa60d8c-076e-4f86-83c7-06198f950f7b,2023,carrier,multiple sources,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,c6072e0d-c30a-4a93-ad0c-9201d81c877e,2023,carrier,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,30ac8f0f-3a67-4666-b114-96f27eb7fffd,2023,carrierAddress,Autumn Place Suite 4 247 Northampton St. Easthampton MA 01027,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,31d9743b-1daa-4b66-bcde-5a2162a9cb33,2023,carrierAddress,66 Leavitt St. Seekonk,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,c6072e0d-c30a-4a93-ad0c-9201d81c877e,2023,carrierAddress,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,364d85c8-7f9f-4534-9df8-012245f78d33,2023,carrierAddress,66 Leavitt St. Seekonk MA 02771,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,carrierAddress,113 West St. Pittsfield MA 01201,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ca715237-4b95-424d-b21e-865b5c60f848,2023,carrierAddress,66 Leavitt St. Seekonk MA 02771,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,carrierAddress,1484 East St. Pittsfield MA 01201,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,5bcfe6e5-4a37-40f8-92b1-a5d1d3718c13,2023,carrierAddress,1004 US-9 Castelton-on-Hundson NY 12033,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,d41c3e79-d394-419c-9f2f-d2c03a33340f,2023,carrierAddress,One Federico Drive Pittsfield MA 01201,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,carrierAddress,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,78454019-521f-40cf-b60c-9842f6c1e475,2023,carrierAddress,multiple,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,51e576f9-66ba-4671-9b44-c30bef797499,2023,carrierAddress,230 Chauncey Walker St. Belchertown MA 01007,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,7b1439d0-2aea-41ad-92b9-7d4da9345a21,2023,carrierAddress,145 Rosemary St. Needham MA 02494,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,6befc1a2-cb49-47b7-9072-b1835b72391a,2023,carrierAddress,1004 US-9 Castleton-on-hudson NY 12033,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ca496247-83b1-4e53-b780-bdd19d4b3d91,2023,carrierAddress,multiple,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,cbaa07da-3a98-4d1b-8308-a7681be93319,2023,carrierAddress,66 Leavitt St seekonk ma 02771,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,carrierAddress,multiple,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,carrierAddress,66 Leavitt St. Seekonk MA 02771,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,6eb2130a-50b8-4989-b279-40cdf431f65c,2023,carrierAddress,One Federico Drive Pittsfield MA,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,carrierAddress,multiple different ones,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,09144c5e-f3bd-40f2-8c72-fac11c8adcfc,2023,carrierAddress,66  Leavitt St. Seekonk MA 02771,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,726b22b4-0960-400e-8d22-cd4348d0a7de,2023,carrierAddress,145 Rosemary St. Needham MA 02494,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,8d52dd89-03a5-476b-9656-412481e84215,2023,carrierAddress,66 Leavitt St. Seekonk MA 02771,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,79ebb312-27e1-49bd-a5c2-da0953d3468e,2023,carrierAddress,120 Wayside Avenue West Springfield MA 01089,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,81fdde31-ddfc-4d33-8464-d78dd16d5fa8,2023,carrierAddress,120 Wayside Avenue West Springfield ma,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,de8341e1-0ecd-404b-9805-9fffe890e669,2023,carrierAddress,multiple sources,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,carrierAddress,multiple sources,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,df1487df-c4fd-45ec-a359-9232c704ef3e,2023,carrierAddress,multiple sources,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,940b1e39-4b8e-4826-89ce-dc96cbbe2eb2,2023,carrierAddress,120 Wayside Avenue West Springfield MA 01089,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,0923217c-cb92-48cd-88b2-1dfe09512683,2023,carrierAddress,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,99408f92-f245-4366-badf-3193864218a7,2023,carrierAddress,481 Dalton Ave Pittsfield MA 01201,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9aa60d8c-076e-4f86-83c7-06198f950f7b,2023,carrierAddress,multiple,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ab742f24-4cfb-4bf1-b651-968fe83a3911,2023,carrierAddress,multiple,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,1e77ddf9-7001-482f-aa12-46ab9ff2a553,2023,carrierAddress,multiple options,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,aa5b21a7-a4d1-4194-af1e-38c394259211,2023,carrierAddress,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,30ac8f0f-3a67-4666-b114-96f27eb7fffd,2023,carrierPhone,413-527-5777,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,aa5b21a7-a4d1-4194-af1e-38c394259211,2023,carrierPhone,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,364d85c8-7f9f-4534-9df8-012245f78d33,2023,carrierPhone,508-336-5040,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,31d9743b-1daa-4b66-bcde-5a2162a9cb33,2023,carrierPhone,508-336-5040,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,c6072e0d-c30a-4a93-ad0c-9201d81c877e,2023,carrierPhone,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,carrierPhone,413-442-4824,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,51e576f9-66ba-4671-9b44-c30bef797499,2023,carrierPhone,413-323-5987,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ab742f24-4cfb-4bf1-b651-968fe83a3911,2023,carrierPhone,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,carrierPhone,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ca715237-4b95-424d-b21e-865b5c60f848,2023,carrierPhone,508-336-5040,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,d41c3e79-d394-419c-9f2f-d2c03a33340f,2023,carrierPhone,413-355-6782,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,5bcfe6e5-4a37-40f8-92b1-a5d1d3718c13,2023,carrierPhone,800-523-5020,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,7b1439d0-2aea-41ad-92b9-7d4da9345a21,2023,carrierPhone,781-247-1300,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ca496247-83b1-4e53-b780-bdd19d4b3d91,2023,carrierPhone,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,6befc1a2-cb49-47b7-9072-b1835b72391a,2023,carrierPhone,800-523-5020,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,cbaa07da-3a98-4d1b-8308-a7681be93319,2023,carrierPhone,508-336-5040,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,carrierPhone,uknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,78454019-521f-40cf-b60c-9842f6c1e475,2023,carrierPhone,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,09144c5e-f3bd-40f2-8c72-fac11c8adcfc,2023,carrierPhone,774-991-4262,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,6eb2130a-50b8-4989-b279-40cdf431f65c,2023,carrierPhone,413-355-6782,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,726b22b4-0960-400e-8d22-cd4348d0a7de,2023,carrierPhone,781-247-1300,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,carrierPhone,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,79ebb312-27e1-49bd-a5c2-da0953d3468e,2023,carrierPhone,413-439-5164,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,8d52dd89-03a5-476b-9656-412481e84215,2023,carrierPhone,508-336-5040,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,de8341e1-0ecd-404b-9805-9fffe890e669,2023,carrierPhone,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,carrierPhone,508-336-5040,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,81fdde31-ddfc-4d33-8464-d78dd16d5fa8,2023,carrierPhone,413-439-5164,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,carrierPhone,413-442-1693,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,940b1e39-4b8e-4826-89ce-dc96cbbe2eb2,2023,carrierPhone,413-439-5164,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,carrierPhone,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,df1487df-c4fd-45ec-a359-9232c704ef3e,2023,carrierPhone,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,99408f92-f245-4366-badf-3193864218a7,2023,carrierPhone,413-347-4125,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,0923217c-cb92-48cd-88b2-1dfe09512683,2023,carrierPhone,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,1e77ddf9-7001-482f-aa12-46ab9ff2a553,2023,carrierPhone,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9aa60d8c-076e-4f86-83c7-06198f950f7b,2023,carrierPhone,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,30ac8f0f-3a67-4666-b114-96f27eb7fffd,2023,carrier24HourPhone,413-527-5777,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,364d85c8-7f9f-4534-9df8-012245f78d33,2023,carrier24HourPhone,508-336-5040,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,31d9743b-1daa-4b66-bcde-5a2162a9cb33,2023,carrier24HourPhone,508-336-5040,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,726b22b4-0960-400e-8d22-cd4348d0a7de,2023,carrier24HourPhone,781-247-1300,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,c6072e0d-c30a-4a93-ad0c-9201d81c877e,2023,carrier24HourPhone,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,carrier24HourPhone,413-442-4824,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ca715237-4b95-424d-b21e-865b5c60f848,2023,carrier24HourPhone,508-336-5040,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,carrier24HourPhone,413-442-1693,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,carrier24HourPhone,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,d41c3e79-d394-419c-9f2f-d2c03a33340f,2023,carrier24HourPhone,413-355-6782,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,78454019-521f-40cf-b60c-9842f6c1e475,2023,carrier24HourPhone,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,51e576f9-66ba-4671-9b44-c30bef797499,2023,carrier24HourPhone,413-323-5987,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,7b1439d0-2aea-41ad-92b9-7d4da9345a21,2023,carrier24HourPhone,781-247-1300,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,5bcfe6e5-4a37-40f8-92b1-a5d1d3718c13,2023,carrier24HourPhone,800-523-5020,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,6befc1a2-cb49-47b7-9072-b1835b72391a,2023,carrier24HourPhone,800-523-5020,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,cbaa07da-3a98-4d1b-8308-a7681be93319,2023,carrier24HourPhone,508-336-5040,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,carrier24HourPhone,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,6eb2130a-50b8-4989-b279-40cdf431f65c,2023,carrier24HourPhone,413-355-6782,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,carrier24HourPhone,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ca496247-83b1-4e53-b780-bdd19d4b3d91,2023,carrier24HourPhone,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,79ebb312-27e1-49bd-a5c2-da0953d3468e,2023,carrier24HourPhone,413-439-5164,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,8d52dd89-03a5-476b-9656-412481e84215,2023,carrier24HourPhone,508-336-5040,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,carrier24HourPhone,508-336-5040,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,09144c5e-f3bd-40f2-8c72-fac11c8adcfc,2023,carrier24HourPhone,774-991-4262,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,de8341e1-0ecd-404b-9805-9fffe890e669,2023,carrier24HourPhone,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,81fdde31-ddfc-4d33-8464-d78dd16d5fa8,2023,carrier24HourPhone,413-439-5164,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,carrier24HourPhone,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,df1487df-c4fd-45ec-a359-9232c704ef3e,2023,carrier24HourPhone,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,940b1e39-4b8e-4826-89ce-dc96cbbe2eb2,2023,carrier24HourPhone,413-439-5164,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,0923217c-cb92-48cd-88b2-1dfe09512683,2023,carrier24HourPhone,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,9aa60d8c-076e-4f86-83c7-06198f950f7b,2023,carrier24HourPhone,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,99408f92-f245-4366-badf-3193864218a7,2023,carrier24HourPhone,413-347-4125,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,ab742f24-4cfb-4bf1-b651-968fe83a3911,2023,carrier24HourPhone,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,1e77ddf9-7001-482f-aa12-46ab9ff2a553,2023,carrier24HourPhone,unknown,EPCRA
+301348ed-01a8-485b-822e-a2f3fdf08995,aa5b21a7-a4d1-4194-af1e-38c394259211,2023,carrier24HourPhone,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,100c46da-68b2-45d4-a47d-2a8b38230715,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,fa9e3b0e-3796-42ce-bac0-d7cdc2268c4d,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,ca496247-83b1-4e53-b780-bdd19d4b3d91,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3cf28a6c-7a63-4eed-afd7-17d2845f9777,2023,transportationModes,UPS truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,c2d9f0bf-dfed-43de-a6a0-08e6bcecc57c,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,28910943-fbb1-41b5-bb25-09d687d8822d,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,78454019-521f-40cf-b60c-9842f6c1e475,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,32a53778-ad81-471c-b055-e06e07fe1515,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,de8341e1-0ecd-404b-9805-9fffe890e669,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3a8675b0-fe8d-486f-a191-ae66c9bc130a,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,81fdde31-ddfc-4d33-8464-d78dd16d5fa8,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,d7f61988-3ac9-425a-b3ad-f9c789370039,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,df1487df-c4fd-45ec-a359-9232c704ef3e,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,7741efef-a1f3-47f4-b28b-439a8ddf1f5d,2023,transportationModes,UPS truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,96b9ad75-3330-4ac4-8ce0-49ffcb6e4484,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,577d7dac-19fa-41d4-84a4-e6f88b3494ba,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,c2f9bb44-d0d5-4e88-b456-b8c00fbf296e,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,20dd10d9-76ab-48bf-aba0-c4173e0ee89b,2023,transportationModes,UPS truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,dcabb816-d626-4e96-98ae-bf447161ba80,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3dc2f76e-0d52-4577-8cad-5a22ade3987f,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,a7d98aba-75f2-426d-917d-cae78190eedc,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,1dd0bdda-ed9b-40ca-81bf-65a540e6f58e,2023,transportationModes,UPS truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9aa60d8c-076e-4f86-83c7-06198f950f7b,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,51e576f9-66ba-4671-9b44-c30bef797499,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,2ccc67b0-a67b-4e18-af42-53342b95c952,2023,transportationModes,UPS truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,2022f22c-ddc9-4b05-8b3c-59906893aad5,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,a9850eb3-bfc0-4b14-bef3-4644b93042a0,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9f99aad7-ca94-401d-9fdf-cad86abfe665,2023,transportationModes,UPS truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,ab742f24-4cfb-4bf1-b651-968fe83a3911,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,39f8a4c1-566d-4956-863d-b393c26e9d28,2023,transportationModes,UPS truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,cbaa07da-3a98-4d1b-8308-a7681be93319,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0923217c-cb92-48cd-88b2-1dfe09512683,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0c797d87-17f0-447f-a8b4-70afd6427ab6,2023,transportationModes,UPS truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0c64ee57-df11-40b7-a989-fa2a6abae748,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,e667df04-7cf4-4542-a497-e9c9e569644e,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,5ff7449f-f93c-4e70-809a-646f42bc980f,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,5f01fb73-8bf0-47a1-b6bb-bcaf54a43cc7,2023,transportationModes,Truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3b6895be-077a-4641-93fa-a8950e6ca664,2023,transportationModes,UPS truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3b6895be-077a-4641-93fa-a8950e6ca664,2023,shippingFrequency,monthly,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,78454019-521f-40cf-b60c-9842f6c1e475,2023,shippingFrequency,As needed,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,100c46da-68b2-45d4-a47d-2a8b38230715,2023,shippingFrequency,bi-weekly,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,fa9e3b0e-3796-42ce-bac0-d7cdc2268c4d,2023,shippingFrequency,monthly,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,7741efef-a1f3-47f4-b28b-439a8ddf1f5d,2023,shippingFrequency,monthly,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,ca496247-83b1-4e53-b780-bdd19d4b3d91,2023,shippingFrequency,As needed,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3cf28a6c-7a63-4eed-afd7-17d2845f9777,2023,shippingFrequency,monthly,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,5ff7449f-f93c-4e70-809a-646f42bc980f,2023,shippingFrequency,As needed,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,df1487df-c4fd-45ec-a359-9232c704ef3e,2023,shippingFrequency,No longer used,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,32a53778-ad81-471c-b055-e06e07fe1515,2023,shippingFrequency,As needed,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,96b9ad75-3330-4ac4-8ce0-49ffcb6e4484,2023,shippingFrequency,No longer used,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,de8341e1-0ecd-404b-9805-9fffe890e669,2023,shippingFrequency,As needed,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,c2f9bb44-d0d5-4e88-b456-b8c00fbf296e,2023,shippingFrequency,As needed,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,39f8a4c1-566d-4956-863d-b393c26e9d28,2023,shippingFrequency,As needed,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3a8675b0-fe8d-486f-a191-ae66c9bc130a,2023,shippingFrequency,bi-weekly,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,shippingFrequency,As needed,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3dc2f76e-0d52-4577-8cad-5a22ade3987f,2023,shippingFrequency,No longer used,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,shippingFrequency,As needed,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,c2d9f0bf-dfed-43de-a6a0-08e6bcecc57c,2023,shippingFrequency,bi-weekly,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,shippingFrequency,As needed,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0c64ee57-df11-40b7-a989-fa2a6abae748,2023,shippingFrequency,As needed,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,51e576f9-66ba-4671-9b44-c30bef797499,2023,shippingFrequency,Weekly,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,20dd10d9-76ab-48bf-aba0-c4173e0ee89b,2023,shippingFrequency,monthly,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,shippingFrequency,bi-weekly,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,ab742f24-4cfb-4bf1-b651-968fe83a3911,2023,shippingFrequency,As needed,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,dcabb816-d626-4e96-98ae-bf447161ba80,2023,shippingFrequency,As needed,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,577d7dac-19fa-41d4-84a4-e6f88b3494ba,2023,shippingFrequency,As needed,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,shippingFrequency,No longer used,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,1dd0bdda-ed9b-40ca-81bf-65a540e6f58e,2023,shippingFrequency,As needed,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,shippingFrequency,As needed,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,81fdde31-ddfc-4d33-8464-d78dd16d5fa8,2023,shippingFrequency,No longer used,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0923217c-cb92-48cd-88b2-1dfe09512683,2023,shippingFrequency,bi-weekly,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,shippingFrequency,As needed,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,a7d98aba-75f2-426d-917d-cae78190eedc,2023,shippingFrequency,bi-weekly,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9aa60d8c-076e-4f86-83c7-06198f950f7b,2023,shippingFrequency,No longer used,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,2ccc67b0-a67b-4e18-af42-53342b95c952,2023,shippingFrequency,As needed,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,2022f22c-ddc9-4b05-8b3c-59906893aad5,2023,shippingFrequency,monthly,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,5f01fb73-8bf0-47a1-b6bb-bcaf54a43cc7,2023,shippingFrequency,monthly,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,a9850eb3-bfc0-4b14-bef3-4644b93042a0,2023,shippingFrequency,As needed,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,28910943-fbb1-41b5-bb25-09d687d8822d,2023,shippingFrequency,As needed,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,d7f61988-3ac9-425a-b3ad-f9c789370039,2023,shippingFrequency,As needed,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,cbaa07da-3a98-4d1b-8308-a7681be93319,2023,shippingFrequency,bi-weekly,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0c797d87-17f0-447f-a8b4-70afd6427ab6,2023,shippingFrequency,monthly,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9f99aad7-ca94-401d-9fdf-cad86abfe665,2023,shippingFrequency,As needed,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,e667df04-7cf4-4542-a497-e9c9e569644e,2023,shippingFrequency,As needed,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3b6895be-077a-4641-93fa-a8950e6ca664,2023,maximumCapacityPerSingleVessel,5 lbs,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,100c46da-68b2-45d4-a47d-2a8b38230715,2023,maximumCapacityPerSingleVessel,250 gallons,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,c2d9f0bf-dfed-43de-a6a0-08e6bcecc57c,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,fa9e3b0e-3796-42ce-bac0-d7cdc2268c4d,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,7741efef-a1f3-47f4-b28b-439a8ddf1f5d,2023,maximumCapacityPerSingleVessel,1 gallon,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,28910943-fbb1-41b5-bb25-09d687d8822d,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,78454019-521f-40cf-b60c-9842f6c1e475,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,ca496247-83b1-4e53-b780-bdd19d4b3d91,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3cf28a6c-7a63-4eed-afd7-17d2845f9777,2023,maximumCapacityPerSingleVessel,5 lbs,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,32a53778-ad81-471c-b055-e06e07fe1515,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,5ff7449f-f93c-4e70-809a-646f42bc980f,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3a8675b0-fe8d-486f-a191-ae66c9bc130a,2023,maximumCapacityPerSingleVessel,1 quart,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,96b9ad75-3330-4ac4-8ce0-49ffcb6e4484,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,de8341e1-0ecd-404b-9805-9fffe890e669,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,d7f61988-3ac9-425a-b3ad-f9c789370039,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,df1487df-c4fd-45ec-a359-9232c704ef3e,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,maximumCapacityPerSingleVessel,1 gallon,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,39f8a4c1-566d-4956-863d-b393c26e9d28,2023,maximumCapacityPerSingleVessel,5 lbs,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,maximumCapacityPerSingleVessel,1 quart,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,c2f9bb44-d0d5-4e88-b456-b8c00fbf296e,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0c64ee57-df11-40b7-a989-fa2a6abae748,2023,maximumCapacityPerSingleVessel,12 bottles,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,maximumCapacityPerSingleVessel,1 gallon,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,20dd10d9-76ab-48bf-aba0-c4173e0ee89b,2023,maximumCapacityPerSingleVessel,5 quarts,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,ab742f24-4cfb-4bf1-b651-968fe83a3911,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,577d7dac-19fa-41d4-84a4-e6f88b3494ba,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,dcabb816-d626-4e96-98ae-bf447161ba80,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,81fdde31-ddfc-4d33-8464-d78dd16d5fa8,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0923217c-cb92-48cd-88b2-1dfe09512683,2023,maximumCapacityPerSingleVessel,275 gallons,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3dc2f76e-0d52-4577-8cad-5a22ade3987f,2023,maximumCapacityPerSingleVessel,1 gallon,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,1dd0bdda-ed9b-40ca-81bf-65a540e6f58e,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,51e576f9-66ba-4671-9b44-c30bef797499,2023,maximumCapacityPerSingleVessel,1 battery,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,a7d98aba-75f2-426d-917d-cae78190eedc,2023,maximumCapacityPerSingleVessel,1 quart,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,2ccc67b0-a67b-4e18-af42-53342b95c952,2023,maximumCapacityPerSingleVessel,5 lbs,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,2022f22c-ddc9-4b05-8b3c-59906893aad5,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9aa60d8c-076e-4f86-83c7-06198f950f7b,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,a9850eb3-bfc0-4b14-bef3-4644b93042a0,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9f99aad7-ca94-401d-9fdf-cad86abfe665,2023,maximumCapacityPerSingleVessel,5 lbs,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,5f01fb73-8bf0-47a1-b6bb-bcaf54a43cc7,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,cbaa07da-3a98-4d1b-8308-a7681be93319,2023,maximumCapacityPerSingleVessel,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0c797d87-17f0-447f-a8b4-70afd6427ab6,2023,maximumCapacityPerSingleVessel,16 gallons,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,e667df04-7cf4-4542-a497-e9c9e569644e,2023,maximumCapacityPerSingleVessel,1 quart,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,100c46da-68b2-45d4-a47d-2a8b38230715,2023,maximumShipmentQuantity,275 gallons,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,fa9e3b0e-3796-42ce-bac0-d7cdc2268c4d,2023,maximumShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,78454019-521f-40cf-b60c-9842f6c1e475,2023,maximumShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,ca496247-83b1-4e53-b780-bdd19d4b3d91,2023,maximumShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3cf28a6c-7a63-4eed-afd7-17d2845f9777,2023,maximumShipmentQuantity,10 lba,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,de8341e1-0ecd-404b-9805-9fffe890e669,2023,maximumShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,df1487df-c4fd-45ec-a359-9232c704ef3e,2023,maximumShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,32a53778-ad81-471c-b055-e06e07fe1515,2023,maximumShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,81fdde31-ddfc-4d33-8464-d78dd16d5fa8,2023,maximumShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3a8675b0-fe8d-486f-a191-ae66c9bc130a,2023,maximumShipmentQuantity,36 quarts,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,7741efef-a1f3-47f4-b28b-439a8ddf1f5d,2023,maximumShipmentQuantity,24 gallons,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,maximumShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3dc2f76e-0d52-4577-8cad-5a22ade3987f,2023,maximumShipmentQuantity,1 gallon,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,maximumShipmentQuantity,24 gallons,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,c2d9f0bf-dfed-43de-a6a0-08e6bcecc57c,2023,maximumShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,96b9ad75-3330-4ac4-8ce0-49ffcb6e4484,2023,maximumShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,577d7dac-19fa-41d4-84a4-e6f88b3494ba,2023,maximumShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,maximumShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,c2f9bb44-d0d5-4e88-b456-b8c00fbf296e,2023,maximumShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,51e576f9-66ba-4671-9b44-c30bef797499,2023,maximumShipmentQuantity,30 batteries,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,maximumShipmentQuantity,unkown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,dcabb816-d626-4e96-98ae-bf447161ba80,2023,maximumShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,maximumShipmentQuantity,1 gallon,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,20dd10d9-76ab-48bf-aba0-c4173e0ee89b,2023,maximumShipmentQuantity,200 gallons,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,1dd0bdda-ed9b-40ca-81bf-65a540e6f58e,2023,maximumShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,maximumShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,a7d98aba-75f2-426d-917d-cae78190eedc,2023,maximumShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,maximumShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9aa60d8c-076e-4f86-83c7-06198f950f7b,2023,maximumShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,2ccc67b0-a67b-4e18-af42-53342b95c952,2023,maximumShipmentQuantity,10 lbs,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,ab742f24-4cfb-4bf1-b651-968fe83a3911,2023,maximumShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,2022f22c-ddc9-4b05-8b3c-59906893aad5,2023,maximumShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,a9850eb3-bfc0-4b14-bef3-4644b93042a0,2023,maximumShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,39f8a4c1-566d-4956-863d-b393c26e9d28,2023,maximumShipmentQuantity,10 lbs,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,cbaa07da-3a98-4d1b-8308-a7681be93319,2023,maximumShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,28910943-fbb1-41b5-bb25-09d687d8822d,2023,maximumShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,d7f61988-3ac9-425a-b3ad-f9c789370039,2023,maximumShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0923217c-cb92-48cd-88b2-1dfe09512683,2023,maximumShipmentQuantity,275 gallons,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0c797d87-17f0-447f-a8b4-70afd6427ab6,2023,maximumShipmentQuantity,64 gallons,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0c64ee57-df11-40b7-a989-fa2a6abae748,2023,maximumShipmentQuantity,1 case,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,5ff7449f-f93c-4e70-809a-646f42bc980f,2023,maximumShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,5f01fb73-8bf0-47a1-b6bb-bcaf54a43cc7,2023,maximumShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3b6895be-077a-4641-93fa-a8950e6ca664,2023,maximumShipmentQuantity,10 lbs,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9f99aad7-ca94-401d-9fdf-cad86abfe665,2023,maximumShipmentQuantity,10 lbs,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,e667df04-7cf4-4542-a497-e9c9e569644e,2023,maximumShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,100c46da-68b2-45d4-a47d-2a8b38230715,2023,averageShipmentQuantity,250 gallons,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,fa9e3b0e-3796-42ce-bac0-d7cdc2268c4d,2023,averageShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3cf28a6c-7a63-4eed-afd7-17d2845f9777,2023,averageShipmentQuantity,1 box 5 lbs,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,c2d9f0bf-dfed-43de-a6a0-08e6bcecc57c,2023,averageShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,7741efef-a1f3-47f4-b28b-439a8ddf1f5d,2023,averageShipmentQuantity,12 gallons,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,28910943-fbb1-41b5-bb25-09d687d8822d,2023,averageShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,78454019-521f-40cf-b60c-9842f6c1e475,2023,averageShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,ca496247-83b1-4e53-b780-bdd19d4b3d91,2023,averageShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,32a53778-ad81-471c-b055-e06e07fe1515,2023,averageShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,5ff7449f-f93c-4e70-809a-646f42bc980f,2023,averageShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3a8675b0-fe8d-486f-a191-ae66c9bc130a,2023,averageShipmentQuantity,12 quarts,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,96b9ad75-3330-4ac4-8ce0-49ffcb6e4484,2023,averageShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,de8341e1-0ecd-404b-9805-9fffe890e669,2023,averageShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,d7f61988-3ac9-425a-b3ad-f9c789370039,2023,averageShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,df1487df-c4fd-45ec-a359-9232c704ef3e,2023,averageShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,c2f9bb44-d0d5-4e88-b456-b8c00fbf296e,2023,averageShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,averageShipmentQuantity,12 gallons,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,39f8a4c1-566d-4956-863d-b393c26e9d28,2023,averageShipmentQuantity,1 box 5 lbs,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,averageShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,averageShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0c64ee57-df11-40b7-a989-fa2a6abae748,2023,averageShipmentQuantity,1 case of 12,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,averageShipmentQuantity,8 lbs,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,averageShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,577d7dac-19fa-41d4-84a4-e6f88b3494ba,2023,averageShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,20dd10d9-76ab-48bf-aba0-c4173e0ee89b,2023,averageShipmentQuantity,100 gallons,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,dcabb816-d626-4e96-98ae-bf447161ba80,2023,averageShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,averageShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,81fdde31-ddfc-4d33-8464-d78dd16d5fa8,2023,averageShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0923217c-cb92-48cd-88b2-1dfe09512683,2023,averageShipmentQuantity,250 gallons,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3dc2f76e-0d52-4577-8cad-5a22ade3987f,2023,averageShipmentQuantity,8 lbs,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,a7d98aba-75f2-426d-917d-cae78190eedc,2023,averageShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,1dd0bdda-ed9b-40ca-81bf-65a540e6f58e,2023,averageShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,51e576f9-66ba-4671-9b44-c30bef797499,2023,averageShipmentQuantity,5 batteries,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,2ccc67b0-a67b-4e18-af42-53342b95c952,2023,averageShipmentQuantity,1 box 5 lbs,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,2022f22c-ddc9-4b05-8b3c-59906893aad5,2023,averageShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9aa60d8c-076e-4f86-83c7-06198f950f7b,2023,averageShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,a9850eb3-bfc0-4b14-bef3-4644b93042a0,2023,averageShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9f99aad7-ca94-401d-9fdf-cad86abfe665,2023,averageShipmentQuantity,1 box 5 lbs,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,ab742f24-4cfb-4bf1-b651-968fe83a3911,2023,averageShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,averageShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,5f01fb73-8bf0-47a1-b6bb-bcaf54a43cc7,2023,averageShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,cbaa07da-3a98-4d1b-8308-a7681be93319,2023,averageShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0c797d87-17f0-447f-a8b4-70afd6427ab6,2023,averageShipmentQuantity,32 gallons,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,e667df04-7cf4-4542-a497-e9c9e569644e,2023,averageShipmentQuantity,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3b6895be-077a-4641-93fa-a8950e6ca664,2023,averageShipmentQuantity,1 box 5 lbs,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3b6895be-077a-4641-93fa-a8950e6ca664,2023,physicalStateInTransit,solid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,78454019-521f-40cf-b60c-9842f6c1e475,2023,physicalStateInTransit,gas,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,100c46da-68b2-45d4-a47d-2a8b38230715,2023,physicalStateInTransit,liquid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,fa9e3b0e-3796-42ce-bac0-d7cdc2268c4d,2023,physicalStateInTransit,liquid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,ca496247-83b1-4e53-b780-bdd19d4b3d91,2023,physicalStateInTransit,liquid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,physicalStateInTransit,gas,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,de8341e1-0ecd-404b-9805-9fffe890e669,2023,physicalStateInTransit,gas,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,df1487df-c4fd-45ec-a359-9232c704ef3e,2023,physicalStateInTransit,liquid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3cf28a6c-7a63-4eed-afd7-17d2845f9777,2023,physicalStateInTransit,solid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,32a53778-ad81-471c-b055-e06e07fe1515,2023,physicalStateInTransit,liquid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,81fdde31-ddfc-4d33-8464-d78dd16d5fa8,2023,physicalStateInTransit,solid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3a8675b0-fe8d-486f-a191-ae66c9bc130a,2023,physicalStateInTransit,liquid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,7741efef-a1f3-47f4-b28b-439a8ddf1f5d,2023,physicalStateInTransit,liquid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,physicalStateInTransit,gas,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3dc2f76e-0d52-4577-8cad-5a22ade3987f,2023,physicalStateInTransit,liquid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,physicalStateInTransit,liquid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,c2d9f0bf-dfed-43de-a6a0-08e6bcecc57c,2023,physicalStateInTransit,liquid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,96b9ad75-3330-4ac4-8ce0-49ffcb6e4484,2023,physicalStateInTransit,liquid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,577d7dac-19fa-41d4-84a4-e6f88b3494ba,2023,physicalStateInTransit,liquid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,physicalStateInTransit,liquid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,c2f9bb44-d0d5-4e88-b456-b8c00fbf296e,2023,physicalStateInTransit,liquid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,51e576f9-66ba-4671-9b44-c30bef797499,2023,physicalStateInTransit,liquid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,20dd10d9-76ab-48bf-aba0-c4173e0ee89b,2023,physicalStateInTransit,liquid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,physicalStateInTransit,liquid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,ab742f24-4cfb-4bf1-b651-968fe83a3911,2023,physicalStateInTransit,liquid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,dcabb816-d626-4e96-98ae-bf447161ba80,2023,physicalStateInTransit,liquid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,physicalStateInTransit,liquid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,1dd0bdda-ed9b-40ca-81bf-65a540e6f58e,2023,physicalStateInTransit,liquid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,physicalStateInTransit,liquid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9aa60d8c-076e-4f86-83c7-06198f950f7b,2023,physicalStateInTransit,liquid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,a7d98aba-75f2-426d-917d-cae78190eedc,2023,physicalStateInTransit,liquid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,2ccc67b0-a67b-4e18-af42-53342b95c952,2023,physicalStateInTransit,solid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,2022f22c-ddc9-4b05-8b3c-59906893aad5,2023,physicalStateInTransit,liquid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,a9850eb3-bfc0-4b14-bef3-4644b93042a0,2023,physicalStateInTransit,gas,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,39f8a4c1-566d-4956-863d-b393c26e9d28,2023,physicalStateInTransit,solid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,cbaa07da-3a98-4d1b-8308-a7681be93319,2023,physicalStateInTransit,liquid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,28910943-fbb1-41b5-bb25-09d687d8822d,2023,physicalStateInTransit,gas,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,d7f61988-3ac9-425a-b3ad-f9c789370039,2023,physicalStateInTransit,liquid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0923217c-cb92-48cd-88b2-1dfe09512683,2023,physicalStateInTransit,liquid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0c797d87-17f0-447f-a8b4-70afd6427ab6,2023,physicalStateInTransit,liquid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0c64ee57-df11-40b7-a989-fa2a6abae748,2023,physicalStateInTransit,liquid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,5ff7449f-f93c-4e70-809a-646f42bc980f,2023,physicalStateInTransit,gas,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,5f01fb73-8bf0-47a1-b6bb-bcaf54a43cc7,2023,physicalStateInTransit,liquid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9f99aad7-ca94-401d-9fdf-cad86abfe665,2023,physicalStateInTransit,solid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,e667df04-7cf4-4542-a497-e9c9e569644e,2023,physicalStateInTransit,liquid,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,fa9e3b0e-3796-42ce-bac0-d7cdc2268c4d,2023,comments,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,ca496247-83b1-4e53-b780-bdd19d4b3d91,2023,comments,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,100c46da-68b2-45d4-a47d-2a8b38230715,2023,comments,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,c2d9f0bf-dfed-43de-a6a0-08e6bcecc57c,2023,comments,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,28910943-fbb1-41b5-bb25-09d687d8822d,2023,comments,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,78454019-521f-40cf-b60c-9842f6c1e475,2023,comments,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3cf28a6c-7a63-4eed-afd7-17d2845f9777,2023,comments,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,32a53778-ad81-471c-b055-e06e07fe1515,2023,comments,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,5ff7449f-f93c-4e70-809a-646f42bc980f,2023,comments,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3a8675b0-fe8d-486f-a191-ae66c9bc130a,2023,comments,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,96b9ad75-3330-4ac4-8ce0-49ffcb6e4484,2023,comments,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,de8341e1-0ecd-404b-9805-9fffe890e669,2023,comments,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,d7f61988-3ac9-425a-b3ad-f9c789370039,2023,comments,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,df1487df-c4fd-45ec-a359-9232c704ef3e,2023,comments,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,c2f9bb44-d0d5-4e88-b456-b8c00fbf296e,2023,comments,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,comments,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,39f8a4c1-566d-4956-863d-b393c26e9d28,2023,comments,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,7741efef-a1f3-47f4-b28b-439a8ddf1f5d,2023,comments,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,comments,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,comments,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0c64ee57-df11-40b7-a989-fa2a6abae748,2023,comments,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,20dd10d9-76ab-48bf-aba0-c4173e0ee89b,2023,comments,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,ab742f24-4cfb-4bf1-b651-968fe83a3911,2023,comments,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,comments,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,577d7dac-19fa-41d4-84a4-e6f88b3494ba,2023,comments,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,comments,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,dcabb816-d626-4e96-98ae-bf447161ba80,2023,comments,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,comments,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,81fdde31-ddfc-4d33-8464-d78dd16d5fa8,2023,comments,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0923217c-cb92-48cd-88b2-1dfe09512683,2023,comments,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3dc2f76e-0d52-4577-8cad-5a22ade3987f,2023,comments,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,1dd0bdda-ed9b-40ca-81bf-65a540e6f58e,2023,comments,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9aa60d8c-076e-4f86-83c7-06198f950f7b,2023,comments,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,51e576f9-66ba-4671-9b44-c30bef797499,2023,comments,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,2ccc67b0-a67b-4e18-af42-53342b95c952,2023,comments,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,a7d98aba-75f2-426d-917d-cae78190eedc,2023,comments,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,2022f22c-ddc9-4b05-8b3c-59906893aad5,2023,comments,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,a9850eb3-bfc0-4b14-bef3-4644b93042a0,2023,comments,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9f99aad7-ca94-401d-9fdf-cad86abfe665,2023,comments,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,comments,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,5f01fb73-8bf0-47a1-b6bb-bcaf54a43cc7,2023,comments,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,cbaa07da-3a98-4d1b-8308-a7681be93319,2023,comments,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0c797d87-17f0-447f-a8b4-70afd6427ab6,2023,comments,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,e667df04-7cf4-4542-a497-e9c9e569644e,2023,comments,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3b6895be-077a-4641-93fa-a8950e6ca664,2023,comments,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3b6895be-077a-4641-93fa-a8950e6ca664,2023,carrier,UPS,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,100c46da-68b2-45d4-a47d-2a8b38230715,2023,carrier,Dennis K Burke,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,78454019-521f-40cf-b60c-9842f6c1e475,2023,carrier,pittsfield welding supply,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,fa9e3b0e-3796-42ce-bac0-d7cdc2268c4d,2023,carrier,Idemitsu Lubricants,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,7741efef-a1f3-47f4-b28b-439a8ddf1f5d,2023,carrier,UPS truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,ca496247-83b1-4e53-b780-bdd19d4b3d91,2023,carrier,O'Reilly Auto Parts,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,carrier,O'Reilly Auto Parts,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,de8341e1-0ecd-404b-9805-9fffe890e669,2023,carrier,O'Reilly Auto Parts,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,df1487df-c4fd-45ec-a359-9232c704ef3e,2023,carrier,O'Reilly Auto Parts,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3cf28a6c-7a63-4eed-afd7-17d2845f9777,2023,carrier,UPS truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,32a53778-ad81-471c-b055-e06e07fe1515,2023,carrier,Idemitsu Lubricants,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,81fdde31-ddfc-4d33-8464-d78dd16d5fa8,2023,carrier,UPS truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3a8675b0-fe8d-486f-a191-ae66c9bc130a,2023,carrier,Drayton Distributors,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,carrier,pittsfield welding supply,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3dc2f76e-0d52-4577-8cad-5a22ade3987f,2023,carrier,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,carrier,Subaru of America,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,c2d9f0bf-dfed-43de-a6a0-08e6bcecc57c,2023,carrier,Drayton Distributors,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,96b9ad75-3330-4ac4-8ce0-49ffcb6e4484,2023,carrier,UPS truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,577d7dac-19fa-41d4-84a4-e6f88b3494ba,2023,carrier,UPS truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,carrier,O'Reilly Auto Parts,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,c2f9bb44-d0d5-4e88-b456-b8c00fbf296e,2023,carrier,O'Reilly Auto Parts,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,carrier,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,51e576f9-66ba-4671-9b44-c30bef797499,2023,carrier,Interstate Battery,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,carrier,Drayton Distributors,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,dcabb816-d626-4e96-98ae-bf447161ba80,2023,carrier,Idemitsu Lubricants,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,20dd10d9-76ab-48bf-aba0-c4173e0ee89b,2023,carrier,Idemitsu Lubricants,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,1dd0bdda-ed9b-40ca-81bf-65a540e6f58e,2023,carrier,UPS truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,a7d98aba-75f2-426d-917d-cae78190eedc,2023,carrier,Drayton Distributors,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,carrier,O'Reilly Auto Parts,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9aa60d8c-076e-4f86-83c7-06198f950f7b,2023,carrier,O'Reilly Auto Parts,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,2ccc67b0-a67b-4e18-af42-53342b95c952,2023,carrier,UPS truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,ab742f24-4cfb-4bf1-b651-968fe83a3911,2023,carrier,UPS truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,2022f22c-ddc9-4b05-8b3c-59906893aad5,2023,carrier,Idemitsu Lubricants,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,a9850eb3-bfc0-4b14-bef3-4644b93042a0,2023,carrier,pittsfield welding supply,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,39f8a4c1-566d-4956-863d-b393c26e9d28,2023,carrier,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,28910943-fbb1-41b5-bb25-09d687d8822d,2023,carrier,pittsfield welding supply,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,d7f61988-3ac9-425a-b3ad-f9c789370039,2023,carrier,Idemitsu Lubricants,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0923217c-cb92-48cd-88b2-1dfe09512683,2023,carrier,Dennis K Burke,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,cbaa07da-3a98-4d1b-8308-a7681be93319,2023,carrier,Drayton Distributors,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0c64ee57-df11-40b7-a989-fa2a6abae748,2023,carrier,Subaru of America,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0c797d87-17f0-447f-a8b4-70afd6427ab6,2023,carrier,Subaru of America,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,5ff7449f-f93c-4e70-809a-646f42bc980f,2023,carrier,pittsfield welding supply,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,5f01fb73-8bf0-47a1-b6bb-bcaf54a43cc7,2023,carrier,Idemitsu Lubricants,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9f99aad7-ca94-401d-9fdf-cad86abfe665,2023,carrier,UPS truck,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,e667df04-7cf4-4542-a497-e9c9e569644e,2023,carrier,O'Reilly Auto Parts,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,fa9e3b0e-3796-42ce-bac0-d7cdc2268c4d,2023,carrierAddress,3000 town center suite 2820,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,78454019-521f-40cf-b60c-9842f6c1e475,2023,carrierAddress,1484 East St,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,ca496247-83b1-4e53-b780-bdd19d4b3d91,2023,carrierAddress,481 Dalton Ave,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,100c46da-68b2-45d4-a47d-2a8b38230715,2023,carrierAddress,taunton ma 02780,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,c2d9f0bf-dfed-43de-a6a0-08e6bcecc57c,2023,carrierAddress,66 Leavitt St. Seekonk Massachusetts 02771,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,28910943-fbb1-41b5-bb25-09d687d8822d,2023,carrierAddress,1484 East St,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,32a53778-ad81-471c-b055-e06e07fe1515,2023,carrierAddress,3000 town center suite 2820,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,5ff7449f-f93c-4e70-809a-646f42bc980f,2023,carrierAddress,1484 East St,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3a8675b0-fe8d-486f-a191-ae66c9bc130a,2023,carrierAddress,66 Leavitt St. Seekonk Massachusetts 02771,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,96b9ad75-3330-4ac4-8ce0-49ffcb6e4484,2023,carrierAddress,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,de8341e1-0ecd-404b-9805-9fffe890e669,2023,carrierAddress,481 Dalton Ave,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,d7f61988-3ac9-425a-b3ad-f9c789370039,2023,carrierAddress,3000 town center suite 2820,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,df1487df-c4fd-45ec-a359-9232c704ef3e,2023,carrierAddress,481 Dalton Ave,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3cf28a6c-7a63-4eed-afd7-17d2845f9777,2023,carrierAddress,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,carrierAddress,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,39f8a4c1-566d-4956-863d-b393c26e9d28,2023,carrierAddress,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,7741efef-a1f3-47f4-b28b-439a8ddf1f5d,2023,carrierAddress,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,carrierAddress,481 Dalton Ave,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,carrierAddress,66 Leavitt St. Seekonk Massachusetts 02771,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,ab742f24-4cfb-4bf1-b651-968fe83a3911,2023,carrierAddress,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,carrierAddress,481 Dalton Ave,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,577d7dac-19fa-41d4-84a4-e6f88b3494ba,2023,carrierAddress,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,carrierAddress,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,20dd10d9-76ab-48bf-aba0-c4173e0ee89b,2023,carrierAddress,3000 town center suite 2820,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,dcabb816-d626-4e96-98ae-bf447161ba80,2023,carrierAddress,3000 town center suite 2820,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,carrierAddress,481 Dalton Ave,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,81fdde31-ddfc-4d33-8464-d78dd16d5fa8,2023,carrierAddress,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,c2f9bb44-d0d5-4e88-b456-b8c00fbf296e,2023,carrierAddress,481 Dalton Ave,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0923217c-cb92-48cd-88b2-1dfe09512683,2023,carrierAddress,Taunton MA 02780,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3dc2f76e-0d52-4577-8cad-5a22ade3987f,2023,carrierAddress,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,a7d98aba-75f2-426d-917d-cae78190eedc,2023,carrierAddress,66 Leavitt St. Seekonk Massachusetts 02771,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,1dd0bdda-ed9b-40ca-81bf-65a540e6f58e,2023,carrierAddress,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,51e576f9-66ba-4671-9b44-c30bef797499,2023,carrierAddress,Woburn,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,2ccc67b0-a67b-4e18-af42-53342b95c952,2023,carrierAddress,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,2022f22c-ddc9-4b05-8b3c-59906893aad5,2023,carrierAddress,3000 town center suite 2820,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,a9850eb3-bfc0-4b14-bef3-4644b93042a0,2023,carrierAddress,1484 East St,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9f99aad7-ca94-401d-9fdf-cad86abfe665,2023,carrierAddress,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,carrierAddress,1484 East St,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9aa60d8c-076e-4f86-83c7-06198f950f7b,2023,carrierAddress,481 Dalton Ave,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,5f01fb73-8bf0-47a1-b6bb-bcaf54a43cc7,2023,carrierAddress,3000 town center suite 2820,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0c797d87-17f0-447f-a8b4-70afd6427ab6,2023,carrierAddress,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,cbaa07da-3a98-4d1b-8308-a7681be93319,2023,carrierAddress,66 Leavitt St. Seekonk Massachusetts 02771,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0c64ee57-df11-40b7-a989-fa2a6abae748,2023,carrierAddress,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,e667df04-7cf4-4542-a497-e9c9e569644e,2023,carrierAddress,481 Dalton Ave,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3b6895be-077a-4641-93fa-a8950e6ca664,2023,carrierAddress,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3b6895be-077a-4641-93fa-a8950e6ca664,2023,carrierPhone,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,100c46da-68b2-45d4-a47d-2a8b38230715,2023,carrierPhone,18002892875,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,ca496247-83b1-4e53-b780-bdd19d4b3d91,2023,carrierPhone,4133474125,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,fa9e3b0e-3796-42ce-bac0-d7cdc2268c4d,2023,carrierPhone,248-355-0666,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,7741efef-a1f3-47f4-b28b-439a8ddf1f5d,2023,carrierPhone,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,78454019-521f-40cf-b60c-9842f6c1e475,2023,carrierPhone,4134421693,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,carrierPhone,4133474125,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,df1487df-c4fd-45ec-a359-9232c704ef3e,2023,carrierPhone,4133474125,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3a8675b0-fe8d-486f-a191-ae66c9bc130a,2023,carrierPhone,5083365040,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,32a53778-ad81-471c-b055-e06e07fe1515,2023,carrierPhone,248-355-0666,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,de8341e1-0ecd-404b-9805-9fffe890e669,2023,carrierPhone,4133474125,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,carrierPhone,4134421693,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3cf28a6c-7a63-4eed-afd7-17d2845f9777,2023,carrierPhone,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3dc2f76e-0d52-4577-8cad-5a22ade3987f,2023,carrierPhone,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,carrierPhone,1800SUBARU3,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,c2d9f0bf-dfed-43de-a6a0-08e6bcecc57c,2023,carrierPhone,5083365040,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,96b9ad75-3330-4ac4-8ce0-49ffcb6e4484,2023,carrierPhone,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,577d7dac-19fa-41d4-84a4-e6f88b3494ba,2023,carrierPhone,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,carrierPhone,4133474125,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,c2f9bb44-d0d5-4e88-b456-b8c00fbf296e,2023,carrierPhone,4133474125,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0c64ee57-df11-40b7-a989-fa2a6abae748,2023,carrierPhone,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,carrierPhone,N/a,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,51e576f9-66ba-4671-9b44-c30bef797499,2023,carrierPhone,(339) 298-8635,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,20dd10d9-76ab-48bf-aba0-c4173e0ee89b,2023,carrierPhone,248-355-0666,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,carrierPhone,5083365040,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,dcabb816-d626-4e96-98ae-bf447161ba80,2023,carrierPhone,248-355-0666,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,1dd0bdda-ed9b-40ca-81bf-65a540e6f58e,2023,carrierPhone,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,81fdde31-ddfc-4d33-8464-d78dd16d5fa8,2023,carrierPhone,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,carrierPhone,4133474125,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,a7d98aba-75f2-426d-917d-cae78190eedc,2023,carrierPhone,5083365040,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9aa60d8c-076e-4f86-83c7-06198f950f7b,2023,carrierPhone,4133474125,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,2ccc67b0-a67b-4e18-af42-53342b95c952,2023,carrierPhone,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,ab742f24-4cfb-4bf1-b651-968fe83a3911,2023,carrierPhone,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,2022f22c-ddc9-4b05-8b3c-59906893aad5,2023,carrierPhone,248-355-0666,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,a9850eb3-bfc0-4b14-bef3-4644b93042a0,2023,carrierPhone,4134421693,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,39f8a4c1-566d-4956-863d-b393c26e9d28,2023,carrierPhone,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,cbaa07da-3a98-4d1b-8308-a7681be93319,2023,carrierPhone,5083365040,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,28910943-fbb1-41b5-bb25-09d687d8822d,2023,carrierPhone,4134421693,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,d7f61988-3ac9-425a-b3ad-f9c789370039,2023,carrierPhone,248-355-0666,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0923217c-cb92-48cd-88b2-1dfe09512683,2023,carrierPhone,1-800-289-2875,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0c797d87-17f0-447f-a8b4-70afd6427ab6,2023,carrierPhone,1800SUBARU3,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,5ff7449f-f93c-4e70-809a-646f42bc980f,2023,carrierPhone,4134421693,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,5f01fb73-8bf0-47a1-b6bb-bcaf54a43cc7,2023,carrierPhone,248-355-0666,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9f99aad7-ca94-401d-9fdf-cad86abfe665,2023,carrierPhone,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,e667df04-7cf4-4542-a497-e9c9e569644e,2023,carrierPhone,413-347-4178,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,fa9e3b0e-3796-42ce-bac0-d7cdc2268c4d,2023,carrier24HourPhone,248-355-0666,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,100c46da-68b2-45d4-a47d-2a8b38230715,2023,carrier24HourPhone,18002892875,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,c2d9f0bf-dfed-43de-a6a0-08e6bcecc57c,2023,carrier24HourPhone,5083365040,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,28910943-fbb1-41b5-bb25-09d687d8822d,2023,carrier24HourPhone,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,78454019-521f-40cf-b60c-9842f6c1e475,2023,carrier24HourPhone,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,ca496247-83b1-4e53-b780-bdd19d4b3d91,2023,carrier24HourPhone,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,32a53778-ad81-471c-b055-e06e07fe1515,2023,carrier24HourPhone,248-355-0666,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,5ff7449f-f93c-4e70-809a-646f42bc980f,2023,carrier24HourPhone,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,de8341e1-0ecd-404b-9805-9fffe890e669,2023,carrier24HourPhone,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,96b9ad75-3330-4ac4-8ce0-49ffcb6e4484,2023,carrier24HourPhone,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,81fdde31-ddfc-4d33-8464-d78dd16d5fa8,2023,carrier24HourPhone,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,d7f61988-3ac9-425a-b3ad-f9c789370039,2023,carrier24HourPhone,248-355-0666,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,df1487df-c4fd-45ec-a359-9232c704ef3e,2023,carrier24HourPhone,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,4ebb2f00-5676-45d0-b9d3-f83d72dd9500,2023,carrier24HourPhone,1800SUBARU3,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,39f8a4c1-566d-4956-863d-b393c26e9d28,2023,carrier24HourPhone,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3a8675b0-fe8d-486f-a191-ae66c9bc130a,2023,carrier24HourPhone,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,7741efef-a1f3-47f4-b28b-439a8ddf1f5d,2023,carrier24HourPhone,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,da467bf7-b6c0-4195-a9f8-3a02d93f1d06,2023,carrier24HourPhone,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3cf28a6c-7a63-4eed-afd7-17d2845f9777,2023,carrier24HourPhone,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,8f29dfed-c702-4c5b-b6ae-d2c16c20f69c,2023,carrier24HourPhone,5083365040,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0c64ee57-df11-40b7-a989-fa2a6abae748,2023,carrier24HourPhone,1-800-SUBARU3,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,20dd10d9-76ab-48bf-aba0-c4173e0ee89b,2023,carrier24HourPhone,248-355-0666,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,ab742f24-4cfb-4bf1-b651-968fe83a3911,2023,carrier24HourPhone,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9750b0c1-c9cb-4527-8e4e-add1e05db280,2023,carrier24HourPhone,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,4c96bad4-8a8a-437f-b7f4-60df447776fc,2023,carrier24HourPhone,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,dcabb816-d626-4e96-98ae-bf447161ba80,2023,carrier24HourPhone,248-355-0666,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,7a02c522-1ed5-4de0-aa85-ce6ad5e5ca12,2023,carrier24HourPhone,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,577d7dac-19fa-41d4-84a4-e6f88b3494ba,2023,carrier24HourPhone,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,c2f9bb44-d0d5-4e88-b456-b8c00fbf296e,2023,carrier24HourPhone,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0923217c-cb92-48cd-88b2-1dfe09512683,2023,carrier24HourPhone,1-800-289-2875,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3dc2f76e-0d52-4577-8cad-5a22ade3987f,2023,carrier24HourPhone,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,1dd0bdda-ed9b-40ca-81bf-65a540e6f58e,2023,carrier24HourPhone,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,51e576f9-66ba-4671-9b44-c30bef797499,2023,carrier24HourPhone,(339) 298-8635,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,2ccc67b0-a67b-4e18-af42-53342b95c952,2023,carrier24HourPhone,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,a7d98aba-75f2-426d-917d-cae78190eedc,2023,carrier24HourPhone,5083365040,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,2022f22c-ddc9-4b05-8b3c-59906893aad5,2023,carrier24HourPhone,248-355-0666,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,a9850eb3-bfc0-4b14-bef3-4644b93042a0,2023,carrier24HourPhone,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9f99aad7-ca94-401d-9fdf-cad86abfe665,2023,carrier24HourPhone,N/A,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9ac89b52-1f9c-4594-8d83-c4df707287ef,2023,carrier24HourPhone,4134421693,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,9aa60d8c-076e-4f86-83c7-06198f950f7b,2023,carrier24HourPhone,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,5f01fb73-8bf0-47a1-b6bb-bcaf54a43cc7,2023,carrier24HourPhone,248-355-0666,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,cbaa07da-3a98-4d1b-8308-a7681be93319,2023,carrier24HourPhone,5083365040,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,0c797d87-17f0-447f-a8b4-70afd6427ab6,2023,carrier24HourPhone,1800SUBARU3,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,e667df04-7cf4-4542-a497-e9c9e569644e,2023,carrier24HourPhone,unknown,EPCRA
+e4b02c93-53d5-4182-a879-22884d8316f9,3b6895be-077a-4641-93fa-a8950e6ca664,2023,carrier24HourPhone,N/A,EPCRA

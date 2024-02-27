@@ -1,0 +1,15 @@
+Facility ID,Reporting Year,Key,Value,Extension Type
+58b2e258-ad74-4148-936e-1fe6fdf80742,2023,taxIdNumber,930640025,EPCRA
+58b2e258-ad74-4148-936e-1fe6fdf80742,2023,hasAutomaticFireSuppressionSystem,yes,EPCRA
+58b2e258-ad74-4148-936e-1fe6fdf80742,2023,hasEmergencyPlan,no,EPCRA
+58b2e258-ad74-4148-936e-1fe6fdf80742,2023,planLocation,none,EPCRA
+58b2e258-ad74-4148-936e-1fe6fdf80742,2023,isStorePlacarded,no,EPCRA
+58b2e258-ad74-4148-936e-1fe6fdf80742,2023,isStorePlacarded,no,EPCRA
+58b2e258-ad74-4148-936e-1fe6fdf80742,2023,hasMultipleAddresses,no,EPCRA
+16946f19-e775-4a13-878a-4d11c396c15f,2023,taxIdNumber,462880292,EPCRA
+16946f19-e775-4a13-878a-4d11c396c15f,2023,hasAutomaticFireSuppressionSystem,yes,EPCRA
+16946f19-e775-4a13-878a-4d11c396c15f,2023,hasEmergencyPlan,no,EPCRA
+16946f19-e775-4a13-878a-4d11c396c15f,2023,planLocation,none,EPCRA
+16946f19-e775-4a13-878a-4d11c396c15f,2023,isStorePlacarded,no,EPCRA
+16946f19-e775-4a13-878a-4d11c396c15f,2023,isStorePlacarded,no,EPCRA
+16946f19-e775-4a13-878a-4d11c396c15f,2023,hasMultipleAddresses,no,EPCRA

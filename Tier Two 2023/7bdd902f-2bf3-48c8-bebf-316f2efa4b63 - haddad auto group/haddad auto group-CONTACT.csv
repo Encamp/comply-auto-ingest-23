@@ -1,0 +1,22 @@
+Name,Phone,Email,Title,Address,Facility Id,Tenant ID
+Chad Longley,(802) 200-4614,chad.longley@haddadauto.com,Parts Manager,652 East Street, Pittsfield MA 01201,302fadd2-a5cb-42d4-b669-79ffd3742cba,7bdd902f-2bf3-48c8-bebf-316f2efa4b63
+Peter Sitzer,(413) 717-5612,peter.sitzer@haddadauto.com,Safety Manager,Multiple,9a1d0cea-536a-4d84-87a3-26f38bc8c688,7bdd902f-2bf3-48c8-bebf-316f2efa4b63
+Peter Sitzer,(413) 717-5612,peter.sitzer@haddadauto.com,Safety Manager,  130 Pittsfield-Lenox RdPittsfield, MA 0120,48ba5240-e847-42df-8d99-05b68b6a0e4d,7bdd902f-2bf3-48c8-bebf-316f2efa4b63
+George Haddad,413-242-0101,george.haddad@haddadauto.com,Safety Property manager,40 Downing Industrial Park Pittsfield, MA 01201,301348ed-01a8-485b-822e-a2f3fdf08995,7bdd902f-2bf3-48c8-bebf-316f2efa4b63
+Multiple,(123) 456-7890,peter.sitzer@haddadauto.com,Safety Property manager,130 Pittsfield Lenox Rd. Pittsfield MA 01201,e4b02c93-53d5-4182-a879-22884d8316f9,7bdd902f-2bf3-48c8-bebf-316f2efa4b63
+Peter Sitzer,(413) 242-0187,peter.sitzer@haddadauto.com,Safety Property Manager,652 East Street Pittsfield MA 01201,,
+Peter Sitzer,(413) 242-0187,peter.sitzer@haddadauto.com,Safety and Property Manager,,,
+Peter Sitzer,(413) 242-0187,george.haddad@haddadauto.com,Property and Safety Manager,,,
+George Haddad,413-242-0101,peter.sitzer@haddadauto.com,Safety Property Manager,,,
+Peter Sitzer,(413) 242-0187,peter.sitzer@haddadauto.com,Parts Department Manager,,,
+Peter Sitzer ,(413) 442-1693,peter.sitzer@haddadauto.com,Safety Manager,,,
+Peter Sitzer,(413) 442-1693,george.haddad@haddadauto.com,Safety Manager,,,
+George Hadded,413-242-0150,patrick.filiault@haddadauto.com,Parts Manager,,,
+Patrick Filiault,(413) 281-9840,peter.sitzer@haddadauto.com,Safety Manager,,,
+Peter Sitzer,(413) 717-5612,peter.sitzer@haddadauto.com,Safety Manager,,,
+Peter Sitzer,(413) 717-5612,george.haddad@haddadauto.com,,,,
+George Haddad,413-242-0101,bill.lucas@haddadauto.com,,,,
+Bill Lucas,(413) 446-3130,peter.sitzer@haddadauto.com,,,,
+Peter Sitzer,(413) 717-5612,peter.sitzer@haddadauto.com,,,,
+Peter Sitzer,(413) 717-5612,george.haddad@haddadauto.com,,,,
+George Haddad,413-242-0101,,,,,
