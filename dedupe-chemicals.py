@@ -21,8 +21,8 @@ def correct_chemical_ids(chemicals_path, components_path):
         components_df[col] = components_df[col].apply(lambda x: 'TRUE' if x else 'FALSE')
 
     # Save the corrected datasets
-    corrected_chemicals_path = chemicals_path.replace('.csv', '_corrected.csv')
-    corrected_components_path = components_path.replace('.csv', '_corrected.csv')
+    corrected_chemicals_path = chemicals_path
+    corrected_components_path = components_path
     chemicals_df.to_csv(corrected_chemicals_path, index=False)
     components_df.to_csv(corrected_components_path, index=False)
 
@@ -30,6 +30,6 @@ def correct_chemical_ids(chemicals_path, components_path):
 
 
 corrected_chemicals_path, corrected_components_path = correct_chemical_ids(
-    './potamkin/CHEMICALS-chemicals.csv',
-    './potamkin/CHEMICALS-components.csv'
+    './kraft/Chemicals.csv',
+    './kraft/Components.csv'
 )
