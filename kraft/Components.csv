@@ -1,295 +1,295 @@
 Component ID,Chemical ID,Name,Is EHS?,Component Percentage,CAS Number,No CAS Number?,Weight or Volume?,EHS Form
-f0354477-aa8b-5f95-82d5-c5e5d631023d,90746c49-81fb-496a-bba3-1395a5304cd6,Hydrotreated Light Petroleum Distillates,False,70.0,64742-47-8,False,WEIGHT,NONE
-da3f1651-3b4a-511c-a0ca-fb5cd0cf7da7,90746c49-81fb-496a-bba3-1395a5304cd6,2-Ethylhexyl Nitrate,False,35.0,27247-96-7,False,WEIGHT,NONE
-58903251-893b-587a-b928-16810967b331,90746c49-81fb-496a-bba3-1395a5304cd6,Light Aromatic Solvent Naphtha,False,10.0,64742-95-6,False,WEIGHT,NONE
-b23d6d9c-3202-549a-b0bc-98e80564f55a,90746c49-81fb-496a-bba3-1395a5304cd6,Heavy Aromatic Solvent Naphtha,False,5.0,64742-94-5,False,WEIGHT,NONE
-5d4be14f-de1e-53df-9eb6-575538b8f92d,90746c49-81fb-496a-bba3-1395a5304cd6,"1,2,4-Trimethylbenzene",False,5.0,95-63-6,False,WEIGHT,NONE
-e99abf56-3626-50ac-800e-a6b0492bf63b,90746c49-81fb-496a-bba3-1395a5304cd6,N-Propylbenzene,False,1.0,103-65-1,False,WEIGHT,NONE
-8d327c43-363c-57a1-80a5-2472d14de351,90746c49-81fb-496a-bba3-1395a5304cd6,"1,3,5-Trimethylbenzene",False,1.0,108-67-8,False,WEIGHT,NONE
-cace280a-3161-50f7-8685-571366280e15,90746c49-81fb-496a-bba3-1395a5304cd6,Naphthalene,False,1.0,91-20-3,False,WEIGHT,NONE
-8e601f5b-173d-5127-86fa-b12a7f4f8fbf,90746c49-81fb-496a-bba3-1395a5304cd6,Ethylbenzene,False,1.0,100-41-4,False,WEIGHT,NONE
-38b0f683-9d53-514e-9991-e382cda429c2,90746c49-81fb-496a-bba3-1395a5304cd6,Cumene,False,1.0,98-82-8,False,WEIGHT,NONE
-0792b326-ecc0-5a89-ad26-9e3875517a91,90746c49-81fb-496a-bba3-1395a5304cd6,"1,2,3-Trimethylbenzene",False,0.3,526-73-8,False,WEIGHT,NONE
-53ed85f8-cdb5-568c-8be9-70e9633aba6e,05c53001-bdf8-4118-8560-f12e3c7bab8f,Sodium Sesquicarbonate,False,5.0,533-96-0,False,WEIGHT,NONE
-fa139548-0810-56f2-8cd7-bf0b96cfa82e,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Triethylene Glycol Monobutyl Ether,False,35.0,143-22-6,False,WEIGHT,NONE
-a04b8fd2-9972-58af-ad05-6fe11af8d7a5,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Triethylene Glycol Monoethyl Ether,False,20.0,112-50-5,False,WEIGHT,NONE
-57a45bbe-bdf9-55bb-8ef0-377d8ad28087,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Diethylene glycol,False,20.0,111-46-6,False,WEIGHT,NONE
-918a87fa-9b45-58c3-b57c-c4f1c429dc42,2b0eae8e-4896-43e6-a1b6-8586ae944d22,"3,6,9,12-Tetraoxahexadecan-1-ol",False,14.0,1559-34-8,False,WEIGHT,NONE
-f653decf-bb47-528a-8074-c0bd82663236,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Triethylene Glycol Monomethyl Ether,False,10.0,112-35-6,False,WEIGHT,NONE
-cbea4651-3951-58a4-9383-a49c8f318e3b,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Tetraethylene Glycol,False,10.0,112-60-7,False,WEIGHT,NONE
-bbdbb446-ac94-538a-b0b8-fa68dc8e9311,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Diethylene Glycol Monobutyl Ether,False,8.0,112-34-5,False,WEIGHT,NONE
-54018e25-f54a-54b3-94c8-ca08c8f31e76,2b0eae8e-4896-43e6-a1b6-8586ae944d22,"3,6,9,12,15,18-Hexaoxaeicosane",False,5.0,23601-39-0,False,WEIGHT,NONE
-31132886-e797-5067-b0da-fd104acbaf13,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Polyethylene Glycol Monomethyl Ether,False,4.0,9004-74-4,False,WEIGHT,NONE
-b47e0803-ebf2-546b-bb3e-169ca714918d,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Diethylene Glycol Monoethyl Ether,False,2.0,111-90-0,False,WEIGHT,NONE
-4c22f8c7-05ee-59bb-9092-93ce44140469,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Diethylene Glycol Monomethyl Ether,False,1.0,111-77-3,False,WEIGHT,NONE
-ee9fb7ac-1412-514b-9c42-1b7ce1f12713,65c5071c-41a4-4699-8ebb-4808c575e657,Triethylene Glycol Monomethyl Ether Borate ester,False,40.0,30989-05-0,False,WEIGHT,NONE
-94bf9889-9b82-5b17-b76c-537ba33c94a3,65c5071c-41a4-4699-8ebb-4808c575e657,Triethylene Glycol Monomethyl Ether,False,40.0,112-35-6,False,WEIGHT,NONE
-95342850-3fc5-56ec-8e4a-3399f7fb351a,65c5071c-41a4-4699-8ebb-4808c575e657,Triethylene Glycol Monobutyl Ether,False,40.0,143-22-6,False,WEIGHT,NONE
-30e69b21-db73-503a-b666-ca1b828c8131,65c5071c-41a4-4699-8ebb-4808c575e657,Triethylene Glycol,False,20.0,112-27-6,False,WEIGHT,NONE
-f94735b1-c222-516f-81fd-cc5c3c544f83,65c5071c-41a4-4699-8ebb-4808c575e657,Polyethylene Glycol Monomethyl Ether,False,28.0,9004-74-4,False,WEIGHT,NONE
-c1cecce3-e4be-5638-a234-1a7f94ecf879,65c5071c-41a4-4699-8ebb-4808c575e657,Tetraethylene Glycol,False,10.0,112-60-7,False,WEIGHT,NONE
-c89485b4-acf3-585a-bb31-47d74ac3d753,65c5071c-41a4-4699-8ebb-4808c575e657,Diethylene Glycol,False,10.0,111-46-6,False,WEIGHT,NONE
-33634896-137d-596d-be7d-b35eb99e71dc,65c5071c-41a4-4699-8ebb-4808c575e657,Polyethylene Glycol Monobutyl Ether,False,5.0,9004-77-7,False,WEIGHT,NONE
-7f8c61b2-05a3-515d-89a3-b5bbcadf73e6,65c5071c-41a4-4699-8ebb-4808c575e657,Diisopropanolamine,False,5.0,110-97-4,False,WEIGHT,NONE
-1b8eee65-f627-5daf-b7e0-80f216940333,65c5071c-41a4-4699-8ebb-4808c575e657,Diethylene Glycol Monobutyl Ether,False,3.0,112-34-5,False,WEIGHT,NONE
-e203ec68-b57d-576d-bd2c-b19c21525d68,65c5071c-41a4-4699-8ebb-4808c575e657,Tetraethylene Glycol Monobutyl Ether,False,3.0,1559-34-8,False,WEIGHT,NONE
-7f6cb640-9e55-5a88-a14a-c1263fd472cd,65c5071c-41a4-4699-8ebb-4808c575e657,Diethylene Glycol Monomethyl Ether,False,1.0,111-77-3,False,WEIGHT,NONE
-4cdfb00a-adb7-52cf-92e3-23a8c961a5c9,65c5071c-41a4-4699-8ebb-4808c575e657,"2,6-Di-tert-butyl-p-cresol",False,1.0,128-37-0,False,WEIGHT,NONE
-7504919b-13e7-59cd-8645-251c00276c76,c93efc1f-91f2-417c-bce7-38a8c370e381,Mineral Oil,False,100.0,64742-58-1,False,WEIGHT,NONE
-329091df-bc93-53d1-816f-1d6c7eeeae71,c93efc1f-91f2-417c-bce7-38a8c370e381,Hydrotreated Heavy Paraffinic Oil,False,100.0,64742-54-7,False,WEIGHT,NONE
-75230b83-63d0-5c57-9a38-b3ee2790bf9e,c93efc1f-91f2-417c-bce7-38a8c370e381,Aliphatic Petroleum Distillates,False,100.0,64742-65-0,False,WEIGHT,NONE
-1e2c94a9-5ab4-5b20-ae69-6833f887bb9a,e6bf7c67-ed87-479a-af8c-4ac9e3571d9c,Mineral Oil,False,90.0,64742-58-1,False,WEIGHT,NONE
-46653390-5793-5a3c-b527-7dd76c78a6af,e6bf7c67-ed87-479a-af8c-4ac9e3571d9c,Hydrotreated Heavy Paraffinic Oil,False,90.0,64742-54-7,False,WEIGHT,NONE
-368c67ca-7a79-5eea-9bf2-e491ad56b8ab,e6bf7c67-ed87-479a-af8c-4ac9e3571d9c,Aliphatic Petroleum Distillates,False,90.0,64742-65-0,False,WEIGHT,NONE
-1e2c94a9-5ab4-5b20-ae69-6833f887bb9a,e6bf7c67-ed87-479a-af8c-4ac9e3571d9c,Mineral Oil,False,10.0,MIXTURE,False,WEIGHT,NONE
-44b4c5bd-7b97-5679-9e90-d8c6f2483204,fb8dc852-19c0-4918-b02f-0b89eacc26a2,"Petroleum distillates, solvent dewaxed heavy paraffinic",False,60.0,64742-65-0,False,WEIGHT,NONE
-be172970-9d5a-5cf4-81b1-6ecb4faeeff6,fb8dc852-19c0-4918-b02f-0b89eacc26a2,Mineral Oil,False,60.0,64742-58-1,False,WEIGHT,NONE
-79297d85-949c-5ec0-8849-b90b6b017974,fb8dc852-19c0-4918-b02f-0b89eacc26a2,"Alkanes, C14-C16, Chloro",False,25.0,1372804-76-6,False,WEIGHT,NONE
-1e60ec2b-fe13-5a60-9d57-27c3d14289fd,fb8dc852-19c0-4918-b02f-0b89eacc26a2,"Alkanes, C14, Chloro",False,25.0,198840-65-2,False,WEIGHT,NONE
-aa6f366b-af17-511d-bb16-9c4f81df5c64,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,Xylene,False,45.0,1330-20-7,False,WEIGHT,NONE
-7c0ae39a-2d48-536f-82ec-bdebf6e1d53b,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,Light Aliphatic Solvent Naphtha,False,30.0,64742-89-8,False,WEIGHT,NONE
-c4d16481-56eb-5f2f-a271-49133b078587,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,N-Methyl-2-Pyrrolidone,False,15.0,872-50-4,False,WEIGHT,NONE
-b1c7e8af-69cc-5e5c-b7fb-25b089959028,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,2-Butoxyethanol,False,15.0,111-76-2,False,WEIGHT,NONE
-01f8a200-4577-5e0e-898f-c51ab7a8f1ca,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,Ethylbenzene,False,10.0,100-41-4,False,WEIGHT,NONE
-1d0930fc-70ae-5cf5-b106-5d153c9b7469,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,"Petroleum distillates, hydrotreated light",False,6.0,64742-47-8,False,WEIGHT,NONE
-2c3ab6b0-7184-5781-8021-43843b6df4f1,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,Light Aromatic Solvent Naphtha,False,5.0,64742-95-6,False,WEIGHT,NONE
-59599993-a812-5b6d-bcbf-d6fdb0918381,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,9-Octadecenoic Acid,False,5.0,112-80-1,False,WEIGHT,NONE
-0794c352-2c0c-59b9-a189-756cf3093530,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,Polyolefin Alkyl Phenol Alkyl Amine,False,3.0,,True,WEIGHT,NONE
-4c5442f3-e7ea-5928-adeb-1a801c17cb11,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,Propoxylated alcohol,False,2.0,,True,WEIGHT,NONE
-3a8deaf1-583d-5e93-867b-b52bc2d7b02a,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,"1-Propene,2-methyl-, homopolymer, hydroformylation products, reaction products with ammonia",False,3.0,337367-30-3,False,WEIGHT,NONE
-1bd06964-ac2e-512e-9bd1-5ebdac5a1f6c,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,"1,2,4-Trimethylbenzene",False,1.0,95-63-6,False,WEIGHT,NONE
-ce1e7b79-6ad6-5e64-9289-889c93a14847,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,"1,3,5-Trimethylbenzene",False,0.9,108-67-8,False,WEIGHT,NONE
-7d08de9a-3c9f-54da-bacf-f7aeaf0c5360,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,N-Propylbenzene,False,0.5,103-65-1,False,WEIGHT,NONE
-48022fef-f5c6-599d-9020-4ef42e072079,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,Cumene,False,1.0,98-82-8,False,WEIGHT,NONE
-d84cf38e-4445-57c9-8029-590216d92ce5,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,"1,2,3-Trimethylbenzene",False,0.5,526-73-8,False,WEIGHT,NONE
-2f6101b3-b114-5a37-9392-e977da42f339,496cc246-c49c-481a-9a2b-4c54bd92dac8,Hydrotreated Light Petroleum Distillates,False,100.0,64742-47-8,False,WEIGHT,NONE
-e7d91ca1-30e5-5ef3-9755-5859f8cd14c4,496cc246-c49c-481a-9a2b-4c54bd92dac8,Light Aromatic Solvent Naphtha,False,10.0,64742-95-6,False,WEIGHT,NONE
-ed166a4f-27af-579a-aede-cf374e5e1dd9,496cc246-c49c-481a-9a2b-4c54bd92dac8,Polyolefin Alkyl Phenol Alkyl Amine,False,5.0,,True,WEIGHT,NONE
-15935e09-d7d3-5433-9568-a06e0a9a4075,496cc246-c49c-481a-9a2b-4c54bd92dac8,"1,2,4-Trimethylbenzene",False,0.9,95-63-6,False,WEIGHT,NONE
-e6e287f3-0ed5-55c5-8b1b-a4544b19160f,496cc246-c49c-481a-9a2b-4c54bd92dac8,Cumene,False,0.3,98-82-8,False,WEIGHT,NONE
-ae5a727e-e2b1-5289-b458-1ceb756db4b1,c19339ee-b534-4e15-8eb0-a66807ecd708,"Lubricating oils (petroleum), C20-50, hydrotreated neutral oil-based",False,30.0,72623-87-1,False,WEIGHT,NONE
-c93f66e2-2435-562c-a3cd-f003276b8da2,c19339ee-b534-4e15-8eb0-a66807ecd708,"Lubricating oils (petroleum), C15-30, hydrotreated neutral oil-based",False,3.0,72623-86-0,False,WEIGHT,NONE
-2771214c-adfa-5771-85b9-68ae469dce3a,c19339ee-b534-4e15-8eb0-a66807ecd708,"Distillates (petroleum), hydrotreated heavy paraffinic",False,3.0,64742-54-7,False,WEIGHT,NONE
-f7cc0cd7-b8ac-50a0-bc92-a48e58666309,c19339ee-b534-4e15-8eb0-a66807ecd708,bis(nonylphenyl)amine,False,2.5,36878-20-3,False,WEIGHT,NONE
-a5d176d7-d2b4-5261-a08b-4e28619545bb,c19339ee-b534-4e15-8eb0-a66807ecd708,C14-16-18 Alkyl phenol,False,1.0,,True,WEIGHT,NONE
-60d9b17c-e84e-5bcc-b907-1038e55fe389,ee8fda04-686c-4690-b8be-476926955992,"Lubricating oils (petroleum), C20-50, hydrotreated neutral oil-based",False,30.0,72623-87-1,False,WEIGHT,NONE
-7f5bf02f-dd97-5aa3-8588-8988b0b2ec19,ee8fda04-686c-4690-b8be-476926955992,"Lubricating oils (petroleum), C15-30, hydrotreated neutral oil-based",False,3.0,72623-86-0,False,WEIGHT,NONE
-abb9dab0-082f-549d-aa82-8892e3649b44,ee8fda04-686c-4690-b8be-476926955992,"Distillates (petroleum), hydrotreated heavy paraffinic",False,3.0,64742-54-7,False,WEIGHT,NONE
-853b5274-1eb8-57f1-8892-4a91541e925b,ee8fda04-686c-4690-b8be-476926955992,bis(nonylphenyl)amine,False,2.5,36878-20-3,False,WEIGHT,NONE
-a5b9cfba-7c67-5e41-9b6d-0dd9ebc7d020,ee8fda04-686c-4690-b8be-476926955992,C14-16-18 Alkyl phenol,False,1.0,,True,WEIGHT,NONE
-1f055825-3603-5d0b-85b4-0ece54144f32,4fe7a4b9-f97c-4237-8a6f-dae083e59ba5,"1-DECENE, HOMOPOLYMER HYDROGENATED",False,10.0,68037-01-4,False,WEIGHT,NONE
-cf680443-e9dd-54dd-b391-ef56537df6ea,4fe7a4b9-f97c-4237-8a6f-dae083e59ba5,"2-PENTANOL, 4-METHYL-, HYDROGEN PHOSPHORODITHIOATE, ZINC SALT",False,1.0,2215-35-2,False,WEIGHT,NONE
-de24b0bd-b8e5-50d8-afcd-33a34687777e,4fe7a4b9-f97c-4237-8a6f-dae083e59ba5,"DISTILLATES, HEAVY, C18-50 - BRANCHED, CYCLIC AND LINEAR",False,20.0,848301-69-9,False,WEIGHT,NONE
-da07f65d-fac6-5a14-812b-0ec1de60bda0,4fe7a4b9-f97c-4237-8a6f-dae083e59ba5,"PHOSPHORODITHIOIC ACID, MIXED 0,0 BIS (1,3-DIMETHYLBUTYL AND ISO-PR)ESTERS, ZINC SALTS",False,1.0,84605-29-8,False,WEIGHT,NONE
-7822ff9d-1a7d-586a-a5df-a3adccfeecc7,0ab3ff21-0243-41c2-864a-8460f4d0d42c,"Distillates (petroleum), hydrotreated heavy paraffinic",False,50.0,64742-54-7,False,WEIGHT,NONE
-ad295d37-6cc0-5265-936e-9557b3f7d1c1,0ab3ff21-0243-41c2-864a-8460f4d0d42c,Base oil - unspecified,False,25.0,Varies,True,WEIGHT,NONE
-ae21398e-d695-5ca2-a64f-0543b91cd81d,12281d10-3f1f-4242-ac41-6abd3f9412ce,2-[2-(2-butoxyethoxy)ethoxy]ethanol,False,60.0,143-22-6,False,WEIGHT,NONE
-cab68793-984e-575c-a330-7e6cbe93caac,12281d10-3f1f-4242-ac41-6abd3f9412ce,"2,2' -oxybisethanol",False,30.0,111-46-6,False,WEIGHT,NONE
-7ed6ed1b-b9f8-5518-b4b3-8fa76cc9813c,12281d10-3f1f-4242-ac41-6abd3f9412ce,2-(2-(2-methoxyethoxy)ethoxy)ethanol,False,5.0,112-35-6,False,WEIGHT,NONE
-db78868f-30ce-5e5d-b025-3d3064797fe1,d1d3a988-2f06-4320-a4c4-b044de4e6a4a,C9-C11 Isoalkanes,False,100.0,68551-16-6,False,WEIGHT,NONE
-6e682349-c77f-56dc-8464-e5d058961f87,d1d3a988-2f06-4320-a4c4-b044de4e6a4a,"2,6-Dimethyl-7-octen-2-ol",False,10.0,18479-58-8,False,WEIGHT,NONE
-44a004f5-c3b9-55fa-a9cc-1f54c90cb623,a6be0f7e-2e87-4176-9ed3-35c89339149c,Ethylene Glycol,True,50.0,107-21-1,False,WEIGHT,NONE
-a6e14237-240b-5483-8b2f-8f3f00b86b81,a6be0f7e-2e87-4176-9ed3-35c89339149c,Diethylene Glycol,False,3.0,111-46-6,False,WEIGHT,NONE
-48790fc0-b23b-5830-a96d-a2e51d753ad2,a6be0f7e-2e87-4176-9ed3-35c89339149c,"Hydrated inorganic acid, organic acid salts",False,5.0,,True,WEIGHT,NONE
-1605e7ff-018b-5b9b-abae-58ecb23aedb7,a6be0f7e-2e87-4176-9ed3-35c89339149c,Water,False,53.0,7732-18-5,False,WEIGHT,NONE
-e261dc18-ab70-5ee2-a20d-f2388f64e631,502dbc99-0c3f-409a-aa4e-25085a0bbdbc,"Naphtha (petroleum), hydrotreated light",False,100.0,64742-49-0,False,VOLUME,NONE
-ba0562d3-c134-5958-bb87-a3307506bae9,502dbc99-0c3f-409a-aa4e-25085a0bbdbc,Isopropanol,False,5.0,67-63-0,False,VOLUME,NONE
-011d7d23-d21a-52d8-8f07-54b41086be3c,502dbc99-0c3f-409a-aa4e-25085a0bbdbc,Carbon dioxide gas,False,5.0,124-38-9,False,VOLUME,NONE
-bc49e252-2077-587c-87b5-9a870bc2200f,a0251ba9-c551-41e2-826a-5d3070869682,"Lubricating oils (petroleum), C20-50, hydrotreated neutral oil-based",False,30.0,72623-87-1,False,WEIGHT,NONE
-c22db27a-bd9c-55ff-9ea9-1e04b9a792a0,a0251ba9-c551-41e2-826a-5d3070869682,"Lubricating oils (petroleum), C15-30, hydrotreated neutral oil-based",False,3.0,72623-86-0,False,WEIGHT,NONE
-16ab7e08-34be-58d8-85b6-9a565a0418d4,a0251ba9-c551-41e2-826a-5d3070869682,"Distillates (petroleum), hydrotreated heavy paraffinic",False,3.0,64742-54-7,False,WEIGHT,NONE
-31d8e50e-9c5d-50ce-be50-83ccd2e9404e,a0251ba9-c551-41e2-826a-5d3070869682,bis(nonylphenyl)amine,False,2.5,36878-20-3,False,WEIGHT,NONE
-299d6750-a965-569f-bc2b-66876395c708,a0251ba9-c551-41e2-826a-5d3070869682,C14-16-18 Alkyl phenol,False,1.0,,True,WEIGHT,NONE
-f46c87d1-5d13-5148-a480-f8dab5f3e6e3,1117c6b6-3807-4f20-a969-6e95b37b036e,C14-16-18 ALKYL PHENOL,False,1.0,,True,WEIGHT,NONE
-c1f405bd-becc-5d20-9b3b-5ea0b0b95896,1117c6b6-3807-4f20-a969-6e95b37b036e,CALCIUM HYDROXIDE,False,1.0,1305-62-0,False,WEIGHT,NONE
-9a1af122-3a72-567f-9597-cede257e2d27,1117c6b6-3807-4f20-a969-6e95b37b036e,CATALYTIC DEWAXED LIGHT PARAFFINIC OIL (PETROLEUM),False,40.0,64742-71-8,False,WEIGHT,NONE
-ee7233fc-988e-5ea3-8bed-541f412de2d5,1117c6b6-3807-4f20-a969-6e95b37b036e,POLYOLEFIN POLYAMINE SUCCINIMIDE,False,5.0,147880-09-9,False,WEIGHT,NONE
-d5143da4-3903-5e96-9591-ee21205dcc4a,1117c6b6-3807-4f20-a969-6e95b37b036e,"ZINC BIS(O,O-DIISOOCTYL) BIS(DITHIOPHOSPHATE)",False,1.0,28629-66-5,False,WEIGHT,NONE
-69b01b9e-9486-5077-9d84-fec68464f33e,9840dd49-835f-4a11-8f0c-2a4fc0eab495,Polypropylene,False,100.0,,True,WEIGHT,NONE
-e5d92df8-c691-552b-b0da-e9872bc0bfa6,56234527-3922-4eb0-b7f1-68efd35f7419,"Petroleum distillates, hydrotreated middle",False,50.0,64742-46-7,False,WEIGHT,NONE
-7f29d057-d5f7-50a6-a56d-53d83217aaff,56234527-3922-4eb0-b7f1-68efd35f7419,"Petroleum distillates, solvent-refined light paraffinic",False,40.0,64741-89-5,False,WEIGHT,NONE
-5855885c-cd67-5f39-8565-38b00cf9b957,56234527-3922-4eb0-b7f1-68efd35f7419,"Phosphorodithioic Acid, Mixed O,O-Bis(2-Ethylhexyl And Iso-Bu And Iso-Pr) Esters, Zinc Salts",False,5.0,85940-28-9,False,WEIGHT,NONE
-756a25fc-d358-5327-922a-ada9274f509a,47eb1d0e-1475-4a77-bba6-07496257f19c,Distillates (petroleum),False,5.0,64742-55-8,False,WEIGHT,NONE
-bb70c127-28ac-5019-861a-af68b36f43a7,47eb1d0e-1475-4a77-bba6-07496257f19c,Mineral Oil,False,5.0,Not Assigned,True,WEIGHT,NONE
-30b3b947-4a61-5191-8913-568d64ccff73,47eb1d0e-1475-4a77-bba6-07496257f19c,Substituted hydrocarbyl sulfide,False,1.0,Not Assigned,True,WEIGHT,NONE
-a4350381-1504-53c9-a825-5259e155263c,32b68dc9-0ee2-4446-80e1-d47fc12cfd8c,"Distillates (Petroleum), Hydrotreated Light Naphthenic",False,100.0,64742-53-6,False,WEIGHT,NONE
-94c6435f-1e64-5487-a0b0-f3e16049bdfc,32b68dc9-0ee2-4446-80e1-d47fc12cfd8c,Mineral Oil,False,3.0,64742-58-1,False,WEIGHT,NONE
-52cc93d6-c27b-5a6f-a0f7-95b9e4eece80,32b68dc9-0ee2-4446-80e1-d47fc12cfd8c,Hydrotreated Heavy Paraffinic Oil,False,3.0,64742-54-7,False,WEIGHT,NONE
-51f1fae6-18a4-5af6-b7a8-ed0f392d8bc1,32b68dc9-0ee2-4446-80e1-d47fc12cfd8c,Aliphatic Petroleum Distillates,False,3.0,64742-65-0,False,WEIGHT,NONE
-18b37a07-b077-5ad1-8768-5c923f8f5651,eb6eb9d1-675d-4333-b525-468ae824ded8,Light Aliphatic Solvent Naphtha,False,45.0,64742-89-8,False,WEIGHT,NONE
-2413f2b9-9542-525c-a877-4e3b695d3589,eb6eb9d1-675d-4333-b525-468ae824ded8,Xylene,False,35.0,1330-20-7,False,WEIGHT,NONE
-ec55fa57-0e44-5f2c-b36b-8892309ef474,eb6eb9d1-675d-4333-b525-468ae824ded8,2-Butoxyethanol,False,15.0,111-76-2,False,WEIGHT,NONE
-92f95965-fab1-5c45-a26a-e1363935b4f2,eb6eb9d1-675d-4333-b525-468ae824ded8,Ethylbenzene,False,15.0,100-41-4,False,WEIGHT,NONE
-bb94b6a5-68bd-54ba-8001-fe82438edf11,eb6eb9d1-675d-4333-b525-468ae824ded8,Monoalkylaryl alkoxylate aminated,False,10.0,,True,WEIGHT,NONE
-e1175127-5518-5a9e-ac10-a7ef9781619c,eb6eb9d1-675d-4333-b525-468ae824ded8,Light Aromatic Solvent Naphtha,False,10.0,64742-95-6,False,WEIGHT,NONE
-1b8e6663-9c55-5a6c-b9a9-fd17015dbd02,eb6eb9d1-675d-4333-b525-468ae824ded8,Ethyl Acetate,False,10.0,141-78-6,False,WEIGHT,NONE
-7afd211d-baba-50c5-81f7-4b5033f8c34b,eb6eb9d1-675d-4333-b525-468ae824ded8,"1,2,4-Trimethylbenzene",False,5.0,95-63-6,False,WEIGHT,NONE
-c943850c-0f30-5b99-8f0d-1215b4ef664e,eb6eb9d1-675d-4333-b525-468ae824ded8,Nitrogen,False,2.0,7727-37-9,False,WEIGHT,NONE
-a371e3e4-0662-570a-b90d-c955a2008520,eb6eb9d1-675d-4333-b525-468ae824ded8,N-Propylbenzene,False,1.0,103-65-1,False,WEIGHT,NONE
-cd61c280-8920-593e-a3e5-3daf8216efce,eb6eb9d1-675d-4333-b525-468ae824ded8,Cumene,False,1.0,98-82-8,False,WEIGHT,NONE
-9b3cc861-052e-526d-af9b-2579abcdc0bb,eb6eb9d1-675d-4333-b525-468ae824ded8,"1,2,3-Trimethylbenzene",False,1.0,526-73-8,False,WEIGHT,NONE
-2468ec17-fb13-580e-9a1c-5816462d9975,76031dc1-5d5e-425b-b17d-903fb52884c7,Hydrotreated Light Petroleum Distillates,False,45.0,64742-47-8,False,WEIGHT,NONE
-a85b487f-e4e6-5bce-b502-800dbceacc99,76031dc1-5d5e-425b-b17d-903fb52884c7,2-Butoxyethanol,False,45.0,111-76-2,False,WEIGHT,NONE
-ef610cf8-f9c9-5ad7-9563-734fb1809bde,76031dc1-5d5e-425b-b17d-903fb52884c7,"Benzene, C10-16-Alkyl Derivatives",False,5.0,68648-87-3,False,WEIGHT,NONE
-7409b6e2-7f14-5a48-b8aa-ec30835c4fbd,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Triethylene Glycol Monomethyl Ether Borate ester,False,40.0,30989-05-0,False,WEIGHT,NONE
-74adda40-40bd-5ba2-9bc1-c056f14181e4,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Triethylene Glycol Monomethyl Ether,False,40.0,112-35-6,False,WEIGHT,NONE
-fc458e0f-ef8c-5d85-a314-977c68d128b9,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Triethylene Glycol Monobutyl Ether,False,40.0,143-22-6,False,WEIGHT,NONE
-6d534cfc-30df-5a95-9032-eac98e1c3a31,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Triethylene Glycol,False,20.0,112-27-6,False,WEIGHT,NONE
-0dbad555-29a4-5d07-89e0-f7d5fa5487ea,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Polyethylene Glycol Monomethyl Ether,False,28.0,9004-74-4,False,WEIGHT,NONE
-33d2e606-23e8-5e80-8bd6-dddcb80ef31d,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Tetraethylene Glycol,False,10.0,112-60-7,False,WEIGHT,NONE
-8083f9b9-e65f-5a86-85c1-1e4b5c0189b0,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Diethylene Glycol,False,10.0,111-46-6,False,WEIGHT,NONE
-cf1bed35-e42f-5467-9e29-cd7713f2de91,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Polyethylene Glycol Monobutyl Ether,False,5.0,9004-77-7,False,WEIGHT,NONE
-248247c0-ca0f-51f9-9c19-87226c282668,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Diisopropanolamine,False,5.0,110-97-4,False,WEIGHT,NONE
-bbfa44b6-0fec-5b0f-906b-0d55c7192f0c,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Diethylene Glycol Monobutyl Ether,False,3.0,112-34-5,False,WEIGHT,NONE
-cccde551-c383-565b-bd4e-eb669c951852,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Tetraethylene Glycol Monobutyl Ether,False,3.0,1559-34-8,False,WEIGHT,NONE
-3d8f499c-5750-5937-bc1d-590621e69830,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Diethylene Glycol Monomethyl Ether,False,1.0,111-77-3,False,WEIGHT,NONE
-9b2c2273-abe0-5b42-a054-063463b68706,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,"2,6-Di-tert-butyl-p-cresol",False,1.0,128-37-0,False,WEIGHT,NONE
-f0354477-aa8b-5f95-82d5-c5e5d631023d,90746c49-81fb-496a-bba3-1395a5304cd6,Hydrotreated Light Petroleum Distillates,False,70.0,64742-47-8,False,WEIGHT,NONE
-da3f1651-3b4a-511c-a0ca-fb5cd0cf7da7,90746c49-81fb-496a-bba3-1395a5304cd6,2-Ethylhexyl Nitrate,False,35.0,27247-96-7,False,WEIGHT,NONE
-58903251-893b-587a-b928-16810967b331,90746c49-81fb-496a-bba3-1395a5304cd6,Light Aromatic Solvent Naphtha,False,10.0,64742-95-6,False,WEIGHT,NONE
-b23d6d9c-3202-549a-b0bc-98e80564f55a,90746c49-81fb-496a-bba3-1395a5304cd6,Heavy Aromatic Solvent Naphtha,False,5.0,64742-94-5,False,WEIGHT,NONE
-5d4be14f-de1e-53df-9eb6-575538b8f92d,90746c49-81fb-496a-bba3-1395a5304cd6,"1,2,4-Trimethylbenzene",False,5.0,95-63-6,False,WEIGHT,NONE
-e99abf56-3626-50ac-800e-a6b0492bf63b,90746c49-81fb-496a-bba3-1395a5304cd6,N-Propylbenzene,False,1.0,103-65-1,False,WEIGHT,NONE
-8d327c43-363c-57a1-80a5-2472d14de351,90746c49-81fb-496a-bba3-1395a5304cd6,"1,3,5-Trimethylbenzene",False,1.0,108-67-8,False,WEIGHT,NONE
-cace280a-3161-50f7-8685-571366280e15,90746c49-81fb-496a-bba3-1395a5304cd6,Naphthalene,False,1.0,91-20-3,False,WEIGHT,NONE
-8e601f5b-173d-5127-86fa-b12a7f4f8fbf,90746c49-81fb-496a-bba3-1395a5304cd6,Ethylbenzene,False,1.0,100-41-4,False,WEIGHT,NONE
-38b0f683-9d53-514e-9991-e382cda429c2,90746c49-81fb-496a-bba3-1395a5304cd6,Cumene,False,1.0,98-82-8,False,WEIGHT,NONE
-0792b326-ecc0-5a89-ad26-9e3875517a91,90746c49-81fb-496a-bba3-1395a5304cd6,"1,2,3-Trimethylbenzene",False,0.3,526-73-8,False,WEIGHT,NONE
-53ed85f8-cdb5-568c-8be9-70e9633aba6e,05c53001-bdf8-4118-8560-f12e3c7bab8f,Sodium Sesquicarbonate,False,5.0,533-96-0,False,WEIGHT,NONE
-fa139548-0810-56f2-8cd7-bf0b96cfa82e,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Triethylene Glycol Monobutyl Ether,False,35.0,143-22-6,False,WEIGHT,NONE
-a04b8fd2-9972-58af-ad05-6fe11af8d7a5,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Triethylene Glycol Monoethyl Ether,False,20.0,112-50-5,False,WEIGHT,NONE
-57a45bbe-bdf9-55bb-8ef0-377d8ad28087,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Diethylene glycol,False,20.0,111-46-6,False,WEIGHT,NONE
-918a87fa-9b45-58c3-b57c-c4f1c429dc42,2b0eae8e-4896-43e6-a1b6-8586ae944d22,"3,6,9,12-Tetraoxahexadecan-1-ol",False,14.0,1559-34-8,False,WEIGHT,NONE
-f653decf-bb47-528a-8074-c0bd82663236,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Triethylene Glycol Monomethyl Ether,False,10.0,112-35-6,False,WEIGHT,NONE
-cbea4651-3951-58a4-9383-a49c8f318e3b,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Tetraethylene Glycol,False,10.0,112-60-7,False,WEIGHT,NONE
-bbdbb446-ac94-538a-b0b8-fa68dc8e9311,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Diethylene Glycol Monobutyl Ether,False,8.0,112-34-5,False,WEIGHT,NONE
-54018e25-f54a-54b3-94c8-ca08c8f31e76,2b0eae8e-4896-43e6-a1b6-8586ae944d22,"3,6,9,12,15,18-Hexaoxaeicosane",False,5.0,23601-39-0,False,WEIGHT,NONE
-31132886-e797-5067-b0da-fd104acbaf13,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Polyethylene Glycol Monomethyl Ether,False,4.0,9004-74-4,False,WEIGHT,NONE
-b47e0803-ebf2-546b-bb3e-169ca714918d,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Diethylene Glycol Monoethyl Ether,False,2.0,111-90-0,False,WEIGHT,NONE
-4c22f8c7-05ee-59bb-9092-93ce44140469,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Diethylene Glycol Monomethyl Ether,False,1.0,111-77-3,False,WEIGHT,NONE
-ee9fb7ac-1412-514b-9c42-1b7ce1f12713,65c5071c-41a4-4699-8ebb-4808c575e657,Triethylene Glycol Monomethyl Ether Borate ester,False,40.0,30989-05-0,False,WEIGHT,NONE
-94bf9889-9b82-5b17-b76c-537ba33c94a3,65c5071c-41a4-4699-8ebb-4808c575e657,Triethylene Glycol Monomethyl Ether,False,40.0,112-35-6,False,WEIGHT,NONE
-95342850-3fc5-56ec-8e4a-3399f7fb351a,65c5071c-41a4-4699-8ebb-4808c575e657,Triethylene Glycol Monobutyl Ether,False,40.0,143-22-6,False,WEIGHT,NONE
-30e69b21-db73-503a-b666-ca1b828c8131,65c5071c-41a4-4699-8ebb-4808c575e657,Triethylene Glycol,False,20.0,112-27-6,False,WEIGHT,NONE
-f94735b1-c222-516f-81fd-cc5c3c544f83,65c5071c-41a4-4699-8ebb-4808c575e657,Polyethylene Glycol Monomethyl Ether,False,28.0,9004-74-4,False,WEIGHT,NONE
-c1cecce3-e4be-5638-a234-1a7f94ecf879,65c5071c-41a4-4699-8ebb-4808c575e657,Tetraethylene Glycol,False,10.0,112-60-7,False,WEIGHT,NONE
-c89485b4-acf3-585a-bb31-47d74ac3d753,65c5071c-41a4-4699-8ebb-4808c575e657,Diethylene Glycol,False,10.0,111-46-6,False,WEIGHT,NONE
-33634896-137d-596d-be7d-b35eb99e71dc,65c5071c-41a4-4699-8ebb-4808c575e657,Polyethylene Glycol Monobutyl Ether,False,5.0,9004-77-7,False,WEIGHT,NONE
-7f8c61b2-05a3-515d-89a3-b5bbcadf73e6,65c5071c-41a4-4699-8ebb-4808c575e657,Diisopropanolamine,False,5.0,110-97-4,False,WEIGHT,NONE
-1b8eee65-f627-5daf-b7e0-80f216940333,65c5071c-41a4-4699-8ebb-4808c575e657,Diethylene Glycol Monobutyl Ether,False,3.0,112-34-5,False,WEIGHT,NONE
-e203ec68-b57d-576d-bd2c-b19c21525d68,65c5071c-41a4-4699-8ebb-4808c575e657,Tetraethylene Glycol Monobutyl Ether,False,3.0,1559-34-8,False,WEIGHT,NONE
-7f6cb640-9e55-5a88-a14a-c1263fd472cd,65c5071c-41a4-4699-8ebb-4808c575e657,Diethylene Glycol Monomethyl Ether,False,1.0,111-77-3,False,WEIGHT,NONE
-4cdfb00a-adb7-52cf-92e3-23a8c961a5c9,65c5071c-41a4-4699-8ebb-4808c575e657,"2,6-Di-tert-butyl-p-cresol",False,1.0,128-37-0,False,WEIGHT,NONE
-7504919b-13e7-59cd-8645-251c00276c76,c93efc1f-91f2-417c-bce7-38a8c370e381,Mineral Oil,False,100.0,64742-58-1,False,WEIGHT,NONE
-329091df-bc93-53d1-816f-1d6c7eeeae71,c93efc1f-91f2-417c-bce7-38a8c370e381,Hydrotreated Heavy Paraffinic Oil,False,100.0,64742-54-7,False,WEIGHT,NONE
-75230b83-63d0-5c57-9a38-b3ee2790bf9e,c93efc1f-91f2-417c-bce7-38a8c370e381,Aliphatic Petroleum Distillates,False,100.0,64742-65-0,False,WEIGHT,NONE
-1e2c94a9-5ab4-5b20-ae69-6833f887bb9a,e6bf7c67-ed87-479a-af8c-4ac9e3571d9c,Mineral Oil,False,90.0,64742-58-1,False,WEIGHT,NONE
-46653390-5793-5a3c-b527-7dd76c78a6af,e6bf7c67-ed87-479a-af8c-4ac9e3571d9c,Hydrotreated Heavy Paraffinic Oil,False,90.0,64742-54-7,False,WEIGHT,NONE
-368c67ca-7a79-5eea-9bf2-e491ad56b8ab,e6bf7c67-ed87-479a-af8c-4ac9e3571d9c,Aliphatic Petroleum Distillates,False,90.0,64742-65-0,False,WEIGHT,NONE
-1e2c94a9-5ab4-5b20-ae69-6833f887bb9a,e6bf7c67-ed87-479a-af8c-4ac9e3571d9c,Mineral Oil,False,10.0,MIXTURE,False,WEIGHT,NONE
-44b4c5bd-7b97-5679-9e90-d8c6f2483204,fb8dc852-19c0-4918-b02f-0b89eacc26a2,"Petroleum distillates, solvent dewaxed heavy paraffinic",False,60.0,64742-65-0,False,WEIGHT,NONE
-be172970-9d5a-5cf4-81b1-6ecb4faeeff6,fb8dc852-19c0-4918-b02f-0b89eacc26a2,Mineral Oil,False,60.0,64742-58-1,False,WEIGHT,NONE
-79297d85-949c-5ec0-8849-b90b6b017974,fb8dc852-19c0-4918-b02f-0b89eacc26a2,"Alkanes, C14-C16, Chloro",False,25.0,1372804-76-6,False,WEIGHT,NONE
-1e60ec2b-fe13-5a60-9d57-27c3d14289fd,fb8dc852-19c0-4918-b02f-0b89eacc26a2,"Alkanes, C14, Chloro",False,25.0,198840-65-2,False,WEIGHT,NONE
-aa6f366b-af17-511d-bb16-9c4f81df5c64,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,Xylene,False,45.0,1330-20-7,False,WEIGHT,NONE
-7c0ae39a-2d48-536f-82ec-bdebf6e1d53b,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,Light Aliphatic Solvent Naphtha,False,30.0,64742-89-8,False,WEIGHT,NONE
-c4d16481-56eb-5f2f-a271-49133b078587,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,N-Methyl-2-Pyrrolidone,False,15.0,872-50-4,False,WEIGHT,NONE
-b1c7e8af-69cc-5e5c-b7fb-25b089959028,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,2-Butoxyethanol,False,15.0,111-76-2,False,WEIGHT,NONE
-01f8a200-4577-5e0e-898f-c51ab7a8f1ca,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,Ethylbenzene,False,10.0,100-41-4,False,WEIGHT,NONE
-1d0930fc-70ae-5cf5-b106-5d153c9b7469,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,"Petroleum distillates, hydrotreated light",False,6.0,64742-47-8,False,WEIGHT,NONE
-2c3ab6b0-7184-5781-8021-43843b6df4f1,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,Light Aromatic Solvent Naphtha,False,5.0,64742-95-6,False,WEIGHT,NONE
-59599993-a812-5b6d-bcbf-d6fdb0918381,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,9-Octadecenoic Acid,False,5.0,112-80-1,False,WEIGHT,NONE
-0794c352-2c0c-59b9-a189-756cf3093530,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,Polyolefin Alkyl Phenol Alkyl Amine,False,3.0,,True,WEIGHT,NONE
-4c5442f3-e7ea-5928-adeb-1a801c17cb11,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,Propoxylated alcohol,False,2.0,,True,WEIGHT,NONE
-3a8deaf1-583d-5e93-867b-b52bc2d7b02a,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,"1-Propene,2-methyl-, homopolymer, hydroformylation products, reaction products with ammonia",False,3.0,337367-30-3,False,WEIGHT,NONE
-1bd06964-ac2e-512e-9bd1-5ebdac5a1f6c,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,"1,2,4-Trimethylbenzene",False,1.0,95-63-6,False,WEIGHT,NONE
-ce1e7b79-6ad6-5e64-9289-889c93a14847,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,"1,3,5-Trimethylbenzene",False,0.9,108-67-8,False,WEIGHT,NONE
-7d08de9a-3c9f-54da-bacf-f7aeaf0c5360,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,N-Propylbenzene,False,0.5,103-65-1,False,WEIGHT,NONE
-48022fef-f5c6-599d-9020-4ef42e072079,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,Cumene,False,1.0,98-82-8,False,WEIGHT,NONE
-d84cf38e-4445-57c9-8029-590216d92ce5,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,"1,2,3-Trimethylbenzene",False,0.5,526-73-8,False,WEIGHT,NONE
-2f6101b3-b114-5a37-9392-e977da42f339,496cc246-c49c-481a-9a2b-4c54bd92dac8,Hydrotreated Light Petroleum Distillates,False,100.0,64742-47-8,False,WEIGHT,NONE
-e7d91ca1-30e5-5ef3-9755-5859f8cd14c4,496cc246-c49c-481a-9a2b-4c54bd92dac8,Light Aromatic Solvent Naphtha,False,10.0,64742-95-6,False,WEIGHT,NONE
-ed166a4f-27af-579a-aede-cf374e5e1dd9,496cc246-c49c-481a-9a2b-4c54bd92dac8,Polyolefin Alkyl Phenol Alkyl Amine,False,5.0,,True,WEIGHT,NONE
-15935e09-d7d3-5433-9568-a06e0a9a4075,496cc246-c49c-481a-9a2b-4c54bd92dac8,"1,2,4-Trimethylbenzene",False,0.9,95-63-6,False,WEIGHT,NONE
-e6e287f3-0ed5-55c5-8b1b-a4544b19160f,496cc246-c49c-481a-9a2b-4c54bd92dac8,Cumene,False,0.3,98-82-8,False,WEIGHT,NONE
-5e38921e-f924-53d5-accf-d0ad5f24d0ec,53df2c56-9297-43f4-9f31-c96142c67638,Diethylene glycol,False,10.0,111-46-6,False,WEIGHT,NONE
-38eb1d96-69cb-5cf0-8c2f-2e42dac8bec1,53df2c56-9297-43f4-9f31-c96142c67638,"Glycol ethers (SARA 313 Category), total glycol ether compounds",False,14.0,Not Assigned,True,WEIGHT,NONE
-7b9f8738-b7c6-5540-b8da-4a3b618668aa,9931bba3-c379-4287-8ea4-9b96dc72c87a,ethylene glycol,False,97.0,107-21-1,False,WEIGHT,NONE
-94def930-11c6-5a97-8361-02fb5ac531cc,9931bba3-c379-4287-8ea4-9b96dc72c87a,diethylene glycol,False,5.0,111-46-6,False,WEIGHT,NONE
-c090bed4-0ef2-57f1-a71a-094f72ea0ff4,9931bba3-c379-4287-8ea4-9b96dc72c87a,water,False,5.0,7732-18-5,False,WEIGHT,NONE
-ca25cc7f-357d-51ff-9159-5488b0db6575,9931bba3-c379-4287-8ea4-9b96dc72c87a,potassium 2-ethylhexanoate,False,5.0,3164-85-0,False,WEIGHT,NONE
-7abd5faf-b922-5462-9d9c-930f10f2bdb2,9931bba3-c379-4287-8ea4-9b96dc72c87a,sodium 2-ethylhexanoate,False,5.0,19766-89-3,False,WEIGHT,NONE
-2a6a0ef5-2048-5a4e-8e58-26ba524c8a6b,9931bba3-c379-4287-8ea4-9b96dc72c87a,denatonium benzoate,False,0.005,3734-33-6,False,WEIGHT,NONE
-7d62a011-ec8a-5949-b465-04294340cf6d,95aa65fa-c133-47dc-8cec-213e1ae024d4,Mineral Oil,False,60.0,64742-58-1,False,WEIGHT,NONE
-ed218435-6232-5528-b007-21b846fd952f,95aa65fa-c133-47dc-8cec-213e1ae024d4,Hydrotreated Heavy Paraffinic Oil,False,60.0,64742-54-7,False,WEIGHT,NONE
-aa88f483-0084-57ea-a6c2-c6147b6ea54d,95aa65fa-c133-47dc-8cec-213e1ae024d4,Aliphatic Petroleum Distillates,False,60.0,64742-65-0,False,WEIGHT,NONE
-1a662b97-77b9-5203-bf9d-07e576bbc2b1,95aa65fa-c133-47dc-8cec-213e1ae024d4,Hydrotreated Light Petroleum Distillates,False,50.0,64742-47-8,False,WEIGHT,NONE
-0ed49760-1605-5e2e-b81d-2266f261e599,95aa65fa-c133-47dc-8cec-213e1ae024d4,9-Octadecenoic Acid,False,5.0,112-80-1,False,WEIGHT,NONE
-a94d0f6c-c54c-5f6e-b2fc-896b8e42efd6,95aa65fa-c133-47dc-8cec-213e1ae024d4,Dipropylene Glycol Methyl Ether,True,3.0,34590-94-8,False,WEIGHT,NONE
-2337b035-1db8-599d-880f-44ab1a57c00b,251e098b-ee7c-4ce9-9b70-5f99000be3af,Butane,False,20.0,106-97-8,False,VOLUME,NONE
-516f0f10-f9d0-5599-884c-680535a6de0d,251e098b-ee7c-4ce9-9b70-5f99000be3af,ISOPROPANOL,False,6.0,67-63-0,False,VOLUME,NONE
-2085de72-310f-51e4-8006-4bb35e604393,251e098b-ee7c-4ce9-9b70-5f99000be3af,Propane,False,4.0,74-98-6,False,VOLUME,NONE
-b5049f31-8ffd-5c8e-892f-13465d83e308,251e098b-ee7c-4ce9-9b70-5f99000be3af,Ethoxylated Alcohols (C9 – C11),False,0.5,68439-46-3,False,VOLUME,NONE
-a452097b-8e25-5569-81cf-90c2be8ccd07,a957ac53-efcc-4022-bca6-545860ae1eca,ethylene glycol,False,97.0,107-21-1,False,WEIGHT,NONE
-20ae7a49-a837-5d9e-9da8-db8d53920403,a957ac53-efcc-4022-bca6-545860ae1eca,diethylene glycol,False,5.0,111-46-6,False,WEIGHT,NONE
-24d1bb02-024b-5b79-a9f9-185012f4f01b,a957ac53-efcc-4022-bca6-545860ae1eca,water,False,5.0,7732-18-5,False,WEIGHT,NONE
-330021ac-505e-51cb-a890-e34ff8591419,a957ac53-efcc-4022-bca6-545860ae1eca,potassium 2-ethylhexanoate,False,5.0,3164-85-0,False,WEIGHT,NONE
-ab88b823-54f1-5175-9a3f-d245b1c226c3,a957ac53-efcc-4022-bca6-545860ae1eca,sodium 2-ethylhexanoate,False,5.0,19766-89-3,False,WEIGHT,NONE
-20d9a7fb-7dbb-5867-be2f-2ab605603c5e,a957ac53-efcc-4022-bca6-545860ae1eca,denatonium benzoate,False,0.005,3734-33-6,False,WEIGHT,NONE
-e4427dfd-2ee6-5b03-b291-1b7ceba94e20,e409bd30-c053-4467-a187-bf87341e47db,Ethylene Glycol,False,60.0,107-21-1,False,WEIGHT,NONE
-955e913e-f94a-51fc-893d-5e3412b59be6,e409bd30-c053-4467-a187-bf87341e47db,Water,False,60.0,7732-18-5,False,WEIGHT,NONE
-b3630477-6b74-5af9-a987-ea678d58ae09,e409bd30-c053-4467-a187-bf87341e47db,Diethylene Glycol,False,5.0,111-46-6,False,WEIGHT,NONE
-232f2037-59df-5992-bf51-c99fd2d0a19b,e409bd30-c053-4467-a187-bf87341e47db,"2-Ethyl Hexanoic Acid, Sodium Salt",False,5.0,19766-89-3,False,WEIGHT,NONE
-4855ee28-4b21-54b6-a634-c2699289e07b,37cede10-7c66-4920-adfe-599d26d49a43,ETHYLENE GLYCOL,False,92.6533,107-21-1,False,WEIGHT,NONE
-ca488b54-cacc-520b-9498-d8002709b56d,37cede10-7c66-4920-adfe-599d26d49a43,DIETHYLENE GLYCOL,False,4.6356,111-46-6,False,WEIGHT,NONE
-60d1376c-2e8d-5e0c-b051-7197b8f1a07e,37cede10-7c66-4920-adfe-599d26d49a43,SODIUM HYDROXIDE,False,1.4207,1310-73-2,False,WEIGHT,NONE
-7d8828c9-b2f6-541d-be1d-a824e78264a9,6172a031-7411-4c46-b390-96a40512cf1d,Diethylene glycol monobutyl ether,False,10.0,112-34-5,False,WEIGHT,NONE
-3b87cbec-aca7-52cd-87be-21ef552ca41f,6172a031-7411-4c46-b390-96a40512cf1d,"n- Alkyl (60% C14, 30% C16, 5% C12, 5% C18) dimethyl benzyl ammonium chlorides",False,0.1,68391-01-5,False,WEIGHT,NONE
-aa40ac5c-b3b7-5c61-adc1-6431172df900,6172a031-7411-4c46-b390-96a40512cf1d,"n- Alkyl (68% C12, 32% C14) dimethyl ethylbenzyl ammonium chlorides",False,0.1,85409-23-0,False,WEIGHT,NONE
-f8bbdaef-0b5e-54b7-b326-875e6f9d6a9b,6172a031-7411-4c46-b390-96a40512cf1d,Tetrasodium ethylenediamine tetraacetate,False,7.0,64-02-8,False,WEIGHT,NONE
-565270d6-615f-5a2d-9687-44d0097ea35b,c857cf87-bc3c-49cf-88b5-7860e1c583f3,ETHYLENE GLYCOL,False,100.0,107-21-1,False,WEIGHT,NONE
-a1d29ada-8d9b-55ea-b436-263bd2b0e540,c857cf87-bc3c-49cf-88b5-7860e1c583f3,DIPOTASSIUM PHOSPHATE,False,1.0,7758-11-4,False,WEIGHT,NONE
-5c444f5b-b24e-53cd-8afd-515eae84ea34,c857cf87-bc3c-49cf-88b5-7860e1c583f3,SODIUM BORATE DECAHYDRATE,False,0.5,1303-96-4,False,WEIGHT,NONE
-386b7795-e7c0-582e-b7d8-4c8dff1c1459,c857cf87-bc3c-49cf-88b5-7860e1c583f3,SODIUM NITRATE,False,0.5,7631-99-4,False,WEIGHT,NONE
-9ae87824-e751-5652-bc9b-4230ba33c104,55c106ae-f792-4493-91c2-379c53eb55a4,Ethylene Glycol,False,10.0,107-21-1,False,WEIGHT,NONE
-a5197b52-9a07-5829-b391-1a217a8bbab4,3292850f-52fe-4d4f-b526-288a235d67f2,Lubricating Oil,False,95.0,,True,WEIGHT,NONE
-51a8ca9d-8cd4-517a-8bd7-8005a8e9fda2,b4cfd615-3ecd-493b-a5de-2ab891fcda15,Highly refined mineral oil (C15 - C50),False,99.0,Mixture,True,WEIGHT,NONE
-14634c2e-b362-59c8-a385-582286d69a9c,a32ba0ac-e410-486e-83f3-1f347ff0f2c7,Water,False,69.0,7732-18-5,False,WEIGHT,NONE
-f84d3a43-fbb1-5d56-8628-2729490b7d65,a32ba0ac-e410-486e-83f3-1f347ff0f2c7,Urea,False,33.5,57-13-6,False,WEIGHT,NONE
-664961fe-8c73-5e85-833f-131f8251cfa4,9a61e5f1-9c99-469d-8ae3-2b0eea698f02,Isopropyl Alcohol,False,60.0,67-63-0,False,WEIGHT,NONE
-476b3bd8-41c3-5915-a5a2-3ae115f6b22a,9a61e5f1-9c99-469d-8ae3-2b0eea698f02,Isobutyl Alcohol,False,40.0,78-83-1,False,WEIGHT,NONE
-47832891-3a82-507a-bdc8-c41aae139832,9a61e5f1-9c99-469d-8ae3-2b0eea698f02,Graphite,False,10.0,7782-42-5,False,WEIGHT,NONE
-d6d6f8b3-90f1-5b66-9142-a4e16e85934e,9a61e5f1-9c99-469d-8ae3-2b0eea698f02,Propylene Glycol Methyl Ether,False,10.0,107-98-2,False,WEIGHT,NONE
-1671bcec-cb09-5ab1-9532-f7d3d90f5788,9a61e5f1-9c99-469d-8ae3-2b0eea698f02,N-Butyl Alcohol,False,10.0,71-36-3,False,WEIGHT,NONE
-a4350381-1504-53c9-a825-5259e155263c,32b68dc9-0ee2-4446-80e1-d47fc12cfd8c,"Distillates (Petroleum), Hydrotreated Light Naphthenic",False,100.0,64742-53-6,False,WEIGHT,NONE
-94c6435f-1e64-5487-a0b0-f3e16049bdfc,32b68dc9-0ee2-4446-80e1-d47fc12cfd8c,Mineral Oil,False,3.0,64742-58-1,False,WEIGHT,NONE
-52cc93d6-c27b-5a6f-a0f7-95b9e4eece80,32b68dc9-0ee2-4446-80e1-d47fc12cfd8c,Hydrotreated Heavy Paraffinic Oil,False,3.0,64742-54-7,False,WEIGHT,NONE
-51f1fae6-18a4-5af6-b7a8-ed0f392d8bc1,32b68dc9-0ee2-4446-80e1-d47fc12cfd8c,Aliphatic Petroleum Distillates,False,3.0,64742-65-0,False,WEIGHT,NONE
-18b37a07-b077-5ad1-8768-5c923f8f5651,eb6eb9d1-675d-4333-b525-468ae824ded8,Light Aliphatic Solvent Naphtha,False,45.0,64742-89-8,False,WEIGHT,NONE
-2413f2b9-9542-525c-a877-4e3b695d3589,eb6eb9d1-675d-4333-b525-468ae824ded8,Xylene,False,35.0,1330-20-7,False,WEIGHT,NONE
-ec55fa57-0e44-5f2c-b36b-8892309ef474,eb6eb9d1-675d-4333-b525-468ae824ded8,2-Butoxyethanol,False,15.0,111-76-2,False,WEIGHT,NONE
-92f95965-fab1-5c45-a26a-e1363935b4f2,eb6eb9d1-675d-4333-b525-468ae824ded8,Ethylbenzene,False,15.0,100-41-4,False,WEIGHT,NONE
-bb94b6a5-68bd-54ba-8001-fe82438edf11,eb6eb9d1-675d-4333-b525-468ae824ded8,Monoalkylaryl alkoxylate aminated,False,10.0,,True,WEIGHT,NONE
-e1175127-5518-5a9e-ac10-a7ef9781619c,eb6eb9d1-675d-4333-b525-468ae824ded8,Light Aromatic Solvent Naphtha,False,10.0,64742-95-6,False,WEIGHT,NONE
-1b8e6663-9c55-5a6c-b9a9-fd17015dbd02,eb6eb9d1-675d-4333-b525-468ae824ded8,Ethyl Acetate,False,10.0,141-78-6,False,WEIGHT,NONE
-7afd211d-baba-50c5-81f7-4b5033f8c34b,eb6eb9d1-675d-4333-b525-468ae824ded8,"1,2,4-Trimethylbenzene",False,5.0,95-63-6,False,WEIGHT,NONE
-c943850c-0f30-5b99-8f0d-1215b4ef664e,eb6eb9d1-675d-4333-b525-468ae824ded8,Nitrogen,False,2.0,7727-37-9,False,WEIGHT,NONE
-a371e3e4-0662-570a-b90d-c955a2008520,eb6eb9d1-675d-4333-b525-468ae824ded8,N-Propylbenzene,False,1.0,103-65-1,False,WEIGHT,NONE
-cd61c280-8920-593e-a3e5-3daf8216efce,eb6eb9d1-675d-4333-b525-468ae824ded8,Cumene,False,1.0,98-82-8,False,WEIGHT,NONE
-9b3cc861-052e-526d-af9b-2579abcdc0bb,eb6eb9d1-675d-4333-b525-468ae824ded8,"1,2,3-Trimethylbenzene",False,1.0,526-73-8,False,WEIGHT,NONE
-2468ec17-fb13-580e-9a1c-5816462d9975,76031dc1-5d5e-425b-b17d-903fb52884c7,Hydrotreated Light Petroleum Distillates,False,45.0,64742-47-8,False,WEIGHT,NONE
-a85b487f-e4e6-5bce-b502-800dbceacc99,76031dc1-5d5e-425b-b17d-903fb52884c7,2-Butoxyethanol,False,45.0,111-76-2,False,WEIGHT,NONE
-ef610cf8-f9c9-5ad7-9563-734fb1809bde,76031dc1-5d5e-425b-b17d-903fb52884c7,"Benzene, C10-16-Alkyl Derivatives",False,5.0,68648-87-3,False,WEIGHT,NONE
-7409b6e2-7f14-5a48-b8aa-ec30835c4fbd,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Triethylene Glycol Monomethyl Ether Borate ester,False,40.0,30989-05-0,False,WEIGHT,NONE
-74adda40-40bd-5ba2-9bc1-c056f14181e4,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Triethylene Glycol Monomethyl Ether,False,40.0,112-35-6,False,WEIGHT,NONE
-fc458e0f-ef8c-5d85-a314-977c68d128b9,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Triethylene Glycol Monobutyl Ether,False,40.0,143-22-6,False,WEIGHT,NONE
-6d534cfc-30df-5a95-9032-eac98e1c3a31,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Triethylene Glycol,False,20.0,112-27-6,False,WEIGHT,NONE
-0dbad555-29a4-5d07-89e0-f7d5fa5487ea,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Polyethylene Glycol Monomethyl Ether,False,28.0,9004-74-4,False,WEIGHT,NONE
-33d2e606-23e8-5e80-8bd6-dddcb80ef31d,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Tetraethylene Glycol,False,10.0,112-60-7,False,WEIGHT,NONE
-8083f9b9-e65f-5a86-85c1-1e4b5c0189b0,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Diethylene Glycol,False,10.0,111-46-6,False,WEIGHT,NONE
-cf1bed35-e42f-5467-9e29-cd7713f2de91,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Polyethylene Glycol Monobutyl Ether,False,5.0,9004-77-7,False,WEIGHT,NONE
-248247c0-ca0f-51f9-9c19-87226c282668,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Diisopropanolamine,False,5.0,110-97-4,False,WEIGHT,NONE
-bbfa44b6-0fec-5b0f-906b-0d55c7192f0c,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Diethylene Glycol Monobutyl Ether,False,3.0,112-34-5,False,WEIGHT,NONE
-cccde551-c383-565b-bd4e-eb669c951852,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Tetraethylene Glycol Monobutyl Ether,False,3.0,1559-34-8,False,WEIGHT,NONE
-3d8f499c-5750-5937-bc1d-590621e69830,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Diethylene Glycol Monomethyl Ether,False,1.0,111-77-3,False,WEIGHT,NONE
-9b2c2273-abe0-5b42-a054-063463b68706,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,"2,6-Di-tert-butyl-p-cresol",False,1.0,128-37-0,False,WEIGHT,NONE
+f0354477-aa8b-5f95-82d5-c5e5d631023d,90746c49-81fb-496a-bba3-1395a5304cd6,Hydrotreated Light Petroleum Distillates,FALSE,70.0,64742-47-8,FALSE,WEIGHT,NONE
+da3f1651-3b4a-511c-a0ca-fb5cd0cf7da7,90746c49-81fb-496a-bba3-1395a5304cd6,2-Ethylhexyl Nitrate,FALSE,35.0,27247-96-7,FALSE,WEIGHT,NONE
+58903251-893b-587a-b928-16810967b331,90746c49-81fb-496a-bba3-1395a5304cd6,Light Aromatic Solvent Naphtha,FALSE,10.0,64742-95-6,FALSE,WEIGHT,NONE
+b23d6d9c-3202-549a-b0bc-98e80564f55a,90746c49-81fb-496a-bba3-1395a5304cd6,Heavy Aromatic Solvent Naphtha,FALSE,5.0,64742-94-5,FALSE,WEIGHT,NONE
+5d4be14f-de1e-53df-9eb6-575538b8f92d,90746c49-81fb-496a-bba3-1395a5304cd6,"1,2,4-Trimethylbenzene",FALSE,5.0,95-63-6,FALSE,WEIGHT,NONE
+e99abf56-3626-50ac-800e-a6b0492bf63b,90746c49-81fb-496a-bba3-1395a5304cd6,N-Propylbenzene,FALSE,1.0,103-65-1,FALSE,WEIGHT,NONE
+8d327c43-363c-57a1-80a5-2472d14de351,90746c49-81fb-496a-bba3-1395a5304cd6,"1,3,5-Trimethylbenzene",FALSE,1.0,108-67-8,FALSE,WEIGHT,NONE
+cace280a-3161-50f7-8685-571366280e15,90746c49-81fb-496a-bba3-1395a5304cd6,Naphthalene,FALSE,1.0,91-20-3,FALSE,WEIGHT,NONE
+8e601f5b-173d-5127-86fa-b12a7f4f8fbf,90746c49-81fb-496a-bba3-1395a5304cd6,Ethylbenzene,FALSE,1.0,100-41-4,FALSE,WEIGHT,NONE
+38b0f683-9d53-514e-9991-e382cda429c2,90746c49-81fb-496a-bba3-1395a5304cd6,Cumene,FALSE,1.0,98-82-8,FALSE,WEIGHT,NONE
+0792b326-ecc0-5a89-ad26-9e3875517a91,90746c49-81fb-496a-bba3-1395a5304cd6,"1,2,3-Trimethylbenzene",FALSE,0.3,526-73-8,FALSE,WEIGHT,NONE
+53ed85f8-cdb5-568c-8be9-70e9633aba6e,05c53001-bdf8-4118-8560-f12e3c7bab8f,Sodium Sesquicarbonate,FALSE,5.0,533-96-0,FALSE,WEIGHT,NONE
+fa139548-0810-56f2-8cd7-bf0b96cfa82e,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Triethylene Glycol Monobutyl Ether,FALSE,35.0,143-22-6,FALSE,WEIGHT,NONE
+a04b8fd2-9972-58af-ad05-6fe11af8d7a5,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Triethylene Glycol Monoethyl Ether,FALSE,20.0,112-50-5,FALSE,WEIGHT,NONE
+57a45bbe-bdf9-55bb-8ef0-377d8ad28087,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Diethylene glycol,FALSE,20.0,111-46-6,FALSE,WEIGHT,NONE
+918a87fa-9b45-58c3-b57c-c4f1c429dc42,2b0eae8e-4896-43e6-a1b6-8586ae944d22,"3,6,9,12-Tetraoxahexadecan-1-ol",FALSE,14.0,1559-34-8,FALSE,WEIGHT,NONE
+f653decf-bb47-528a-8074-c0bd82663236,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Triethylene Glycol Monomethyl Ether,FALSE,10.0,112-35-6,FALSE,WEIGHT,NONE
+cbea4651-3951-58a4-9383-a49c8f318e3b,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Tetraethylene Glycol,FALSE,10.0,112-60-7,FALSE,WEIGHT,NONE
+bbdbb446-ac94-538a-b0b8-fa68dc8e9311,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Diethylene Glycol Monobutyl Ether,FALSE,8.0,112-34-5,FALSE,WEIGHT,NONE
+54018e25-f54a-54b3-94c8-ca08c8f31e76,2b0eae8e-4896-43e6-a1b6-8586ae944d22,"3,6,9,12,15,18-Hexaoxaeicosane",FALSE,5.0,23601-39-0,FALSE,WEIGHT,NONE
+31132886-e797-5067-b0da-fd104acbaf13,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Polyethylene Glycol Monomethyl Ether,FALSE,4.0,9004-74-4,FALSE,WEIGHT,NONE
+b47e0803-ebf2-546b-bb3e-169ca714918d,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Diethylene Glycol Monoethyl Ether,FALSE,2.0,111-90-0,FALSE,WEIGHT,NONE
+4c22f8c7-05ee-59bb-9092-93ce44140469,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Diethylene Glycol Monomethyl Ether,FALSE,1.0,111-77-3,FALSE,WEIGHT,NONE
+ee9fb7ac-1412-514b-9c42-1b7ce1f12713,65c5071c-41a4-4699-8ebb-4808c575e657,Triethylene Glycol Monomethyl Ether Borate ester,FALSE,40.0,30989-05-0,FALSE,WEIGHT,NONE
+94bf9889-9b82-5b17-b76c-537ba33c94a3,65c5071c-41a4-4699-8ebb-4808c575e657,Triethylene Glycol Monomethyl Ether,FALSE,40.0,112-35-6,FALSE,WEIGHT,NONE
+95342850-3fc5-56ec-8e4a-3399f7fb351a,65c5071c-41a4-4699-8ebb-4808c575e657,Triethylene Glycol Monobutyl Ether,FALSE,40.0,143-22-6,FALSE,WEIGHT,NONE
+30e69b21-db73-503a-b666-ca1b828c8131,65c5071c-41a4-4699-8ebb-4808c575e657,Triethylene Glycol,FALSE,20.0,112-27-6,FALSE,WEIGHT,NONE
+f94735b1-c222-516f-81fd-cc5c3c544f83,65c5071c-41a4-4699-8ebb-4808c575e657,Polyethylene Glycol Monomethyl Ether,FALSE,28.0,9004-74-4,FALSE,WEIGHT,NONE
+c1cecce3-e4be-5638-a234-1a7f94ecf879,65c5071c-41a4-4699-8ebb-4808c575e657,Tetraethylene Glycol,FALSE,10.0,112-60-7,FALSE,WEIGHT,NONE
+c89485b4-acf3-585a-bb31-47d74ac3d753,65c5071c-41a4-4699-8ebb-4808c575e657,Diethylene Glycol,FALSE,10.0,111-46-6,FALSE,WEIGHT,NONE
+33634896-137d-596d-be7d-b35eb99e71dc,65c5071c-41a4-4699-8ebb-4808c575e657,Polyethylene Glycol Monobutyl Ether,FALSE,5.0,9004-77-7,FALSE,WEIGHT,NONE
+7f8c61b2-05a3-515d-89a3-b5bbcadf73e6,65c5071c-41a4-4699-8ebb-4808c575e657,Diisopropanolamine,FALSE,5.0,110-97-4,FALSE,WEIGHT,NONE
+1b8eee65-f627-5daf-b7e0-80f216940333,65c5071c-41a4-4699-8ebb-4808c575e657,Diethylene Glycol Monobutyl Ether,FALSE,3.0,112-34-5,FALSE,WEIGHT,NONE
+e203ec68-b57d-576d-bd2c-b19c21525d68,65c5071c-41a4-4699-8ebb-4808c575e657,Tetraethylene Glycol Monobutyl Ether,FALSE,3.0,1559-34-8,FALSE,WEIGHT,NONE
+7f6cb640-9e55-5a88-a14a-c1263fd472cd,65c5071c-41a4-4699-8ebb-4808c575e657,Diethylene Glycol Monomethyl Ether,FALSE,1.0,111-77-3,FALSE,WEIGHT,NONE
+4cdfb00a-adb7-52cf-92e3-23a8c961a5c9,65c5071c-41a4-4699-8ebb-4808c575e657,"2,6-Di-tert-butyl-p-cresol",FALSE,1.0,128-37-0,FALSE,WEIGHT,NONE
+7504919b-13e7-59cd-8645-251c00276c76,c93efc1f-91f2-417c-bce7-38a8c370e381,Mineral Oil,FALSE,100.0,64742-58-1,FALSE,WEIGHT,NONE
+329091df-bc93-53d1-816f-1d6c7eeeae71,c93efc1f-91f2-417c-bce7-38a8c370e381,Hydrotreated Heavy Paraffinic Oil,FALSE,100.0,64742-54-7,FALSE,WEIGHT,NONE
+75230b83-63d0-5c57-9a38-b3ee2790bf9e,c93efc1f-91f2-417c-bce7-38a8c370e381,Aliphatic Petroleum Distillates,FALSE,100.0,64742-65-0,FALSE,WEIGHT,NONE
+1e2c94a9-5ab4-5b20-ae69-6833f887bb9a,e6bf7c67-ed87-479a-af8c-4ac9e3571d9c,Mineral Oil,FALSE,90.0,64742-58-1,FALSE,WEIGHT,NONE
+46653390-5793-5a3c-b527-7dd76c78a6af,e6bf7c67-ed87-479a-af8c-4ac9e3571d9c,Hydrotreated Heavy Paraffinic Oil,FALSE,90.0,64742-54-7,FALSE,WEIGHT,NONE
+368c67ca-7a79-5eea-9bf2-e491ad56b8ab,e6bf7c67-ed87-479a-af8c-4ac9e3571d9c,Aliphatic Petroleum Distillates,FALSE,90.0,64742-65-0,FALSE,WEIGHT,NONE
+1e2c94a9-5ab4-5b20-ae69-6833f887bb9a,e6bf7c67-ed87-479a-af8c-4ac9e3571d9c,Mineral Oil,FALSE,10.0,MIXTURE,FALSE,WEIGHT,NONE
+44b4c5bd-7b97-5679-9e90-d8c6f2483204,fb8dc852-19c0-4918-b02f-0b89eacc26a2,"Petroleum distillates, solvent dewaxed heavy paraffinic",FALSE,60.0,64742-65-0,FALSE,WEIGHT,NONE
+be172970-9d5a-5cf4-81b1-6ecb4faeeff6,fb8dc852-19c0-4918-b02f-0b89eacc26a2,Mineral Oil,FALSE,60.0,64742-58-1,FALSE,WEIGHT,NONE
+79297d85-949c-5ec0-8849-b90b6b017974,fb8dc852-19c0-4918-b02f-0b89eacc26a2,"Alkanes, C14-C16, Chloro",FALSE,25.0,1372804-76-6,FALSE,WEIGHT,NONE
+1e60ec2b-fe13-5a60-9d57-27c3d14289fd,fb8dc852-19c0-4918-b02f-0b89eacc26a2,"Alkanes, C14, Chloro",FALSE,25.0,198840-65-2,FALSE,WEIGHT,NONE
+aa6f366b-af17-511d-bb16-9c4f81df5c64,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,Xylene,FALSE,45.0,1330-20-7,FALSE,WEIGHT,NONE
+7c0ae39a-2d48-536f-82ec-bdebf6e1d53b,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,Light Aliphatic Solvent Naphtha,FALSE,30.0,64742-89-8,FALSE,WEIGHT,NONE
+c4d16481-56eb-5f2f-a271-49133b078587,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,N-Methyl-2-Pyrrolidone,FALSE,15.0,872-50-4,FALSE,WEIGHT,NONE
+b1c7e8af-69cc-5e5c-b7fb-25b089959028,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,2-Butoxyethanol,FALSE,15.0,111-76-2,FALSE,WEIGHT,NONE
+01f8a200-4577-5e0e-898f-c51ab7a8f1ca,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,Ethylbenzene,FALSE,10.0,100-41-4,FALSE,WEIGHT,NONE
+1d0930fc-70ae-5cf5-b106-5d153c9b7469,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,"Petroleum distillates, hydrotreated light",FALSE,6.0,64742-47-8,FALSE,WEIGHT,NONE
+2c3ab6b0-7184-5781-8021-43843b6df4f1,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,Light Aromatic Solvent Naphtha,FALSE,5.0,64742-95-6,FALSE,WEIGHT,NONE
+59599993-a812-5b6d-bcbf-d6fdb0918381,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,9-Octadecenoic Acid,FALSE,5.0,112-80-1,FALSE,WEIGHT,NONE
+0794c352-2c0c-59b9-a189-756cf3093530,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,Polyolefin Alkyl Phenol Alkyl Amine,FALSE,3.0,,TRUE,WEIGHT,NONE
+4c5442f3-e7ea-5928-adeb-1a801c17cb11,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,Propoxylated alcohol,FALSE,2.0,,TRUE,WEIGHT,NONE
+3a8deaf1-583d-5e93-867b-b52bc2d7b02a,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,"1-Propene,2-methyl-, homopolymer, hydroformylation products, reaction products with ammonia",FALSE,3.0,337367-30-3,FALSE,WEIGHT,NONE
+1bd06964-ac2e-512e-9bd1-5ebdac5a1f6c,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,"1,2,4-Trimethylbenzene",FALSE,1.0,95-63-6,FALSE,WEIGHT,NONE
+ce1e7b79-6ad6-5e64-9289-889c93a14847,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,"1,3,5-Trimethylbenzene",FALSE,0.9,108-67-8,FALSE,WEIGHT,NONE
+7d08de9a-3c9f-54da-bacf-f7aeaf0c5360,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,N-Propylbenzene,FALSE,0.5,103-65-1,FALSE,WEIGHT,NONE
+48022fef-f5c6-599d-9020-4ef42e072079,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,Cumene,FALSE,1.0,98-82-8,FALSE,WEIGHT,NONE
+d84cf38e-4445-57c9-8029-590216d92ce5,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,"1,2,3-Trimethylbenzene",FALSE,0.5,526-73-8,FALSE,WEIGHT,NONE
+2f6101b3-b114-5a37-9392-e977da42f339,496cc246-c49c-481a-9a2b-4c54bd92dac8,Hydrotreated Light Petroleum Distillates,FALSE,100.0,64742-47-8,FALSE,WEIGHT,NONE
+e7d91ca1-30e5-5ef3-9755-5859f8cd14c4,496cc246-c49c-481a-9a2b-4c54bd92dac8,Light Aromatic Solvent Naphtha,FALSE,10.0,64742-95-6,FALSE,WEIGHT,NONE
+ed166a4f-27af-579a-aede-cf374e5e1dd9,496cc246-c49c-481a-9a2b-4c54bd92dac8,Polyolefin Alkyl Phenol Alkyl Amine,FALSE,5.0,,TRUE,WEIGHT,NONE
+15935e09-d7d3-5433-9568-a06e0a9a4075,496cc246-c49c-481a-9a2b-4c54bd92dac8,"1,2,4-Trimethylbenzene",FALSE,0.9,95-63-6,FALSE,WEIGHT,NONE
+e6e287f3-0ed5-55c5-8b1b-a4544b19160f,496cc246-c49c-481a-9a2b-4c54bd92dac8,Cumene,FALSE,0.3,98-82-8,FALSE,WEIGHT,NONE
+ae5a727e-e2b1-5289-b458-1ceb756db4b1,c19339ee-b534-4e15-8eb0-a66807ecd708,"Lubricating oils (petroleum), C20-50, hydrotreated neutral oil-based",FALSE,30.0,72623-87-1,FALSE,WEIGHT,NONE
+c93f66e2-2435-562c-a3cd-f003276b8da2,c19339ee-b534-4e15-8eb0-a66807ecd708,"Lubricating oils (petroleum), C15-30, hydrotreated neutral oil-based",FALSE,3.0,72623-86-0,FALSE,WEIGHT,NONE
+2771214c-adfa-5771-85b9-68ae469dce3a,c19339ee-b534-4e15-8eb0-a66807ecd708,"Distillates (petroleum), hydrotreated heavy paraffinic",FALSE,3.0,64742-54-7,FALSE,WEIGHT,NONE
+f7cc0cd7-b8ac-50a0-bc92-a48e58666309,c19339ee-b534-4e15-8eb0-a66807ecd708,bis(nonylphenyl)amine,FALSE,2.5,36878-20-3,FALSE,WEIGHT,NONE
+a5d176d7-d2b4-5261-a08b-4e28619545bb,c19339ee-b534-4e15-8eb0-a66807ecd708,C14-16-18 Alkyl phenol,FALSE,1.0,,TRUE,WEIGHT,NONE
+60d9b17c-e84e-5bcc-b907-1038e55fe389,ee8fda04-686c-4690-b8be-476926955992,"Lubricating oils (petroleum), C20-50, hydrotreated neutral oil-based",FALSE,30.0,72623-87-1,FALSE,WEIGHT,NONE
+7f5bf02f-dd97-5aa3-8588-8988b0b2ec19,ee8fda04-686c-4690-b8be-476926955992,"Lubricating oils (petroleum), C15-30, hydrotreated neutral oil-based",FALSE,3.0,72623-86-0,FALSE,WEIGHT,NONE
+abb9dab0-082f-549d-aa82-8892e3649b44,ee8fda04-686c-4690-b8be-476926955992,"Distillates (petroleum), hydrotreated heavy paraffinic",FALSE,3.0,64742-54-7,FALSE,WEIGHT,NONE
+853b5274-1eb8-57f1-8892-4a91541e925b,ee8fda04-686c-4690-b8be-476926955992,bis(nonylphenyl)amine,FALSE,2.5,36878-20-3,FALSE,WEIGHT,NONE
+a5b9cfba-7c67-5e41-9b6d-0dd9ebc7d020,ee8fda04-686c-4690-b8be-476926955992,C14-16-18 Alkyl phenol,FALSE,1.0,,TRUE,WEIGHT,NONE
+1f055825-3603-5d0b-85b4-0ece54144f32,4fe7a4b9-f97c-4237-8a6f-dae083e59ba5,"1-DECENE, HOMOPOLYMER HYDROGENATED",FALSE,10.0,68037-01-4,FALSE,WEIGHT,NONE
+cf680443-e9dd-54dd-b391-ef56537df6ea,4fe7a4b9-f97c-4237-8a6f-dae083e59ba5,"2-PENTANOL, 4-METHYL-, HYDROGEN PHOSPHORODITHIOATE, ZINC SALT",FALSE,1.0,2215-35-2,FALSE,WEIGHT,NONE
+de24b0bd-b8e5-50d8-afcd-33a34687777e,4fe7a4b9-f97c-4237-8a6f-dae083e59ba5,"DISTILLATES, HEAVY, C18-50 - BRANCHED, CYCLIC AND LINEAR",FALSE,20.0,848301-69-9,FALSE,WEIGHT,NONE
+da07f65d-fac6-5a14-812b-0ec1de60bda0,4fe7a4b9-f97c-4237-8a6f-dae083e59ba5,"PHOSPHORODITHIOIC ACID, MIXED 0,0 BIS (1,3-DIMETHYLBUTYL AND ISO-PR)ESTERS, ZINC SALTS",FALSE,1.0,84605-29-8,FALSE,WEIGHT,NONE
+7822ff9d-1a7d-586a-a5df-a3adccfeecc7,0ab3ff21-0243-41c2-864a-8460f4d0d42c,"Distillates (petroleum), hydrotreated heavy paraffinic",FALSE,50.0,64742-54-7,FALSE,WEIGHT,NONE
+ad295d37-6cc0-5265-936e-9557b3f7d1c1,0ab3ff21-0243-41c2-864a-8460f4d0d42c,Base oil - unspecified,FALSE,25.0,Varies,TRUE,WEIGHT,NONE
+ae21398e-d695-5ca2-a64f-0543b91cd81d,12281d10-3f1f-4242-ac41-6abd3f9412ce,2-[2-(2-butoxyethoxy)ethoxy]ethanol,FALSE,60.0,143-22-6,FALSE,WEIGHT,NONE
+cab68793-984e-575c-a330-7e6cbe93caac,12281d10-3f1f-4242-ac41-6abd3f9412ce,"2,2' -oxybisethanol",FALSE,30.0,111-46-6,FALSE,WEIGHT,NONE
+7ed6ed1b-b9f8-5518-b4b3-8fa76cc9813c,12281d10-3f1f-4242-ac41-6abd3f9412ce,2-(2-(2-methoxyethoxy)ethoxy)ethanol,FALSE,5.0,112-35-6,FALSE,WEIGHT,NONE
+db78868f-30ce-5e5d-b025-3d3064797fe1,d1d3a988-2f06-4320-a4c4-b044de4e6a4a,C9-C11 Isoalkanes,FALSE,100.0,68551-16-6,FALSE,WEIGHT,NONE
+6e682349-c77f-56dc-8464-e5d058961f87,d1d3a988-2f06-4320-a4c4-b044de4e6a4a,"2,6-Dimethyl-7-octen-2-ol",FALSE,10.0,18479-58-8,FALSE,WEIGHT,NONE
+44a004f5-c3b9-55fa-a9cc-1f54c90cb623,a6be0f7e-2e87-4176-9ed3-35c89339149c,Ethylene Glycol,TRUE,50.0,107-21-1,FALSE,WEIGHT,NONE
+a6e14237-240b-5483-8b2f-8f3f00b86b81,a6be0f7e-2e87-4176-9ed3-35c89339149c,Diethylene Glycol,FALSE,3.0,111-46-6,FALSE,WEIGHT,NONE
+48790fc0-b23b-5830-a96d-a2e51d753ad2,a6be0f7e-2e87-4176-9ed3-35c89339149c,"Hydrated inorganic acid, organic acid salts",FALSE,5.0,,TRUE,WEIGHT,NONE
+1605e7ff-018b-5b9b-abae-58ecb23aedb7,a6be0f7e-2e87-4176-9ed3-35c89339149c,Water,FALSE,53.0,7732-18-5,FALSE,WEIGHT,NONE
+e261dc18-ab70-5ee2-a20d-f2388f64e631,502dbc99-0c3f-409a-aa4e-25085a0bbdbc,"Naphtha (petroleum), hydrotreated light",FALSE,100.0,64742-49-0,FALSE,VOLUME,NONE
+ba0562d3-c134-5958-bb87-a3307506bae9,502dbc99-0c3f-409a-aa4e-25085a0bbdbc,Isopropanol,FALSE,5.0,67-63-0,FALSE,VOLUME,NONE
+011d7d23-d21a-52d8-8f07-54b41086be3c,502dbc99-0c3f-409a-aa4e-25085a0bbdbc,Carbon dioxide gas,FALSE,5.0,124-38-9,FALSE,VOLUME,NONE
+bc49e252-2077-587c-87b5-9a870bc2200f,a0251ba9-c551-41e2-826a-5d3070869682,"Lubricating oils (petroleum), C20-50, hydrotreated neutral oil-based",FALSE,30.0,72623-87-1,FALSE,WEIGHT,NONE
+c22db27a-bd9c-55ff-9ea9-1e04b9a792a0,a0251ba9-c551-41e2-826a-5d3070869682,"Lubricating oils (petroleum), C15-30, hydrotreated neutral oil-based",FALSE,3.0,72623-86-0,FALSE,WEIGHT,NONE
+16ab7e08-34be-58d8-85b6-9a565a0418d4,a0251ba9-c551-41e2-826a-5d3070869682,"Distillates (petroleum), hydrotreated heavy paraffinic",FALSE,3.0,64742-54-7,FALSE,WEIGHT,NONE
+31d8e50e-9c5d-50ce-be50-83ccd2e9404e,a0251ba9-c551-41e2-826a-5d3070869682,bis(nonylphenyl)amine,FALSE,2.5,36878-20-3,FALSE,WEIGHT,NONE
+299d6750-a965-569f-bc2b-66876395c708,a0251ba9-c551-41e2-826a-5d3070869682,C14-16-18 Alkyl phenol,FALSE,1.0,,TRUE,WEIGHT,NONE
+f46c87d1-5d13-5148-a480-f8dab5f3e6e3,1117c6b6-3807-4f20-a969-6e95b37b036e,C14-16-18 ALKYL PHENOL,FALSE,1.0,,TRUE,WEIGHT,NONE
+c1f405bd-becc-5d20-9b3b-5ea0b0b95896,1117c6b6-3807-4f20-a969-6e95b37b036e,CALCIUM HYDROXIDE,FALSE,1.0,1305-62-0,FALSE,WEIGHT,NONE
+9a1af122-3a72-567f-9597-cede257e2d27,1117c6b6-3807-4f20-a969-6e95b37b036e,CATALYTIC DEWAXED LIGHT PARAFFINIC OIL (PETROLEUM),FALSE,40.0,64742-71-8,FALSE,WEIGHT,NONE
+ee7233fc-988e-5ea3-8bed-541f412de2d5,1117c6b6-3807-4f20-a969-6e95b37b036e,POLYOLEFIN POLYAMINE SUCCINIMIDE,FALSE,5.0,147880-09-9,FALSE,WEIGHT,NONE
+d5143da4-3903-5e96-9591-ee21205dcc4a,1117c6b6-3807-4f20-a969-6e95b37b036e,"ZINC BIS(O,O-DIISOOCTYL) BIS(DITHIOPHOSPHATE)",FALSE,1.0,28629-66-5,FALSE,WEIGHT,NONE
+69b01b9e-9486-5077-9d84-fec68464f33e,9840dd49-835f-4a11-8f0c-2a4fc0eab495,Polypropylene,FALSE,100.0,,TRUE,WEIGHT,NONE
+e5d92df8-c691-552b-b0da-e9872bc0bfa6,56234527-3922-4eb0-b7f1-68efd35f7419,"Petroleum distillates, hydrotreated middle",FALSE,50.0,64742-46-7,FALSE,WEIGHT,NONE
+7f29d057-d5f7-50a6-a56d-53d83217aaff,56234527-3922-4eb0-b7f1-68efd35f7419,"Petroleum distillates, solvent-refined light paraffinic",FALSE,40.0,64741-89-5,FALSE,WEIGHT,NONE
+5855885c-cd67-5f39-8565-38b00cf9b957,56234527-3922-4eb0-b7f1-68efd35f7419,"Phosphorodithioic Acid, Mixed O,O-Bis(2-Ethylhexyl And Iso-Bu And Iso-Pr) Esters, Zinc Salts",FALSE,5.0,85940-28-9,FALSE,WEIGHT,NONE
+756a25fc-d358-5327-922a-ada9274f509a,47eb1d0e-1475-4a77-bba6-07496257f19c,Distillates (petroleum),FALSE,5.0,64742-55-8,FALSE,WEIGHT,NONE
+bb70c127-28ac-5019-861a-af68b36f43a7,47eb1d0e-1475-4a77-bba6-07496257f19c,Mineral Oil,FALSE,5.0,Not Assigned,TRUE,WEIGHT,NONE
+30b3b947-4a61-5191-8913-568d64ccff73,47eb1d0e-1475-4a77-bba6-07496257f19c,Substituted hydrocarbyl sulfide,FALSE,1.0,Not Assigned,TRUE,WEIGHT,NONE
+a4350381-1504-53c9-a825-5259e155263c,32b68dc9-0ee2-4446-80e1-d47fc12cfd8c,"Distillates (Petroleum), Hydrotreated Light Naphthenic",FALSE,100.0,64742-53-6,FALSE,WEIGHT,NONE
+94c6435f-1e64-5487-a0b0-f3e16049bdfc,32b68dc9-0ee2-4446-80e1-d47fc12cfd8c,Mineral Oil,FALSE,3.0,64742-58-1,FALSE,WEIGHT,NONE
+52cc93d6-c27b-5a6f-a0f7-95b9e4eece80,32b68dc9-0ee2-4446-80e1-d47fc12cfd8c,Hydrotreated Heavy Paraffinic Oil,FALSE,3.0,64742-54-7,FALSE,WEIGHT,NONE
+51f1fae6-18a4-5af6-b7a8-ed0f392d8bc1,32b68dc9-0ee2-4446-80e1-d47fc12cfd8c,Aliphatic Petroleum Distillates,FALSE,3.0,64742-65-0,FALSE,WEIGHT,NONE
+18b37a07-b077-5ad1-8768-5c923f8f5651,eb6eb9d1-675d-4333-b525-468ae824ded8,Light Aliphatic Solvent Naphtha,FALSE,45.0,64742-89-8,FALSE,WEIGHT,NONE
+2413f2b9-9542-525c-a877-4e3b695d3589,eb6eb9d1-675d-4333-b525-468ae824ded8,Xylene,FALSE,35.0,1330-20-7,FALSE,WEIGHT,NONE
+ec55fa57-0e44-5f2c-b36b-8892309ef474,eb6eb9d1-675d-4333-b525-468ae824ded8,2-Butoxyethanol,FALSE,15.0,111-76-2,FALSE,WEIGHT,NONE
+92f95965-fab1-5c45-a26a-e1363935b4f2,eb6eb9d1-675d-4333-b525-468ae824ded8,Ethylbenzene,FALSE,15.0,100-41-4,FALSE,WEIGHT,NONE
+bb94b6a5-68bd-54ba-8001-fe82438edf11,eb6eb9d1-675d-4333-b525-468ae824ded8,Monoalkylaryl alkoxylate aminated,FALSE,10.0,,TRUE,WEIGHT,NONE
+e1175127-5518-5a9e-ac10-a7ef9781619c,eb6eb9d1-675d-4333-b525-468ae824ded8,Light Aromatic Solvent Naphtha,FALSE,10.0,64742-95-6,FALSE,WEIGHT,NONE
+1b8e6663-9c55-5a6c-b9a9-fd17015dbd02,eb6eb9d1-675d-4333-b525-468ae824ded8,Ethyl Acetate,FALSE,10.0,141-78-6,FALSE,WEIGHT,NONE
+7afd211d-baba-50c5-81f7-4b5033f8c34b,eb6eb9d1-675d-4333-b525-468ae824ded8,"1,2,4-Trimethylbenzene",FALSE,5.0,95-63-6,FALSE,WEIGHT,NONE
+c943850c-0f30-5b99-8f0d-1215b4ef664e,eb6eb9d1-675d-4333-b525-468ae824ded8,Nitrogen,FALSE,2.0,7727-37-9,FALSE,WEIGHT,NONE
+a371e3e4-0662-570a-b90d-c955a2008520,eb6eb9d1-675d-4333-b525-468ae824ded8,N-Propylbenzene,FALSE,1.0,103-65-1,FALSE,WEIGHT,NONE
+cd61c280-8920-593e-a3e5-3daf8216efce,eb6eb9d1-675d-4333-b525-468ae824ded8,Cumene,FALSE,1.0,98-82-8,FALSE,WEIGHT,NONE
+9b3cc861-052e-526d-af9b-2579abcdc0bb,eb6eb9d1-675d-4333-b525-468ae824ded8,"1,2,3-Trimethylbenzene",FALSE,1.0,526-73-8,FALSE,WEIGHT,NONE
+2468ec17-fb13-580e-9a1c-5816462d9975,76031dc1-5d5e-425b-b17d-903fb52884c7,Hydrotreated Light Petroleum Distillates,FALSE,45.0,64742-47-8,FALSE,WEIGHT,NONE
+a85b487f-e4e6-5bce-b502-800dbceacc99,76031dc1-5d5e-425b-b17d-903fb52884c7,2-Butoxyethanol,FALSE,45.0,111-76-2,FALSE,WEIGHT,NONE
+ef610cf8-f9c9-5ad7-9563-734fb1809bde,76031dc1-5d5e-425b-b17d-903fb52884c7,"Benzene, C10-16-Alkyl Derivatives",FALSE,5.0,68648-87-3,FALSE,WEIGHT,NONE
+7409b6e2-7f14-5a48-b8aa-ec30835c4fbd,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Triethylene Glycol Monomethyl Ether Borate ester,FALSE,40.0,30989-05-0,FALSE,WEIGHT,NONE
+74adda40-40bd-5ba2-9bc1-c056f14181e4,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Triethylene Glycol Monomethyl Ether,FALSE,40.0,112-35-6,FALSE,WEIGHT,NONE
+fc458e0f-ef8c-5d85-a314-977c68d128b9,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Triethylene Glycol Monobutyl Ether,FALSE,40.0,143-22-6,FALSE,WEIGHT,NONE
+6d534cfc-30df-5a95-9032-eac98e1c3a31,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Triethylene Glycol,FALSE,20.0,112-27-6,FALSE,WEIGHT,NONE
+0dbad555-29a4-5d07-89e0-f7d5fa5487ea,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Polyethylene Glycol Monomethyl Ether,FALSE,28.0,9004-74-4,FALSE,WEIGHT,NONE
+33d2e606-23e8-5e80-8bd6-dddcb80ef31d,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Tetraethylene Glycol,FALSE,10.0,112-60-7,FALSE,WEIGHT,NONE
+8083f9b9-e65f-5a86-85c1-1e4b5c0189b0,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Diethylene Glycol,FALSE,10.0,111-46-6,FALSE,WEIGHT,NONE
+cf1bed35-e42f-5467-9e29-cd7713f2de91,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Polyethylene Glycol Monobutyl Ether,FALSE,5.0,9004-77-7,FALSE,WEIGHT,NONE
+248247c0-ca0f-51f9-9c19-87226c282668,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Diisopropanolamine,FALSE,5.0,110-97-4,FALSE,WEIGHT,NONE
+bbfa44b6-0fec-5b0f-906b-0d55c7192f0c,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Diethylene Glycol Monobutyl Ether,FALSE,3.0,112-34-5,FALSE,WEIGHT,NONE
+cccde551-c383-565b-bd4e-eb669c951852,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Tetraethylene Glycol Monobutyl Ether,FALSE,3.0,1559-34-8,FALSE,WEIGHT,NONE
+3d8f499c-5750-5937-bc1d-590621e69830,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Diethylene Glycol Monomethyl Ether,FALSE,1.0,111-77-3,FALSE,WEIGHT,NONE
+9b2c2273-abe0-5b42-a054-063463b68706,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,"2,6-Di-tert-butyl-p-cresol",FALSE,1.0,128-37-0,FALSE,WEIGHT,NONE
+f0354477-aa8b-5f95-82d5-c5e5d631023d,90746c49-81fb-496a-bba3-1395a5304cd6,Hydrotreated Light Petroleum Distillates,FALSE,70.0,64742-47-8,FALSE,WEIGHT,NONE
+da3f1651-3b4a-511c-a0ca-fb5cd0cf7da7,90746c49-81fb-496a-bba3-1395a5304cd6,2-Ethylhexyl Nitrate,FALSE,35.0,27247-96-7,FALSE,WEIGHT,NONE
+58903251-893b-587a-b928-16810967b331,90746c49-81fb-496a-bba3-1395a5304cd6,Light Aromatic Solvent Naphtha,FALSE,10.0,64742-95-6,FALSE,WEIGHT,NONE
+b23d6d9c-3202-549a-b0bc-98e80564f55a,90746c49-81fb-496a-bba3-1395a5304cd6,Heavy Aromatic Solvent Naphtha,FALSE,5.0,64742-94-5,FALSE,WEIGHT,NONE
+5d4be14f-de1e-53df-9eb6-575538b8f92d,90746c49-81fb-496a-bba3-1395a5304cd6,"1,2,4-Trimethylbenzene",FALSE,5.0,95-63-6,FALSE,WEIGHT,NONE
+e99abf56-3626-50ac-800e-a6b0492bf63b,90746c49-81fb-496a-bba3-1395a5304cd6,N-Propylbenzene,FALSE,1.0,103-65-1,FALSE,WEIGHT,NONE
+8d327c43-363c-57a1-80a5-2472d14de351,90746c49-81fb-496a-bba3-1395a5304cd6,"1,3,5-Trimethylbenzene",FALSE,1.0,108-67-8,FALSE,WEIGHT,NONE
+cace280a-3161-50f7-8685-571366280e15,90746c49-81fb-496a-bba3-1395a5304cd6,Naphthalene,FALSE,1.0,91-20-3,FALSE,WEIGHT,NONE
+8e601f5b-173d-5127-86fa-b12a7f4f8fbf,90746c49-81fb-496a-bba3-1395a5304cd6,Ethylbenzene,FALSE,1.0,100-41-4,FALSE,WEIGHT,NONE
+38b0f683-9d53-514e-9991-e382cda429c2,90746c49-81fb-496a-bba3-1395a5304cd6,Cumene,FALSE,1.0,98-82-8,FALSE,WEIGHT,NONE
+0792b326-ecc0-5a89-ad26-9e3875517a91,90746c49-81fb-496a-bba3-1395a5304cd6,"1,2,3-Trimethylbenzene",FALSE,0.3,526-73-8,FALSE,WEIGHT,NONE
+53ed85f8-cdb5-568c-8be9-70e9633aba6e,05c53001-bdf8-4118-8560-f12e3c7bab8f,Sodium Sesquicarbonate,FALSE,5.0,533-96-0,FALSE,WEIGHT,NONE
+fa139548-0810-56f2-8cd7-bf0b96cfa82e,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Triethylene Glycol Monobutyl Ether,FALSE,35.0,143-22-6,FALSE,WEIGHT,NONE
+a04b8fd2-9972-58af-ad05-6fe11af8d7a5,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Triethylene Glycol Monoethyl Ether,FALSE,20.0,112-50-5,FALSE,WEIGHT,NONE
+57a45bbe-bdf9-55bb-8ef0-377d8ad28087,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Diethylene glycol,FALSE,20.0,111-46-6,FALSE,WEIGHT,NONE
+918a87fa-9b45-58c3-b57c-c4f1c429dc42,2b0eae8e-4896-43e6-a1b6-8586ae944d22,"3,6,9,12-Tetraoxahexadecan-1-ol",FALSE,14.0,1559-34-8,FALSE,WEIGHT,NONE
+f653decf-bb47-528a-8074-c0bd82663236,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Triethylene Glycol Monomethyl Ether,FALSE,10.0,112-35-6,FALSE,WEIGHT,NONE
+cbea4651-3951-58a4-9383-a49c8f318e3b,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Tetraethylene Glycol,FALSE,10.0,112-60-7,FALSE,WEIGHT,NONE
+bbdbb446-ac94-538a-b0b8-fa68dc8e9311,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Diethylene Glycol Monobutyl Ether,FALSE,8.0,112-34-5,FALSE,WEIGHT,NONE
+54018e25-f54a-54b3-94c8-ca08c8f31e76,2b0eae8e-4896-43e6-a1b6-8586ae944d22,"3,6,9,12,15,18-Hexaoxaeicosane",FALSE,5.0,23601-39-0,FALSE,WEIGHT,NONE
+31132886-e797-5067-b0da-fd104acbaf13,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Polyethylene Glycol Monomethyl Ether,FALSE,4.0,9004-74-4,FALSE,WEIGHT,NONE
+b47e0803-ebf2-546b-bb3e-169ca714918d,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Diethylene Glycol Monoethyl Ether,FALSE,2.0,111-90-0,FALSE,WEIGHT,NONE
+4c22f8c7-05ee-59bb-9092-93ce44140469,2b0eae8e-4896-43e6-a1b6-8586ae944d22,Diethylene Glycol Monomethyl Ether,FALSE,1.0,111-77-3,FALSE,WEIGHT,NONE
+ee9fb7ac-1412-514b-9c42-1b7ce1f12713,65c5071c-41a4-4699-8ebb-4808c575e657,Triethylene Glycol Monomethyl Ether Borate ester,FALSE,40.0,30989-05-0,FALSE,WEIGHT,NONE
+94bf9889-9b82-5b17-b76c-537ba33c94a3,65c5071c-41a4-4699-8ebb-4808c575e657,Triethylene Glycol Monomethyl Ether,FALSE,40.0,112-35-6,FALSE,WEIGHT,NONE
+95342850-3fc5-56ec-8e4a-3399f7fb351a,65c5071c-41a4-4699-8ebb-4808c575e657,Triethylene Glycol Monobutyl Ether,FALSE,40.0,143-22-6,FALSE,WEIGHT,NONE
+30e69b21-db73-503a-b666-ca1b828c8131,65c5071c-41a4-4699-8ebb-4808c575e657,Triethylene Glycol,FALSE,20.0,112-27-6,FALSE,WEIGHT,NONE
+f94735b1-c222-516f-81fd-cc5c3c544f83,65c5071c-41a4-4699-8ebb-4808c575e657,Polyethylene Glycol Monomethyl Ether,FALSE,28.0,9004-74-4,FALSE,WEIGHT,NONE
+c1cecce3-e4be-5638-a234-1a7f94ecf879,65c5071c-41a4-4699-8ebb-4808c575e657,Tetraethylene Glycol,FALSE,10.0,112-60-7,FALSE,WEIGHT,NONE
+c89485b4-acf3-585a-bb31-47d74ac3d753,65c5071c-41a4-4699-8ebb-4808c575e657,Diethylene Glycol,FALSE,10.0,111-46-6,FALSE,WEIGHT,NONE
+33634896-137d-596d-be7d-b35eb99e71dc,65c5071c-41a4-4699-8ebb-4808c575e657,Polyethylene Glycol Monobutyl Ether,FALSE,5.0,9004-77-7,FALSE,WEIGHT,NONE
+7f8c61b2-05a3-515d-89a3-b5bbcadf73e6,65c5071c-41a4-4699-8ebb-4808c575e657,Diisopropanolamine,FALSE,5.0,110-97-4,FALSE,WEIGHT,NONE
+1b8eee65-f627-5daf-b7e0-80f216940333,65c5071c-41a4-4699-8ebb-4808c575e657,Diethylene Glycol Monobutyl Ether,FALSE,3.0,112-34-5,FALSE,WEIGHT,NONE
+e203ec68-b57d-576d-bd2c-b19c21525d68,65c5071c-41a4-4699-8ebb-4808c575e657,Tetraethylene Glycol Monobutyl Ether,FALSE,3.0,1559-34-8,FALSE,WEIGHT,NONE
+7f6cb640-9e55-5a88-a14a-c1263fd472cd,65c5071c-41a4-4699-8ebb-4808c575e657,Diethylene Glycol Monomethyl Ether,FALSE,1.0,111-77-3,FALSE,WEIGHT,NONE
+4cdfb00a-adb7-52cf-92e3-23a8c961a5c9,65c5071c-41a4-4699-8ebb-4808c575e657,"2,6-Di-tert-butyl-p-cresol",FALSE,1.0,128-37-0,FALSE,WEIGHT,NONE
+7504919b-13e7-59cd-8645-251c00276c76,c93efc1f-91f2-417c-bce7-38a8c370e381,Mineral Oil,FALSE,100.0,64742-58-1,FALSE,WEIGHT,NONE
+329091df-bc93-53d1-816f-1d6c7eeeae71,c93efc1f-91f2-417c-bce7-38a8c370e381,Hydrotreated Heavy Paraffinic Oil,FALSE,100.0,64742-54-7,FALSE,WEIGHT,NONE
+75230b83-63d0-5c57-9a38-b3ee2790bf9e,c93efc1f-91f2-417c-bce7-38a8c370e381,Aliphatic Petroleum Distillates,FALSE,100.0,64742-65-0,FALSE,WEIGHT,NONE
+1e2c94a9-5ab4-5b20-ae69-6833f887bb9a,e6bf7c67-ed87-479a-af8c-4ac9e3571d9c,Mineral Oil,FALSE,90.0,64742-58-1,FALSE,WEIGHT,NONE
+46653390-5793-5a3c-b527-7dd76c78a6af,e6bf7c67-ed87-479a-af8c-4ac9e3571d9c,Hydrotreated Heavy Paraffinic Oil,FALSE,90.0,64742-54-7,FALSE,WEIGHT,NONE
+368c67ca-7a79-5eea-9bf2-e491ad56b8ab,e6bf7c67-ed87-479a-af8c-4ac9e3571d9c,Aliphatic Petroleum Distillates,FALSE,90.0,64742-65-0,FALSE,WEIGHT,NONE
+1e2c94a9-5ab4-5b20-ae69-6833f887bb9a,e6bf7c67-ed87-479a-af8c-4ac9e3571d9c,Mineral Oil,FALSE,10.0,MIXTURE,FALSE,WEIGHT,NONE
+44b4c5bd-7b97-5679-9e90-d8c6f2483204,fb8dc852-19c0-4918-b02f-0b89eacc26a2,"Petroleum distillates, solvent dewaxed heavy paraffinic",FALSE,60.0,64742-65-0,FALSE,WEIGHT,NONE
+be172970-9d5a-5cf4-81b1-6ecb4faeeff6,fb8dc852-19c0-4918-b02f-0b89eacc26a2,Mineral Oil,FALSE,60.0,64742-58-1,FALSE,WEIGHT,NONE
+79297d85-949c-5ec0-8849-b90b6b017974,fb8dc852-19c0-4918-b02f-0b89eacc26a2,"Alkanes, C14-C16, Chloro",FALSE,25.0,1372804-76-6,FALSE,WEIGHT,NONE
+1e60ec2b-fe13-5a60-9d57-27c3d14289fd,fb8dc852-19c0-4918-b02f-0b89eacc26a2,"Alkanes, C14, Chloro",FALSE,25.0,198840-65-2,FALSE,WEIGHT,NONE
+aa6f366b-af17-511d-bb16-9c4f81df5c64,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,Xylene,FALSE,45.0,1330-20-7,FALSE,WEIGHT,NONE
+7c0ae39a-2d48-536f-82ec-bdebf6e1d53b,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,Light Aliphatic Solvent Naphtha,FALSE,30.0,64742-89-8,FALSE,WEIGHT,NONE
+c4d16481-56eb-5f2f-a271-49133b078587,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,N-Methyl-2-Pyrrolidone,FALSE,15.0,872-50-4,FALSE,WEIGHT,NONE
+b1c7e8af-69cc-5e5c-b7fb-25b089959028,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,2-Butoxyethanol,FALSE,15.0,111-76-2,FALSE,WEIGHT,NONE
+01f8a200-4577-5e0e-898f-c51ab7a8f1ca,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,Ethylbenzene,FALSE,10.0,100-41-4,FALSE,WEIGHT,NONE
+1d0930fc-70ae-5cf5-b106-5d153c9b7469,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,"Petroleum distillates, hydrotreated light",FALSE,6.0,64742-47-8,FALSE,WEIGHT,NONE
+2c3ab6b0-7184-5781-8021-43843b6df4f1,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,Light Aromatic Solvent Naphtha,FALSE,5.0,64742-95-6,FALSE,WEIGHT,NONE
+59599993-a812-5b6d-bcbf-d6fdb0918381,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,9-Octadecenoic Acid,FALSE,5.0,112-80-1,FALSE,WEIGHT,NONE
+0794c352-2c0c-59b9-a189-756cf3093530,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,Polyolefin Alkyl Phenol Alkyl Amine,FALSE,3.0,,TRUE,WEIGHT,NONE
+4c5442f3-e7ea-5928-adeb-1a801c17cb11,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,Propoxylated alcohol,FALSE,2.0,,TRUE,WEIGHT,NONE
+3a8deaf1-583d-5e93-867b-b52bc2d7b02a,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,"1-Propene,2-methyl-, homopolymer, hydroformylation products, reaction products with ammonia",FALSE,3.0,337367-30-3,FALSE,WEIGHT,NONE
+1bd06964-ac2e-512e-9bd1-5ebdac5a1f6c,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,"1,2,4-Trimethylbenzene",FALSE,1.0,95-63-6,FALSE,WEIGHT,NONE
+ce1e7b79-6ad6-5e64-9289-889c93a14847,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,"1,3,5-Trimethylbenzene",FALSE,0.9,108-67-8,FALSE,WEIGHT,NONE
+7d08de9a-3c9f-54da-bacf-f7aeaf0c5360,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,N-Propylbenzene,FALSE,0.5,103-65-1,FALSE,WEIGHT,NONE
+48022fef-f5c6-599d-9020-4ef42e072079,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,Cumene,FALSE,1.0,98-82-8,FALSE,WEIGHT,NONE
+d84cf38e-4445-57c9-8029-590216d92ce5,d4703ea4-6f24-4b6c-8e41-9d51bd4f811b,"1,2,3-Trimethylbenzene",FALSE,0.5,526-73-8,FALSE,WEIGHT,NONE
+2f6101b3-b114-5a37-9392-e977da42f339,496cc246-c49c-481a-9a2b-4c54bd92dac8,Hydrotreated Light Petroleum Distillates,FALSE,100.0,64742-47-8,FALSE,WEIGHT,NONE
+e7d91ca1-30e5-5ef3-9755-5859f8cd14c4,496cc246-c49c-481a-9a2b-4c54bd92dac8,Light Aromatic Solvent Naphtha,FALSE,10.0,64742-95-6,FALSE,WEIGHT,NONE
+ed166a4f-27af-579a-aede-cf374e5e1dd9,496cc246-c49c-481a-9a2b-4c54bd92dac8,Polyolefin Alkyl Phenol Alkyl Amine,FALSE,5.0,,TRUE,WEIGHT,NONE
+15935e09-d7d3-5433-9568-a06e0a9a4075,496cc246-c49c-481a-9a2b-4c54bd92dac8,"1,2,4-Trimethylbenzene",FALSE,0.9,95-63-6,FALSE,WEIGHT,NONE
+e6e287f3-0ed5-55c5-8b1b-a4544b19160f,496cc246-c49c-481a-9a2b-4c54bd92dac8,Cumene,FALSE,0.3,98-82-8,FALSE,WEIGHT,NONE
+5e38921e-f924-53d5-accf-d0ad5f24d0ec,53df2c56-9297-43f4-9f31-c96142c67638,Diethylene glycol,FALSE,10.0,111-46-6,FALSE,WEIGHT,NONE
+38eb1d96-69cb-5cf0-8c2f-2e42dac8bec1,53df2c56-9297-43f4-9f31-c96142c67638,"Glycol ethers (SARA 313 Category), total glycol ether compounds",FALSE,14.0,Not Assigned,TRUE,WEIGHT,NONE
+7b9f8738-b7c6-5540-b8da-4a3b618668aa,9931bba3-c379-4287-8ea4-9b96dc72c87a,ethylene glycol,FALSE,97.0,107-21-1,FALSE,WEIGHT,NONE
+94def930-11c6-5a97-8361-02fb5ac531cc,9931bba3-c379-4287-8ea4-9b96dc72c87a,diethylene glycol,FALSE,5.0,111-46-6,FALSE,WEIGHT,NONE
+c090bed4-0ef2-57f1-a71a-094f72ea0ff4,9931bba3-c379-4287-8ea4-9b96dc72c87a,water,FALSE,5.0,7732-18-5,FALSE,WEIGHT,NONE
+ca25cc7f-357d-51ff-9159-5488b0db6575,9931bba3-c379-4287-8ea4-9b96dc72c87a,potassium 2-ethylhexanoate,FALSE,5.0,3164-85-0,FALSE,WEIGHT,NONE
+7abd5faf-b922-5462-9d9c-930f10f2bdb2,9931bba3-c379-4287-8ea4-9b96dc72c87a,sodium 2-ethylhexanoate,FALSE,5.0,19766-89-3,FALSE,WEIGHT,NONE
+2a6a0ef5-2048-5a4e-8e58-26ba524c8a6b,9931bba3-c379-4287-8ea4-9b96dc72c87a,denatonium benzoate,FALSE,0.005,3734-33-6,FALSE,WEIGHT,NONE
+7d62a011-ec8a-5949-b465-04294340cf6d,95aa65fa-c133-47dc-8cec-213e1ae024d4,Mineral Oil,FALSE,60.0,64742-58-1,FALSE,WEIGHT,NONE
+ed218435-6232-5528-b007-21b846fd952f,95aa65fa-c133-47dc-8cec-213e1ae024d4,Hydrotreated Heavy Paraffinic Oil,FALSE,60.0,64742-54-7,FALSE,WEIGHT,NONE
+aa88f483-0084-57ea-a6c2-c6147b6ea54d,95aa65fa-c133-47dc-8cec-213e1ae024d4,Aliphatic Petroleum Distillates,FALSE,60.0,64742-65-0,FALSE,WEIGHT,NONE
+1a662b97-77b9-5203-bf9d-07e576bbc2b1,95aa65fa-c133-47dc-8cec-213e1ae024d4,Hydrotreated Light Petroleum Distillates,FALSE,50.0,64742-47-8,FALSE,WEIGHT,NONE
+0ed49760-1605-5e2e-b81d-2266f261e599,95aa65fa-c133-47dc-8cec-213e1ae024d4,9-Octadecenoic Acid,FALSE,5.0,112-80-1,FALSE,WEIGHT,NONE
+a94d0f6c-c54c-5f6e-b2fc-896b8e42efd6,95aa65fa-c133-47dc-8cec-213e1ae024d4,Dipropylene Glycol Methyl Ether,TRUE,3.0,34590-94-8,FALSE,WEIGHT,NONE
+2337b035-1db8-599d-880f-44ab1a57c00b,251e098b-ee7c-4ce9-9b70-5f99000be3af,Butane,FALSE,20.0,106-97-8,FALSE,VOLUME,NONE
+516f0f10-f9d0-5599-884c-680535a6de0d,251e098b-ee7c-4ce9-9b70-5f99000be3af,ISOPROPANOL,FALSE,6.0,67-63-0,FALSE,VOLUME,NONE
+2085de72-310f-51e4-8006-4bb35e604393,251e098b-ee7c-4ce9-9b70-5f99000be3af,Propane,FALSE,4.0,74-98-6,FALSE,VOLUME,NONE
+b5049f31-8ffd-5c8e-892f-13465d83e308,251e098b-ee7c-4ce9-9b70-5f99000be3af,Ethoxylated Alcohols (C9 – C11),FALSE,0.5,68439-46-3,FALSE,VOLUME,NONE
+a452097b-8e25-5569-81cf-90c2be8ccd07,a957ac53-efcc-4022-bca6-545860ae1eca,ethylene glycol,FALSE,97.0,107-21-1,FALSE,WEIGHT,NONE
+20ae7a49-a837-5d9e-9da8-db8d53920403,a957ac53-efcc-4022-bca6-545860ae1eca,diethylene glycol,FALSE,5.0,111-46-6,FALSE,WEIGHT,NONE
+24d1bb02-024b-5b79-a9f9-185012f4f01b,a957ac53-efcc-4022-bca6-545860ae1eca,water,FALSE,5.0,7732-18-5,FALSE,WEIGHT,NONE
+330021ac-505e-51cb-a890-e34ff8591419,a957ac53-efcc-4022-bca6-545860ae1eca,potassium 2-ethylhexanoate,FALSE,5.0,3164-85-0,FALSE,WEIGHT,NONE
+ab88b823-54f1-5175-9a3f-d245b1c226c3,a957ac53-efcc-4022-bca6-545860ae1eca,sodium 2-ethylhexanoate,FALSE,5.0,19766-89-3,FALSE,WEIGHT,NONE
+20d9a7fb-7dbb-5867-be2f-2ab605603c5e,a957ac53-efcc-4022-bca6-545860ae1eca,denatonium benzoate,FALSE,0.005,3734-33-6,FALSE,WEIGHT,NONE
+e4427dfd-2ee6-5b03-b291-1b7ceba94e20,e409bd30-c053-4467-a187-bf87341e47db,Ethylene Glycol,FALSE,60.0,107-21-1,FALSE,WEIGHT,NONE
+955e913e-f94a-51fc-893d-5e3412b59be6,e409bd30-c053-4467-a187-bf87341e47db,Water,FALSE,60.0,7732-18-5,FALSE,WEIGHT,NONE
+b3630477-6b74-5af9-a987-ea678d58ae09,e409bd30-c053-4467-a187-bf87341e47db,Diethylene Glycol,FALSE,5.0,111-46-6,FALSE,WEIGHT,NONE
+232f2037-59df-5992-bf51-c99fd2d0a19b,e409bd30-c053-4467-a187-bf87341e47db,"2-Ethyl Hexanoic Acid, Sodium Salt",FALSE,5.0,19766-89-3,FALSE,WEIGHT,NONE
+4855ee28-4b21-54b6-a634-c2699289e07b,37cede10-7c66-4920-adfe-599d26d49a43,ETHYLENE GLYCOL,FALSE,92.6533,107-21-1,FALSE,WEIGHT,NONE
+ca488b54-cacc-520b-9498-d8002709b56d,37cede10-7c66-4920-adfe-599d26d49a43,DIETHYLENE GLYCOL,FALSE,4.6356,111-46-6,FALSE,WEIGHT,NONE
+60d1376c-2e8d-5e0c-b051-7197b8f1a07e,37cede10-7c66-4920-adfe-599d26d49a43,SODIUM HYDROXIDE,FALSE,1.4207,1310-73-2,FALSE,WEIGHT,NONE
+7d8828c9-b2f6-541d-be1d-a824e78264a9,6172a031-7411-4c46-b390-96a40512cf1d,Diethylene glycol monobutyl ether,FALSE,10.0,112-34-5,FALSE,WEIGHT,NONE
+3b87cbec-aca7-52cd-87be-21ef552ca41f,6172a031-7411-4c46-b390-96a40512cf1d,"n- Alkyl (60% C14, 30% C16, 5% C12, 5% C18) dimethyl benzyl ammonium chlorides",FALSE,0.1,68391-01-5,FALSE,WEIGHT,NONE
+aa40ac5c-b3b7-5c61-adc1-6431172df900,6172a031-7411-4c46-b390-96a40512cf1d,"n- Alkyl (68% C12, 32% C14) dimethyl ethylbenzyl ammonium chlorides",FALSE,0.1,85409-23-0,FALSE,WEIGHT,NONE
+f8bbdaef-0b5e-54b7-b326-875e6f9d6a9b,6172a031-7411-4c46-b390-96a40512cf1d,Tetrasodium ethylenediamine tetraacetate,FALSE,7.0,64-02-8,FALSE,WEIGHT,NONE
+565270d6-615f-5a2d-9687-44d0097ea35b,c857cf87-bc3c-49cf-88b5-7860e1c583f3,ETHYLENE GLYCOL,FALSE,100.0,107-21-1,FALSE,WEIGHT,NONE
+a1d29ada-8d9b-55ea-b436-263bd2b0e540,c857cf87-bc3c-49cf-88b5-7860e1c583f3,DIPOTASSIUM PHOSPHATE,FALSE,1.0,7758-11-4,FALSE,WEIGHT,NONE
+5c444f5b-b24e-53cd-8afd-515eae84ea34,c857cf87-bc3c-49cf-88b5-7860e1c583f3,SODIUM BORATE DECAHYDRATE,FALSE,0.5,1303-96-4,FALSE,WEIGHT,NONE
+386b7795-e7c0-582e-b7d8-4c8dff1c1459,c857cf87-bc3c-49cf-88b5-7860e1c583f3,SODIUM NITRATE,FALSE,0.5,7631-99-4,FALSE,WEIGHT,NONE
+9ae87824-e751-5652-bc9b-4230ba33c104,55c106ae-f792-4493-91c2-379c53eb55a4,Ethylene Glycol,FALSE,10.0,107-21-1,FALSE,WEIGHT,NONE
+a5197b52-9a07-5829-b391-1a217a8bbab4,3292850f-52fe-4d4f-b526-288a235d67f2,Lubricating Oil,FALSE,95.0,,TRUE,WEIGHT,NONE
+51a8ca9d-8cd4-517a-8bd7-8005a8e9fda2,b4cfd615-3ecd-493b-a5de-2ab891fcda15,Highly refined mineral oil (C15 - C50),FALSE,99.0,Mixture,TRUE,WEIGHT,NONE
+14634c2e-b362-59c8-a385-582286d69a9c,a32ba0ac-e410-486e-83f3-1f347ff0f2c7,Water,FALSE,69.0,7732-18-5,FALSE,WEIGHT,NONE
+f84d3a43-fbb1-5d56-8628-2729490b7d65,a32ba0ac-e410-486e-83f3-1f347ff0f2c7,Urea,FALSE,33.5,57-13-6,FALSE,WEIGHT,NONE
+664961fe-8c73-5e85-833f-131f8251cfa4,9a61e5f1-9c99-469d-8ae3-2b0eea698f02,Isopropyl Alcohol,FALSE,60.0,67-63-0,FALSE,WEIGHT,NONE
+476b3bd8-41c3-5915-a5a2-3ae115f6b22a,9a61e5f1-9c99-469d-8ae3-2b0eea698f02,Isobutyl Alcohol,FALSE,40.0,78-83-1,FALSE,WEIGHT,NONE
+47832891-3a82-507a-bdc8-c41aae139832,9a61e5f1-9c99-469d-8ae3-2b0eea698f02,Graphite,FALSE,10.0,7782-42-5,FALSE,WEIGHT,NONE
+d6d6f8b3-90f1-5b66-9142-a4e16e85934e,9a61e5f1-9c99-469d-8ae3-2b0eea698f02,Propylene Glycol Methyl Ether,FALSE,10.0,107-98-2,FALSE,WEIGHT,NONE
+1671bcec-cb09-5ab1-9532-f7d3d90f5788,9a61e5f1-9c99-469d-8ae3-2b0eea698f02,N-Butyl Alcohol,FALSE,10.0,71-36-3,FALSE,WEIGHT,NONE
+a4350381-1504-53c9-a825-5259e155263c,32b68dc9-0ee2-4446-80e1-d47fc12cfd8c,"Distillates (Petroleum), Hydrotreated Light Naphthenic",FALSE,100.0,64742-53-6,FALSE,WEIGHT,NONE
+94c6435f-1e64-5487-a0b0-f3e16049bdfc,32b68dc9-0ee2-4446-80e1-d47fc12cfd8c,Mineral Oil,FALSE,3.0,64742-58-1,FALSE,WEIGHT,NONE
+52cc93d6-c27b-5a6f-a0f7-95b9e4eece80,32b68dc9-0ee2-4446-80e1-d47fc12cfd8c,Hydrotreated Heavy Paraffinic Oil,FALSE,3.0,64742-54-7,FALSE,WEIGHT,NONE
+51f1fae6-18a4-5af6-b7a8-ed0f392d8bc1,32b68dc9-0ee2-4446-80e1-d47fc12cfd8c,Aliphatic Petroleum Distillates,FALSE,3.0,64742-65-0,FALSE,WEIGHT,NONE
+18b37a07-b077-5ad1-8768-5c923f8f5651,eb6eb9d1-675d-4333-b525-468ae824ded8,Light Aliphatic Solvent Naphtha,FALSE,45.0,64742-89-8,FALSE,WEIGHT,NONE
+2413f2b9-9542-525c-a877-4e3b695d3589,eb6eb9d1-675d-4333-b525-468ae824ded8,Xylene,FALSE,35.0,1330-20-7,FALSE,WEIGHT,NONE
+ec55fa57-0e44-5f2c-b36b-8892309ef474,eb6eb9d1-675d-4333-b525-468ae824ded8,2-Butoxyethanol,FALSE,15.0,111-76-2,FALSE,WEIGHT,NONE
+92f95965-fab1-5c45-a26a-e1363935b4f2,eb6eb9d1-675d-4333-b525-468ae824ded8,Ethylbenzene,FALSE,15.0,100-41-4,FALSE,WEIGHT,NONE
+bb94b6a5-68bd-54ba-8001-fe82438edf11,eb6eb9d1-675d-4333-b525-468ae824ded8,Monoalkylaryl alkoxylate aminated,FALSE,10.0,,TRUE,WEIGHT,NONE
+e1175127-5518-5a9e-ac10-a7ef9781619c,eb6eb9d1-675d-4333-b525-468ae824ded8,Light Aromatic Solvent Naphtha,FALSE,10.0,64742-95-6,FALSE,WEIGHT,NONE
+1b8e6663-9c55-5a6c-b9a9-fd17015dbd02,eb6eb9d1-675d-4333-b525-468ae824ded8,Ethyl Acetate,FALSE,10.0,141-78-6,FALSE,WEIGHT,NONE
+7afd211d-baba-50c5-81f7-4b5033f8c34b,eb6eb9d1-675d-4333-b525-468ae824ded8,"1,2,4-Trimethylbenzene",FALSE,5.0,95-63-6,FALSE,WEIGHT,NONE
+c943850c-0f30-5b99-8f0d-1215b4ef664e,eb6eb9d1-675d-4333-b525-468ae824ded8,Nitrogen,FALSE,2.0,7727-37-9,FALSE,WEIGHT,NONE
+a371e3e4-0662-570a-b90d-c955a2008520,eb6eb9d1-675d-4333-b525-468ae824ded8,N-Propylbenzene,FALSE,1.0,103-65-1,FALSE,WEIGHT,NONE
+cd61c280-8920-593e-a3e5-3daf8216efce,eb6eb9d1-675d-4333-b525-468ae824ded8,Cumene,FALSE,1.0,98-82-8,FALSE,WEIGHT,NONE
+9b3cc861-052e-526d-af9b-2579abcdc0bb,eb6eb9d1-675d-4333-b525-468ae824ded8,"1,2,3-Trimethylbenzene",FALSE,1.0,526-73-8,FALSE,WEIGHT,NONE
+2468ec17-fb13-580e-9a1c-5816462d9975,76031dc1-5d5e-425b-b17d-903fb52884c7,Hydrotreated Light Petroleum Distillates,FALSE,45.0,64742-47-8,FALSE,WEIGHT,NONE
+a85b487f-e4e6-5bce-b502-800dbceacc99,76031dc1-5d5e-425b-b17d-903fb52884c7,2-Butoxyethanol,FALSE,45.0,111-76-2,FALSE,WEIGHT,NONE
+ef610cf8-f9c9-5ad7-9563-734fb1809bde,76031dc1-5d5e-425b-b17d-903fb52884c7,"Benzene, C10-16-Alkyl Derivatives",FALSE,5.0,68648-87-3,FALSE,WEIGHT,NONE
+7409b6e2-7f14-5a48-b8aa-ec30835c4fbd,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Triethylene Glycol Monomethyl Ether Borate ester,FALSE,40.0,30989-05-0,FALSE,WEIGHT,NONE
+74adda40-40bd-5ba2-9bc1-c056f14181e4,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Triethylene Glycol Monomethyl Ether,FALSE,40.0,112-35-6,FALSE,WEIGHT,NONE
+fc458e0f-ef8c-5d85-a314-977c68d128b9,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Triethylene Glycol Monobutyl Ether,FALSE,40.0,143-22-6,FALSE,WEIGHT,NONE
+6d534cfc-30df-5a95-9032-eac98e1c3a31,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Triethylene Glycol,FALSE,20.0,112-27-6,FALSE,WEIGHT,NONE
+0dbad555-29a4-5d07-89e0-f7d5fa5487ea,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Polyethylene Glycol Monomethyl Ether,FALSE,28.0,9004-74-4,FALSE,WEIGHT,NONE
+33d2e606-23e8-5e80-8bd6-dddcb80ef31d,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Tetraethylene Glycol,FALSE,10.0,112-60-7,FALSE,WEIGHT,NONE
+8083f9b9-e65f-5a86-85c1-1e4b5c0189b0,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Diethylene Glycol,FALSE,10.0,111-46-6,FALSE,WEIGHT,NONE
+cf1bed35-e42f-5467-9e29-cd7713f2de91,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Polyethylene Glycol Monobutyl Ether,FALSE,5.0,9004-77-7,FALSE,WEIGHT,NONE
+248247c0-ca0f-51f9-9c19-87226c282668,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Diisopropanolamine,FALSE,5.0,110-97-4,FALSE,WEIGHT,NONE
+bbfa44b6-0fec-5b0f-906b-0d55c7192f0c,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Diethylene Glycol Monobutyl Ether,FALSE,3.0,112-34-5,FALSE,WEIGHT,NONE
+cccde551-c383-565b-bd4e-eb669c951852,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Tetraethylene Glycol Monobutyl Ether,FALSE,3.0,1559-34-8,FALSE,WEIGHT,NONE
+3d8f499c-5750-5937-bc1d-590621e69830,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,Diethylene Glycol Monomethyl Ether,FALSE,1.0,111-77-3,FALSE,WEIGHT,NONE
+9b2c2273-abe0-5b42-a054-063463b68706,6c36d6a4-4095-4fe9-82d0-e7d6f1a0739a,"2,6-Di-tert-butyl-p-cresol",FALSE,1.0,128-37-0,FALSE,WEIGHT,NONE
