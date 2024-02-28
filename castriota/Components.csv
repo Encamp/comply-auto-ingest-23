@@ -1,0 +1,24 @@
+Component ID,Chemical ID,Name,Is EHS?,Component Percentage,CAS Number,No CAS Number?,Weight or Volume?,EHS Form
+5c34fe1d-3f71-54ab-b861-a62d4586b27c,8a51b37a-a638-4265-b9ec-df19bede7ce4,water,False,52.0,7732-18-5,False,WEIGHT,NONE
+87ce30a7-1fa4-5065-a9df-fdbb437b7d9b,8a51b37a-a638-4265-b9ec-df19bede7ce4,"Hydrated inorganic acid, organic acid salts",False,4.0,Not Available,True,WEIGHT,NONE
+d5ddf0b5-6104-5e85-ad6a-8c670a6b78d1,8a51b37a-a638-4265-b9ec-df19bede7ce4,diethylene glycol,False,3.0,111-46-6,False,WEIGHT,NONE
+21893fc1-2b60-5fd8-997c-a9a13cb5afdb,8a51b37a-a638-4265-b9ec-df19bede7ce4,ethylene glycol,False,52.0,107-21-1,False,WEIGHT,NONE
+724ec1f2-ec42-5e14-92c6-42d819341656,125b24f0-af86-4ca1-b71a-8108d6745ec6,Toluene,False,50.0,108-88-3,False,VOLUME,NONE
+bee9d98c-8826-525e-b319-afe2583d3130,125b24f0-af86-4ca1-b71a-8108d6745ec6,ACETONE,False,30.0,67-64-1,False,VOLUME,NONE
+6fb289df-9bb3-550f-98ce-7601307baad4,125b24f0-af86-4ca1-b71a-8108d6745ec6,XYLENE,False,30.0,1330-20-7,False,VOLUME,NONE
+a3542c88-f19a-54ae-b57c-732c05139426,125b24f0-af86-4ca1-b71a-8108d6745ec6,DIACETONE ALCOHOL,False,20.0,123-42-2,False,VOLUME,NONE
+f7dd965b-6eff-5ea1-b74b-89dfd6d8f67e,125b24f0-af86-4ca1-b71a-8108d6745ec6,METHANOL,False,20.0,67-56-1,False,VOLUME,NONE
+fc34e719-1c12-5f6d-82a4-2f8111e677a5,b1b50f54-e1bd-458f-b68f-7b0c81f225b8,Synthetic Base Stocks and Additives,False,100.0,,True,VOLUME,NONE
+038327e1-07ac-59ee-96f8-abb9463571ff,d821da9c-68ee-48c5-8dd7-c909cf9982e6,"distillates (petroleum), hydrotreated heavy paraffinic",False,99.0,64742-54-7,False,WEIGHT,NONE
+03de1032-94fa-5f65-b605-c8caa3b5deb4,d821da9c-68ee-48c5-8dd7-c909cf9982e6,"Lubricating oils (petroleum), C20-50, hydrotreated neutral oil-based",False,90.0,72623-87-1,False,WEIGHT,NONE
+5389889d-c2aa-541b-9715-364fdf5d79ff,d821da9c-68ee-48c5-8dd7-c909cf9982e6,"1-Decene, homopolymer, hydrogenated",False,42.0,68037-01-4,False,WEIGHT,NONE
+77718f52-a448-5819-bc12-1b10e4ccb0de,d821da9c-68ee-48c5-8dd7-c909cf9982e6,"Phosphorodithioic acid, O,O-di-C1-14-alkyl esters, zinc salts",False,11.75,68649-42-3,False,WEIGHT,NONE
+d1c394a5-dfdb-56fd-b9b5-e51850a1df99,d821da9c-68ee-48c5-8dd7-c909cf9982e6,Parrafin oils,False,5.0,8012-95-1,False,WEIGHT,NONE
+d3490bac-d28f-5d9b-9b60-a70ae0876a1d,d821da9c-68ee-48c5-8dd7-c909cf9982e6,"distillates (petroleum), solvent-dewaxed light paraffinic",False,5.0,64742-56-9,False,WEIGHT,NONE
+b60310ab-2c6d-5753-a66c-16db0e090453,d821da9c-68ee-48c5-8dd7-c909cf9982e6,"distillates (petroleum), solvent-refined heavy paraffinic",False,5.0,64741-88-4,False,WEIGHT,NONE
+ebc57786-ae1b-5903-85bb-88ee881f3bcd,d821da9c-68ee-48c5-8dd7-c909cf9982e6,"Distillates (petroleum), solvent-refined light paraffinic",False,5.0,64741-89-5,False,WEIGHT,NONE
+ac763868-b36e-59db-bd40-88edd16ce559,a1d03077-a8f9-4006-9360-8a6e0ef92e23,ethylene glycol,False,97.0,107-21-1,False,WEIGHT,NONE
+6b9d018d-6fe2-5100-a75f-8fb0005ace9f,a1d03077-a8f9-4006-9360-8a6e0ef92e23,diethylene glycol,False,5.0,111-46-6,False,WEIGHT,NONE
+5a350155-414b-55e1-8c30-fc53cc8f2910,a1d03077-a8f9-4006-9360-8a6e0ef92e23,water,False,4.0,7732-18-5,False,WEIGHT,NONE
+0958ed5d-9fb2-5049-883d-1526f61ac61a,a1d03077-a8f9-4006-9360-8a6e0ef92e23,potassium 2-ethylhexanoate,False,3.0,3164-85-0,False,WEIGHT,NONE
+cf86c6ab-4663-5b6c-a870-25218b4478b7,a1d03077-a8f9-4006-9360-8a6e0ef92e23,denatonium benzoate,False,0.005,3734-33-6,False,WEIGHT,NONE
