@@ -15,7 +15,7 @@ def xlsx_to_csv(root_directory):
                     # Read each sheet into a pandas DataFrame
                     df = pd.read_excel(file_path, sheet_name=sheet_name)
                     # Construct the CSV file name
-                    csv_file_name = f"{root}/{base_name}_{sheet_name}.csv"
+                    csv_file_name = f"{root}/{sheet_name}.csv"
                     # Save the DataFrame to CSV
                     df.to_csv(csv_file_name, index=False)
                     print(f"Saved {csv_file_name}")

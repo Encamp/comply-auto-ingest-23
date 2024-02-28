@@ -1,0 +1,169 @@
+Chemical Regulatory Info ID,Chemical ID,Key,Value,Extension Type,Jurisdiction
+9e62dc39-c224-4f18-97a6-db34b4145204,b8390012-0c53-4bac-b09f-929cdde132ae,isHeatingFuel,False,EPCRA,STATE_DE
+33f1aa23-9941-4092-bab1-b5f353f04a3f,b8390012-0c53-4bac-b09f-929cdde132ae,isVoluntary,False,EPCRA,STATE_WI
+64cdb283-7e68-44b3-bcd5-a82afe88886a,b8390012-0c53-4bac-b09f-929cdde132ae,isGasolineOrDieselFuel,False,EPCRA,STATE_WI
+38afa948-b290-4b99-bffd-1f48e570744e,b8390012-0c53-4bac-b09f-929cdde132ae,isSandOrGravel,False,EPCRA,STATE_WI
+1c4ee75d-8a0b-495a-bee5-e8d2710f440e,b8390012-0c53-4bac-b09f-929cdde132ae,isPetroleum,False,EPCRA,STATE_WI
+cac85bdd-27fb-4e9f-8abc-d23522e16a5a,b8390012-0c53-4bac-b09f-929cdde132ae,isRoadSalt,False,EPCRA,STATE_WI
+81fe6f6e-1e8a-4ebf-952c-f8424182923c,b8390012-0c53-4bac-b09f-929cdde132ae,isWasteProduct,False,EPCRA,STATE_OR
+05822045-5ae1-45fb-8f25-43ab52e806c2,b8390012-0c53-4bac-b09f-929cdde132ae,isPesticide,False,EPCRA,STATE_OR
+426c5bfe-c269-4ab3-bf4d-fe884cf825fc,b8390012-0c53-4bac-b09f-929cdde132ae,isSubjectToCleanAirAct,False,EPCRA,STATE_OR
+463e28ef-9e30-437e-8aa1-9e06335098cd,b8390012-0c53-4bac-b09f-929cdde132ae,isFertilizer,False,EPCRA,STATE_OR
+484a6ee8-ac8b-4d1c-8773-813ec0c8dd54,b8390012-0c53-4bac-b09f-929cdde132ae,isSubjectToProcessSafetyManagement,False,EPCRA,STATE_OR
+1bbff9c1-ea69-4895-ad1a-7185407ee051,b8390012-0c53-4bac-b09f-929cdde132ae,isLeadAcidBattery,False,EPCRA,STATE_AZ
+dcb9917e-a3ea-4c32-b71a-a5184f7f9de6,b8390012-0c53-4bac-b09f-929cdde132ae,hasHighNfpaReactivityRating,False,EPCRA,STATE_AZ
+3483b741-b032-46da-99d7-abd630869dea,b8390012-0c53-4bac-b09f-929cdde132ae,isInPowderFormWithParticleSizeLessThan100Microns,False,EPCRA,STATE_AZ
+896ec619-3794-4541-8abe-b857be102b7a,b8390012-0c53-4bac-b09f-929cdde132ae,isHandledInSolutionOrMoltenForm,False,EPCRA,STATE_AZ
+c0da3f31-1725-4762-b2dd-b02bc63dfd76,b8390012-0c53-4bac-b09f-929cdde132ae,isWaste,False,EPCRA,STATE_CA
+136a6d83-d825-428a-a1c4-d6d2a556e6a6,b8390012-0c53-4bac-b09f-929cdde132ae,radioactive,False,EPCRA,STATE_CA
+e7293de2-cc90-4db6-80a9-89406892f849,b8390012-0c53-4bac-b09f-929cdde132ae,isPetroleumProduct,False,EPCRA,STATE_VT
+2c092136-1bed-45b7-abfc-7086d247efb6,b8390012-0c53-4bac-b09f-929cdde132ae,isRoadSalt,False,EPCRA,STATE_VT
+118b32b1-46e1-4403-9221-4312eeb88189,1e6b8217-2f35-4bef-a3a6-c2e06b121401,isHeatingFuel,False,EPCRA,STATE_DE
+62a18757-1edf-4b1c-9ef7-fd117ec986bd,1e6b8217-2f35-4bef-a3a6-c2e06b121401,isVoluntary,False,EPCRA,STATE_WI
+d8450c33-4d32-471a-9df8-7ca9c536799d,1e6b8217-2f35-4bef-a3a6-c2e06b121401,isGasolineOrDieselFuel,False,EPCRA,STATE_WI
+4890697c-f2cd-4383-9b58-ad2c919400db,1e6b8217-2f35-4bef-a3a6-c2e06b121401,isSandOrGravel,False,EPCRA,STATE_WI
+1478533d-cffa-4c7d-ad44-a21091613a72,1e6b8217-2f35-4bef-a3a6-c2e06b121401,isPetroleum,False,EPCRA,STATE_WI
+7b4390a1-fd24-4339-902f-f5deef169693,1e6b8217-2f35-4bef-a3a6-c2e06b121401,isRoadSalt,False,EPCRA,STATE_WI
+46e1c845-72bc-4ae6-86b1-14abe215a983,1e6b8217-2f35-4bef-a3a6-c2e06b121401,isWasteProduct,False,EPCRA,STATE_OR
+74a6574f-52a3-4de2-ae8b-944f34c2b7a8,1e6b8217-2f35-4bef-a3a6-c2e06b121401,isPesticide,False,EPCRA,STATE_OR
+8e7a450e-332e-4a5b-8baf-a09a6aa11995,1e6b8217-2f35-4bef-a3a6-c2e06b121401,isSubjectToCleanAirAct,False,EPCRA,STATE_OR
+0d473c16-e639-4b12-8899-90ba9e9d28fb,1e6b8217-2f35-4bef-a3a6-c2e06b121401,isFertilizer,False,EPCRA,STATE_OR
+36626d83-9f60-408e-a00e-d2a0e5805424,1e6b8217-2f35-4bef-a3a6-c2e06b121401,isSubjectToProcessSafetyManagement,False,EPCRA,STATE_OR
+6f9af77a-bbe2-41cb-8c12-9a1b31c9345e,1e6b8217-2f35-4bef-a3a6-c2e06b121401,isLeadAcidBattery,False,EPCRA,STATE_AZ
+ecd1a764-eefb-439a-bd41-79d033c6cc9a,1e6b8217-2f35-4bef-a3a6-c2e06b121401,hasHighNfpaReactivityRating,False,EPCRA,STATE_AZ
+32397953-3e54-4e42-b69a-a67a1a61bd08,1e6b8217-2f35-4bef-a3a6-c2e06b121401,isInPowderFormWithParticleSizeLessThan100Microns,False,EPCRA,STATE_AZ
+68540bb4-6c82-4477-9940-f874009caa6a,1e6b8217-2f35-4bef-a3a6-c2e06b121401,isHandledInSolutionOrMoltenForm,False,EPCRA,STATE_AZ
+84179010-1b67-446d-8f3b-fe16063adc61,1e6b8217-2f35-4bef-a3a6-c2e06b121401,isWaste,False,EPCRA,STATE_CA
+081cc165-9777-4fcf-9d48-e8b6dd6fcf72,1e6b8217-2f35-4bef-a3a6-c2e06b121401,radioactive,False,EPCRA,STATE_CA
+d56db97f-6a63-4df4-9c7f-16ee76a652b1,1e6b8217-2f35-4bef-a3a6-c2e06b121401,isPetroleumProduct,False,EPCRA,STATE_VT
+6ef72203-aa64-4d6d-946b-5caa78f64332,1e6b8217-2f35-4bef-a3a6-c2e06b121401,isRoadSalt,False,EPCRA,STATE_VT
+3a8ae3f3-8637-47bf-b600-f9be47f26598,273b5a2a-cae5-4d19-a7c3-8f76dd3823ec,commonName,MOTOR & GEAR LUBRICATING OIL,EPCRA,STATE_CA
+431f6a68-3c5f-4c4c-ab1d-3ac9f0a4c574,273b5a2a-cae5-4d19-a7c3-8f76dd3823ec,isWaste,False,EPCRA,STATE_CA
+621279d9-e552-4b44-9b3b-6e4c9e1f66a9,273b5a2a-cae5-4d19-a7c3-8f76dd3823ec,radioactive,False,EPCRA,STATE_CA
+78589cd1-f575-430d-ab80-580b40ae768c,273b5a2a-cae5-4d19-a7c3-8f76dd3823ec,dotHazardClass,3 - Flammable and Combustible Liquids,EPCRA,STATE_CA
+7a229dc7-08f8-4e66-b2e9-a0630e65bf8b,273b5a2a-cae5-4d19-a7c3-8f76dd3823ec,fireCodeHazardClassPrimary,"Combustible Liquid, Class III-B",EPCRA,STATE_CA
+d676a0cc-50a7-4ff9-9e6e-8f26d0a89016,da59250a-7699-43d4-a4f5-be562064c30a,isHeatingFuel,False,EPCRA,STATE_DE
+8dcf8ad2-54ba-4b1c-8a16-385c6023fcdb,da59250a-7699-43d4-a4f5-be562064c30a,isVoluntary,False,EPCRA,STATE_WI
+87edea6d-6e87-4509-a5a2-628f1cf39e32,da59250a-7699-43d4-a4f5-be562064c30a,isGasolineOrDieselFuel,False,EPCRA,STATE_WI
+4d92fdef-2109-4731-8638-a889b0ed24f0,da59250a-7699-43d4-a4f5-be562064c30a,isSandOrGravel,False,EPCRA,STATE_WI
+b171b0f4-e018-4bca-8b5d-7a7e8b636da4,da59250a-7699-43d4-a4f5-be562064c30a,isPetroleum,False,EPCRA,STATE_WI
+7ae804ce-844d-4450-93a3-0844ea8efffc,da59250a-7699-43d4-a4f5-be562064c30a,isRoadSalt,False,EPCRA,STATE_WI
+9f25b96b-f25b-463e-83a5-37768342a8d1,da59250a-7699-43d4-a4f5-be562064c30a,isWasteProduct,False,EPCRA,STATE_OR
+fa11bfb9-01d7-40fc-b312-a568e8b14ad1,da59250a-7699-43d4-a4f5-be562064c30a,isPesticide,False,EPCRA,STATE_OR
+b8f94fb5-1cd5-4cf2-aeeb-a54a0ed0c0a4,da59250a-7699-43d4-a4f5-be562064c30a,isSubjectToCleanAirAct,False,EPCRA,STATE_OR
+307ec7ec-8a97-4a4a-9826-d12d13ad3d48,da59250a-7699-43d4-a4f5-be562064c30a,isFertilizer,False,EPCRA,STATE_OR
+872f5c0c-22b7-4aec-a711-76b595ca322b,da59250a-7699-43d4-a4f5-be562064c30a,isSubjectToProcessSafetyManagement,False,EPCRA,STATE_OR
+2d756a59-4b98-48d4-bd78-8abaadf723fe,da59250a-7699-43d4-a4f5-be562064c30a,isLeadAcidBattery,False,EPCRA,STATE_AZ
+86c0d24c-4c62-4915-80c8-66e2023df435,da59250a-7699-43d4-a4f5-be562064c30a,hasHighNfpaReactivityRating,False,EPCRA,STATE_AZ
+2f198ce9-9be5-43cc-9c58-4d9d815e23d0,da59250a-7699-43d4-a4f5-be562064c30a,isInPowderFormWithParticleSizeLessThan100Microns,False,EPCRA,STATE_AZ
+8439e1fd-1679-40be-b430-e92ec5c07a7c,da59250a-7699-43d4-a4f5-be562064c30a,isHandledInSolutionOrMoltenForm,False,EPCRA,STATE_AZ
+1e4f85a9-cbcb-431a-8a68-b34b920dc992,da59250a-7699-43d4-a4f5-be562064c30a,commonName,TRANSMISSION FLUID,EPCRA,STATE_CA
+0ab7874b-1dd5-486e-a94c-9f8d938f5051,da59250a-7699-43d4-a4f5-be562064c30a,isWaste,False,EPCRA,STATE_CA
+a77e4279-7442-45f5-94b7-2f4d79afc153,da59250a-7699-43d4-a4f5-be562064c30a,radioactive,False,EPCRA,STATE_CA
+39756d93-de15-4d0c-9ebd-d297217b2783,da59250a-7699-43d4-a4f5-be562064c30a,dotHazardClass,3 - Flammable and Combustible Liquids,EPCRA,STATE_CA
+9c86d754-fcc6-4350-9dfe-1049aa513668,da59250a-7699-43d4-a4f5-be562064c30a,fireCodeHazardClassPrimary,"Combustible Liquid, Class III-B",EPCRA,STATE_CA
+f466d1b3-fdc4-4e06-9edc-ab8157859a3b,da59250a-7699-43d4-a4f5-be562064c30a,isPetroleumProduct,False,EPCRA,STATE_VT
+bfd8b558-00ca-4b5f-901e-7545d961edbb,da59250a-7699-43d4-a4f5-be562064c30a,isRoadSalt,False,EPCRA,STATE_VT
+ffa36bd2-9ef6-41d8-a8c2-03dfab24e377,6560f38e-564c-40cb-9eb7-bbaefa615b40,commonName,MOTOR & GEAR LUBRICATING OIL,EPCRA,STATE_CA
+adc7f4f6-70d5-46d1-9c74-efd5a319fa35,6560f38e-564c-40cb-9eb7-bbaefa615b40,isWaste,False,EPCRA,STATE_CA
+0f86562c-bb01-4ff9-b85a-e00e09d94004,6560f38e-564c-40cb-9eb7-bbaefa615b40,radioactive,False,EPCRA,STATE_CA
+2ce10840-4685-4115-9a9a-b731c28f50e5,6560f38e-564c-40cb-9eb7-bbaefa615b40,dotHazardClass,3 - Flammable and Combustible Liquids,EPCRA,STATE_CA
+e530500a-11ba-45db-bb5d-2428288333d9,6560f38e-564c-40cb-9eb7-bbaefa615b40,fireCodeHazardClassPrimary,"Combustible Liquid, Class III-B",EPCRA,STATE_CA
+4579a733-54b8-4070-acd9-cb4b3a952213,f3aac694-d5e7-482d-9db5-4ba49b4785ff,commonName,COOLANT,EPCRA,STATE_CA
+b0a0c5da-ae83-4f21-aae8-3b71751cb5a7,f3aac694-d5e7-482d-9db5-4ba49b4785ff,isWaste,False,EPCRA,STATE_CA
+0ef510f1-0705-4e23-b42a-c933373513dc,f3aac694-d5e7-482d-9db5-4ba49b4785ff,radioactive,False,EPCRA,STATE_CA
+a89e7370-9c6b-4e5c-ae45-eeed3c92d208,f3aac694-d5e7-482d-9db5-4ba49b4785ff,dotHazardClass,3 - Flammable and Combustible Liquids,EPCRA,STATE_CA
+735bebe3-3c14-4031-89e3-5af6335cea82,f3aac694-d5e7-482d-9db5-4ba49b4785ff,fireCodeHazardClassPrimary,"Combustible Liquid, Class III-B",EPCRA,STATE_CA
+d72b4709-3787-4494-b01c-c824e1b1946e,98f7e5f0-64fe-435c-909e-5f1ab93a08dd,fireCodeHazardClassSecondary,Flammable Gas,EPCRA,STATE_CA
+a57a4ca3-4b98-4383-bf30-fceebcedfa8b,98f7e5f0-64fe-435c-909e-5f1ab93a08dd,commonName,Acetylene,EPCRA,STATE_CA
+708edcc6-5e35-42d9-8d3d-fdc6cf5c0c5b,98f7e5f0-64fe-435c-909e-5f1ab93a08dd,isWaste,False,EPCRA,STATE_CA
+842e3671-6da3-4c67-9276-86c57e130ab6,98f7e5f0-64fe-435c-909e-5f1ab93a08dd,radioactive,False,EPCRA,STATE_CA
+6604712e-e918-42e9-9c55-362e2d225a48,98f7e5f0-64fe-435c-909e-5f1ab93a08dd,dotHazardClass,2.1 - Flammable Gases,EPCRA,STATE_CA
+74d5e063-d6e1-4ae0-a018-6854b9f8dceb,98f7e5f0-64fe-435c-909e-5f1ab93a08dd,fireCodeHazardClassPrimary,"Unstable (Reactive), Class 2",EPCRA,STATE_CA
+2693b49c-7ea4-483c-960d-f813aaa3e727,3db1ae9f-0026-4087-a19e-e7ae77defbff,commonName,GASOLINE,EPCRA,STATE_CA
+9cf9b76c-7e57-4edd-a22c-c1d47f298dc2,3db1ae9f-0026-4087-a19e-e7ae77defbff,curies,0,EPCRA,STATE_CA
+28088499-f75c-4083-948e-65dbbf062332,3db1ae9f-0026-4087-a19e-e7ae77defbff,isWaste,False,EPCRA,STATE_CA
+2e91aea5-7c36-4516-aa32-5802e6dbdf0c,3db1ae9f-0026-4087-a19e-e7ae77defbff,radioactive,False,EPCRA,STATE_CA
+40d594bb-07e4-46e9-b30c-6c51245d2c41,3db1ae9f-0026-4087-a19e-e7ae77defbff,dotHazardClass,3 - Flammable and Combustible Liquids,EPCRA,STATE_CA
+a0dbc941-244f-4f97-9ba5-887b9154317a,3db1ae9f-0026-4087-a19e-e7ae77defbff,fireCodeHazardClassPrimary,"Flammable Liquid, Class I-B",EPCRA,STATE_CA
+8eaeeb6b-e3bb-4f4e-8aed-f91f3f97c4b7,3db1ae9f-0026-4087-a19e-e7ae77defbff,annualWasteAmount,0,EPCRA,STATE_CA
+4c7dfec7-8bc6-4566-9903-7354d91578d7,34ea644e-44ad-4777-ae2a-1f6edf5bd6aa,isHeatingFuel,False,EPCRA,STATE_DE
+8aa67c3b-4508-4d60-9764-e331b546ca37,34ea644e-44ad-4777-ae2a-1f6edf5bd6aa,isVoluntary,False,EPCRA,STATE_WI
+e30005ac-a8ae-4261-872d-30777a5f3d58,34ea644e-44ad-4777-ae2a-1f6edf5bd6aa,isGasolineOrDieselFuel,False,EPCRA,STATE_WI
+c6912724-de8d-48d9-92e7-bf35c43211ff,34ea644e-44ad-4777-ae2a-1f6edf5bd6aa,isSandOrGravel,False,EPCRA,STATE_WI
+eadf9e36-5ec5-406c-90b8-dcd7a41ca2b3,34ea644e-44ad-4777-ae2a-1f6edf5bd6aa,isPetroleum,False,EPCRA,STATE_WI
+9928f482-bceb-4ae4-8405-6534939c430c,34ea644e-44ad-4777-ae2a-1f6edf5bd6aa,isRoadSalt,False,EPCRA,STATE_WI
+0d59ad28-fb58-4a3b-9be7-95262255625f,34ea644e-44ad-4777-ae2a-1f6edf5bd6aa,isWasteProduct,False,EPCRA,STATE_OR
+8a65667d-27d8-4531-8ef9-220ab39a1c3e,34ea644e-44ad-4777-ae2a-1f6edf5bd6aa,isPesticide,False,EPCRA,STATE_OR
+069b97f1-c9d8-4f8a-95a3-2e93efaee228,34ea644e-44ad-4777-ae2a-1f6edf5bd6aa,isSubjectToCleanAirAct,False,EPCRA,STATE_OR
+87aa94a4-ae7a-41ad-9d37-df225cfe9d46,34ea644e-44ad-4777-ae2a-1f6edf5bd6aa,isFertilizer,False,EPCRA,STATE_OR
+289ae470-91f8-4c18-adc4-b9715f92cf04,34ea644e-44ad-4777-ae2a-1f6edf5bd6aa,isSubjectToProcessSafetyManagement,False,EPCRA,STATE_OR
+77a25c4b-37b4-4c59-805e-81137f6d1c29,34ea644e-44ad-4777-ae2a-1f6edf5bd6aa,isLeadAcidBattery,False,EPCRA,STATE_AZ
+3b38323c-449e-413d-af17-339b50c7f253,34ea644e-44ad-4777-ae2a-1f6edf5bd6aa,hasHighNfpaReactivityRating,False,EPCRA,STATE_AZ
+d80e0cdb-064b-48b7-bd8a-77c752178700,34ea644e-44ad-4777-ae2a-1f6edf5bd6aa,isInPowderFormWithParticleSizeLessThan100Microns,False,EPCRA,STATE_AZ
+59397995-677c-41c4-9363-d67eb2e29f7a,34ea644e-44ad-4777-ae2a-1f6edf5bd6aa,isHandledInSolutionOrMoltenForm,False,EPCRA,STATE_AZ
+3da83c9b-8659-4bbf-ac02-5e2056b2ccf3,34ea644e-44ad-4777-ae2a-1f6edf5bd6aa,commonName,WASTE OIL,EPCRA,STATE_CA
+33a07679-e0ea-4d81-9dfd-ade32665ca9e,34ea644e-44ad-4777-ae2a-1f6edf5bd6aa,isWaste,True,EPCRA,STATE_CA
+9f379255-fb9e-4ba1-8f33-555ef004c915,34ea644e-44ad-4777-ae2a-1f6edf5bd6aa,radioactive,False,EPCRA,STATE_CA
+beb045e6-ca4c-438e-b902-53601f70611e,34ea644e-44ad-4777-ae2a-1f6edf5bd6aa,dotHazardClass,3 - Flammable and Combustible Liquids,EPCRA,STATE_CA
+b06e39fd-df3e-42df-8955-117681ea52b6,34ea644e-44ad-4777-ae2a-1f6edf5bd6aa,stateWasteCode,221,EPCRA,STATE_CA
+4e5ff167-42d1-4b21-828a-3473c2e5dc36,34ea644e-44ad-4777-ae2a-1f6edf5bd6aa,fireCodeHazardClassPrimary,"Combustible Liquid, Class III-B",EPCRA,STATE_CA
+f74788d6-a532-46e0-8b24-e0ee26679fca,34ea644e-44ad-4777-ae2a-1f6edf5bd6aa,annualWasteAmount,16000,EPCRA,STATE_CA
+f056a508-1be9-4670-9ffe-550cab2b6a53,34ea644e-44ad-4777-ae2a-1f6edf5bd6aa,isPetroleumProduct,False,EPCRA,STATE_VT
+92111faa-f2a4-4f2d-84c4-97642d2ba32a,34ea644e-44ad-4777-ae2a-1f6edf5bd6aa,isRoadSalt,False,EPCRA,STATE_VT
+1a0c0c29-3e01-4060-84f2-9971a1d37a72,5be240ed-5ba2-40ce-b482-a3682805b3cb,commonName,Strong Degreaser,EPCRA,STATE_CA
+8ab07bff-3c7b-471a-b70b-5a784eca57bf,5be240ed-5ba2-40ce-b482-a3682805b3cb,isWaste,False,EPCRA,STATE_CA
+bde84815-6727-4b10-bd09-4eb89386e884,5be240ed-5ba2-40ce-b482-a3682805b3cb,radioactive,False,EPCRA,STATE_CA
+dda53ffd-989a-440b-8e6c-12cb2a4daf44,5be240ed-5ba2-40ce-b482-a3682805b3cb,dotHazardClass,9 - Misc. Hazardous Materials,EPCRA,STATE_CA
+898ed0a2-bb9a-4b40-bf45-76a8ef0a9f82,9b68bf79-431d-46d8-b369-d0e2cb3ac217,commonName,Diesel Exhaust Fluid,EPCRA,STATE_CA
+6a9c22c2-ebbb-4fc7-8515-be82134587ad,9b68bf79-431d-46d8-b369-d0e2cb3ac217,isWaste,False,EPCRA,STATE_CA
+3ec42846-a923-4743-adf4-297de56fe731,9b68bf79-431d-46d8-b369-d0e2cb3ac217,radioactive,False,EPCRA,STATE_CA
+3f8ac06b-3550-4705-8cf3-41bc822774cd,63d2a0a3-0a56-4c90-8eac-6684fdbdf807,commonName,Car Wash Soap,EPCRA,STATE_CA
+76b837b7-22f2-4cc8-b342-7c0ee0f5d7e3,63d2a0a3-0a56-4c90-8eac-6684fdbdf807,isWaste,False,EPCRA,STATE_CA
+a2015595-feab-4e4a-8db7-4aa8a5c51abf,63d2a0a3-0a56-4c90-8eac-6684fdbdf807,radioactive,False,EPCRA,STATE_CA
+e7286d23-4650-44ec-91ed-51eba905b472,63d2a0a3-0a56-4c90-8eac-6684fdbdf807,dotHazardClass,9 - Misc. Hazardous Materials,EPCRA,STATE_CA
+8154415c-d141-469c-a960-dea4d97df546,ee7ed48f-e354-4fd6-bf1d-3e81f5567791,commonName,OXYGEN,EPCRA,STATE_CA
+daac22d5-1d44-4adc-8f62-2dbf8da10e37,ee7ed48f-e354-4fd6-bf1d-3e81f5567791,isWaste,False,EPCRA,STATE_CA
+7e0ec610-16d1-4b89-ace1-8ead55cc766d,ee7ed48f-e354-4fd6-bf1d-3e81f5567791,radioactive,False,EPCRA,STATE_CA
+423e5f17-4e90-4614-bcde-fa4fb5851680,ee7ed48f-e354-4fd6-bf1d-3e81f5567791,dotHazardClass,2.2 - Nonflammable Gases,EPCRA,STATE_CA
+d0217da4-37a1-4e07-bb96-b16c5a37ba8e,ff1059d3-07a1-4f93-a903-94de3d7f7864,commonName,MISC DETAILING SUPPLIES,EPCRA,STATE_CA
+2a66d2ee-7c1c-4e3f-82d9-92249b30cb4e,ff1059d3-07a1-4f93-a903-94de3d7f7864,curies,0,EPCRA,STATE_CA
+c47f9509-e157-495c-a8e2-33655886aa89,ff1059d3-07a1-4f93-a903-94de3d7f7864,isWaste,False,EPCRA,STATE_CA
+45448b28-72ee-4d15-aa5a-d9d43efb56e5,ff1059d3-07a1-4f93-a903-94de3d7f7864,radioactive,False,EPCRA,STATE_CA
+bc816f12-97c7-4dfc-b501-5b20a2bbb787,105e7e2d-7c95-4a3a-aaed-3dfa71d868c1,commonName,Waste Fuel (Diesel),EPCRA,STATE_CA
+2f6e0eae-9a16-4bb1-97fc-f99ed3d60de4,105e7e2d-7c95-4a3a-aaed-3dfa71d868c1,isWaste,True,EPCRA,STATE_CA
+d0318756-3093-4c35-a144-2aa721fc3ec2,105e7e2d-7c95-4a3a-aaed-3dfa71d868c1,radioactive,False,EPCRA,STATE_CA
+3c089a15-1dde-4382-bae2-b573c35675cb,105e7e2d-7c95-4a3a-aaed-3dfa71d868c1,dotHazardClass,3 - Flammable and Combustible Liquids,EPCRA,STATE_CA
+3f51cf39-368b-4a49-877a-4715c81c1908,105e7e2d-7c95-4a3a-aaed-3dfa71d868c1,stateWasteCode,214,EPCRA,STATE_CA
+c4bfb269-da0e-43a1-9224-57f76f8a69dc,105e7e2d-7c95-4a3a-aaed-3dfa71d868c1,fireCodeHazardClassPrimary,"Combustible Liquid, Class II",EPCRA,STATE_CA
+ff433671-8e23-47f9-95c8-532de3d67a8b,105e7e2d-7c95-4a3a-aaed-3dfa71d868c1,annualWasteAmount,825,EPCRA,STATE_CA
+9b605e23-4831-4cde-9947-1e3d9f159c0e,2ad03f62-5860-4ca7-960f-34b69c770119,isHeatingFuel,False,EPCRA,STATE_DE
+948fe264-ecc1-4a6e-a249-9738416f3254,2ad03f62-5860-4ca7-960f-34b69c770119,isVoluntary,False,EPCRA,STATE_WI
+1c7ae3d1-5bc7-4e69-b27f-e1964d8b78ca,2ad03f62-5860-4ca7-960f-34b69c770119,isGasolineOrDieselFuel,False,EPCRA,STATE_WI
+62a10db8-8d8d-4df1-b80a-249913c8129e,2ad03f62-5860-4ca7-960f-34b69c770119,isSandOrGravel,False,EPCRA,STATE_WI
+94029275-bc26-4eae-8420-1f94f47e860a,2ad03f62-5860-4ca7-960f-34b69c770119,isPetroleum,False,EPCRA,STATE_WI
+503135bb-8123-4901-9b50-db8a4c511be5,2ad03f62-5860-4ca7-960f-34b69c770119,isRoadSalt,False,EPCRA,STATE_WI
+5c1abcd1-4b4b-4635-bf0d-504c695e5938,2ad03f62-5860-4ca7-960f-34b69c770119,isWasteProduct,False,EPCRA,STATE_OR
+073d3197-fe79-4ddd-bdf5-09c2529b040a,2ad03f62-5860-4ca7-960f-34b69c770119,isPesticide,False,EPCRA,STATE_OR
+b08463a6-f504-482d-92ad-d38471cfab0a,2ad03f62-5860-4ca7-960f-34b69c770119,isSubjectToCleanAirAct,False,EPCRA,STATE_OR
+4b61f721-9754-4e0b-8cd2-47fe8dbe0963,2ad03f62-5860-4ca7-960f-34b69c770119,isFertilizer,False,EPCRA,STATE_OR
+b7012d48-fd0b-46a4-a4b5-f44952381b8b,2ad03f62-5860-4ca7-960f-34b69c770119,isSubjectToProcessSafetyManagement,False,EPCRA,STATE_OR
+7926b3ff-d6ab-475c-af24-53d546a4c29d,2ad03f62-5860-4ca7-960f-34b69c770119,isLeadAcidBattery,False,EPCRA,STATE_AZ
+563d5789-b9d5-4519-83e6-c2114e648f91,2ad03f62-5860-4ca7-960f-34b69c770119,hasHighNfpaReactivityRating,False,EPCRA,STATE_AZ
+263ca229-23d3-47bf-bdf5-a057e227d740,2ad03f62-5860-4ca7-960f-34b69c770119,isInPowderFormWithParticleSizeLessThan100Microns,False,EPCRA,STATE_AZ
+0574313f-7971-445f-8380-c3a93749d596,2ad03f62-5860-4ca7-960f-34b69c770119,isHandledInSolutionOrMoltenForm,False,EPCRA,STATE_AZ
+42b861d5-c8b4-436c-a4ed-16ddf1efac61,2ad03f62-5860-4ca7-960f-34b69c770119,commonName,WASTE COOLANT,EPCRA,STATE_CA
+45eda9e4-8ad4-46a4-a4e6-020be4bc49cc,2ad03f62-5860-4ca7-960f-34b69c770119,isWaste,True,EPCRA,STATE_CA
+0280f4ec-daf4-4d98-b82e-f27419c49a86,2ad03f62-5860-4ca7-960f-34b69c770119,radioactive,False,EPCRA,STATE_CA
+faa92f66-78b8-449b-911f-ef70b62ab0d0,2ad03f62-5860-4ca7-960f-34b69c770119,stateWasteCode,135,EPCRA,STATE_CA
+6c872d42-4058-4509-8c53-ae7b467bba8a,2ad03f62-5860-4ca7-960f-34b69c770119,isPetroleumProduct,False,EPCRA,STATE_VT
+3285ac80-9f1f-4b65-9133-3ce5d671a013,2ad03f62-5860-4ca7-960f-34b69c770119,isRoadSalt,False,EPCRA,STATE_VT
+eabc14aa-811c-4a93-b6fb-5bcfe7520d11,7861e2f5-6d1a-4924-92ca-744e6418537e,commonName,Mild Degreaser,EPCRA,STATE_CA
+a632d8f9-1036-49de-ad87-1c785026ed32,7861e2f5-6d1a-4924-92ca-744e6418537e,isWaste,False,EPCRA,STATE_CA
+c3336fec-283f-4697-9b23-cef816771260,7861e2f5-6d1a-4924-92ca-744e6418537e,radioactive,False,EPCRA,STATE_CA
+1fee3543-14a3-4550-817c-0fe8acd474ac,7861e2f5-6d1a-4924-92ca-744e6418537e,dotHazardClass,9 - Misc. Hazardous Materials,EPCRA,STATE_CA
+c46c28d7-c061-441e-9d68-909ba7200a59,97a35b0e-b304-4d87-9ff5-298b58cda449,commonName,Brake Cleaner,EPCRA,STATE_CA
+0992d7dc-e1df-41ac-b997-e00391b6751f,97a35b0e-b304-4d87-9ff5-298b58cda449,isWaste,False,EPCRA,STATE_CA
+9d53d864-9595-4e4b-8b18-d0f17a7cf621,97a35b0e-b304-4d87-9ff5-298b58cda449,radioactive,False,EPCRA,STATE_CA
+70edc629-5122-457a-a060-791e77580332,97a35b0e-b304-4d87-9ff5-298b58cda449,dotHazardClass,3 - Flammable and Combustible Liquids,EPCRA,STATE_CA
+7eefe728-58ec-49eb-877e-a1a9447ddeee,97a35b0e-b304-4d87-9ff5-298b58cda449,fireCodeHazardClassPrimary,"Flammable Liquid, Class I-B",EPCRA,STATE_CA

@@ -1,0 +1,151 @@
+Facility Chemical Regulatory Info ID,Facility ID,Chemical ID,Reporting Year,Key,Value,Extension Type,Jurisdiction
+8c5fe775-9d6c-4e84-b27f-54189ed6fd56,b1c07cd7-c38a-4ace-abca-3c5b77684491,1f803b93-2902-43e4-baab-e31836b88d06,2023,stateWasteCode,unknown,EPCRA,STATE_CA
+a3ac612c-81ef-423d-91ce-39283cc71293,b1c07cd7-c38a-4ace-abca-3c5b77684491,1f803b93-2902-43e4-baab-e31836b88d06,2023,physicalStateInTransit,liquid,EPCRA,STATE_CA
+599b2e69-6d50-4b3b-8b37-68366fac320a,b1c07cd7-c38a-4ace-abca-3c5b77684491,1f803b93-2902-43e4-baab-e31836b88d06,2023,radioactive,no,EPCRA,STATE_CA
+3d4b7ba6-82ae-41ac-bd0d-676f97bea2e0,b1c07cd7-c38a-4ace-abca-3c5b77684491,69e6ccbe-4183-45f7-80fd-f3d480b4b754,2023,daysOnSite,365,EPCRA,STATE_CA
+c5259d07-7096-4733-a5db-f10cf809c5f6,b1c07cd7-c38a-4ace-abca-3c5b77684491,69e6ccbe-4183-45f7-80fd-f3d480b4b754,2023,commonName,gasoline,EPCRA,STATE_CA
+e3a2b8ca-6089-43cf-b972-2b08a2e3ee29,b1c07cd7-c38a-4ace-abca-3c5b77684491,69e6ccbe-4183-45f7-80fd-f3d480b4b754,2023,stateWasteCode,unknown,EPCRA,STATE_CA
+2054abd7-11b5-4147-ada8-dced68dec9b4,b1c07cd7-c38a-4ace-abca-3c5b77684491,69e6ccbe-4183-45f7-80fd-f3d480b4b754,2023,physicalStateInTransit,liquid,EPCRA,STATE_CA
+b09bcd61-48d0-4af0-902b-b6ad81435721,b1c07cd7-c38a-4ace-abca-3c5b77684491,69e6ccbe-4183-45f7-80fd-f3d480b4b754,2023,radioactive,no,EPCRA,STATE_CA
+04aecb70-fce4-4553-a0f9-f60c3b808dcd,b1c07cd7-c38a-4ace-abca-3c5b77684491,69e6ccbe-4183-45f7-80fd-f3d480b4b754,2023,annualWasteAmount,0,EPCRA,STATE_CA
+6f3f6571-5216-473f-9dbd-aacea11822ac,b1c07cd7-c38a-4ace-abca-3c5b77684491,1ebe6750-af13-46df-a42d-399819628266,2023,daysOnSite,365,EPCRA,STATE_CA
+fae075c8-b814-4fee-8632-3478d91ef930,b1c07cd7-c38a-4ace-abca-3c5b77684491,c3efd744-5917-4e8a-b078-a36e75280d61,2023,daysOnSite,365,EPCRA,STATE_CA
+3a682583-b9ff-47eb-b17a-12dbf6d3be8f,b1c07cd7-c38a-4ace-abca-3c5b77684491,c3efd744-5917-4e8a-b078-a36e75280d61,2023,commonName,coolant,EPCRA,STATE_CA
+837afa02-9a0e-4ef6-86ad-9b2f91c2de4f,b1c07cd7-c38a-4ace-abca-3c5b77684491,c3efd744-5917-4e8a-b078-a36e75280d61,2023,stateWasteCode,unknown,EPCRA,STATE_CA
+4f22d973-86d7-4a2c-a9b5-cd2339de8a74,b1c07cd7-c38a-4ace-abca-3c5b77684491,c3efd744-5917-4e8a-b078-a36e75280d61,2023,physicalStateInTransit,liquid,EPCRA,STATE_CA
+dfb8455d-18f9-41e8-bcb7-149c2932f174,b1c07cd7-c38a-4ace-abca-3c5b77684491,c3efd744-5917-4e8a-b078-a36e75280d61,2023,radioactive,no,EPCRA,STATE_CA
+02f0671d-e698-4731-8f8b-535f3446da5c,b1c07cd7-c38a-4ace-abca-3c5b77684491,c3efd744-5917-4e8a-b078-a36e75280d61,2023,annualWasteAmount,0,EPCRA,STATE_CA
+5d579b4c-f039-4f7f-a917-e4c4e51f0ca1,b1c07cd7-c38a-4ace-abca-3c5b77684491,721e8ba0-b7f2-4b2f-a0f2-09f0853d7bd5,2023,daysOnSite,365,EPCRA,STATE_CA
+ff28be4c-2eab-4f0d-b002-9fb080dd435f,b1c07cd7-c38a-4ace-abca-3c5b77684491,721e8ba0-b7f2-4b2f-a0f2-09f0853d7bd5,2023,commonName,Top Engine Cleaner,EPCRA,STATE_CA
+9030bacd-9988-48f5-b667-c2c19066e713,b1c07cd7-c38a-4ace-abca-3c5b77684491,1ebe6750-af13-46df-a42d-399819628266,2023,commonName,Brake Cleaner,EPCRA,STATE_CA
+431e0da5-9dce-443a-ba3e-e6c201782e72,b1c07cd7-c38a-4ace-abca-3c5b77684491,1ebe6750-af13-46df-a42d-399819628266,2023,stateWasteCode,unknown,EPCRA,STATE_CA
+d5570675-7cef-4805-9fa4-7cbe3ff7512f,b1c07cd7-c38a-4ace-abca-3c5b77684491,7eaf6383-7c9f-4a7e-8d68-c2b5d4f739fe,2023,annualWasteAmount,0,EPCRA,STATE_CA
+714e220b-98a0-4ce9-865c-2011a251fd44,b1c07cd7-c38a-4ace-abca-3c5b77684491,89521e1c-db91-49cf-b7c5-df060718b675,2023,daysOnSite,365,EPCRA,STATE_CA
+850ab6ba-24f6-43d9-992c-8767075bc3e9,b1c07cd7-c38a-4ace-abca-3c5b77684491,89521e1c-db91-49cf-b7c5-df060718b675,2023,commonName,hydraulic oil,EPCRA,STATE_CA
+80702ed0-7895-4103-9c33-60f31abe96dd,b1c07cd7-c38a-4ace-abca-3c5b77684491,1ebe6750-af13-46df-a42d-399819628266,2023,physicalStateInTransit,aerosol can,EPCRA,STATE_CA
+c7cf194f-f0f1-48df-b99f-ee5e39132dee,b1c07cd7-c38a-4ace-abca-3c5b77684491,1ebe6750-af13-46df-a42d-399819628266,2023,radioactive,no,EPCRA,STATE_CA
+b531f175-333c-48f9-b55f-11d1ef96e307,b1c07cd7-c38a-4ace-abca-3c5b77684491,1ebe6750-af13-46df-a42d-399819628266,2023,annualWasteAmount,0,EPCRA,STATE_CA
+3f190983-be0f-49f5-8b5c-75f41e69492e,b1c07cd7-c38a-4ace-abca-3c5b77684491,721e8ba0-b7f2-4b2f-a0f2-09f0853d7bd5,2023,physicalStateInTransit,liquid,EPCRA,STATE_CA
+f6af2d82-2449-4ea1-8c2b-e75bb836082b,b1c07cd7-c38a-4ace-abca-3c5b77684491,721e8ba0-b7f2-4b2f-a0f2-09f0853d7bd5,2023,radioactive,no,EPCRA,STATE_CA
+bd701627-26b9-47af-8048-ab259afbab45,b1c07cd7-c38a-4ace-abca-3c5b77684491,721e8ba0-b7f2-4b2f-a0f2-09f0853d7bd5,2023,annualWasteAmount,0,EPCRA,STATE_CA
+85a3ac07-af45-4015-b4e0-fcbf010777ed,b1c07cd7-c38a-4ace-abca-3c5b77684491,7eaf6383-7c9f-4a7e-8d68-c2b5d4f739fe,2023,daysOnSite,365,EPCRA,STATE_CA
+c8091f08-13e1-4873-a04c-8234082bb2ee,b1c07cd7-c38a-4ace-abca-3c5b77684491,7eaf6383-7c9f-4a7e-8d68-c2b5d4f739fe,2023,commonName,Compressor Oil,EPCRA,STATE_CA
+5668d69d-4095-4cc2-907e-1d17f215e6c6,b1c07cd7-c38a-4ace-abca-3c5b77684491,7eaf6383-7c9f-4a7e-8d68-c2b5d4f739fe,2023,stateWasteCode,unknown,EPCRA,STATE_CA
+d7ca95c9-0bb4-4498-95c4-b64a5bccdc8c,b1c07cd7-c38a-4ace-abca-3c5b77684491,7eaf6383-7c9f-4a7e-8d68-c2b5d4f739fe,2023,physicalStateInTransit,liquid,EPCRA,STATE_CA
+9aecaa4d-024c-4973-bb52-e1f47d5f712e,b1c07cd7-c38a-4ace-abca-3c5b77684491,7eaf6383-7c9f-4a7e-8d68-c2b5d4f739fe,2023,radioactive,no,EPCRA,STATE_CA
+85996875-63bc-4d98-8880-0d5dc0610ac6,b1c07cd7-c38a-4ace-abca-3c5b77684491,70e01d10-5a77-461b-91a0-dd159002a79c,2023,daysOnSite,365,EPCRA,STATE_CA
+411776b2-1590-4d84-af36-1553de3649bc,b1c07cd7-c38a-4ace-abca-3c5b77684491,70e01d10-5a77-461b-91a0-dd159002a79c,2023,commonName,Tool Oil,EPCRA,STATE_CA
+cb3aecf4-ad03-4e21-9d20-8d03b645b5d9,b1c07cd7-c38a-4ace-abca-3c5b77684491,70e01d10-5a77-461b-91a0-dd159002a79c,2023,stateWasteCode,unknown,EPCRA,STATE_CA
+b0df3b1f-f7d1-42b5-81c6-d74613af7cec,b1c07cd7-c38a-4ace-abca-3c5b77684491,70e01d10-5a77-461b-91a0-dd159002a79c,2023,physicalStateInTransit,liquid,EPCRA,STATE_CA
+597639ae-bd77-422c-868e-19271e4aa49e,b1c07cd7-c38a-4ace-abca-3c5b77684491,70e01d10-5a77-461b-91a0-dd159002a79c,2023,radioactive,no,EPCRA,STATE_CA
+3dee139a-fca0-40b4-a540-bff1a3a1be75,b1c07cd7-c38a-4ace-abca-3c5b77684491,c66a3020-1fd7-44c5-a326-25aa21dacd65,2023,commonName,coolant,EPCRA,STATE_CA
+a05e6d6c-c1b9-425f-b3cc-430a41306146,b1c07cd7-c38a-4ace-abca-3c5b77684491,c66a3020-1fd7-44c5-a326-25aa21dacd65,2023,stateWasteCode,unknown,EPCRA,STATE_CA
+2f17f733-174b-43f9-b59c-5bdc4ec0c3b4,b1c07cd7-c38a-4ace-abca-3c5b77684491,c66a3020-1fd7-44c5-a326-25aa21dacd65,2023,physicalStateInTransit,liquid,EPCRA,STATE_CA
+830a9c76-a988-4685-8231-a339266f4ad6,b1c07cd7-c38a-4ace-abca-3c5b77684491,c66a3020-1fd7-44c5-a326-25aa21dacd65,2023,radioactive,no,EPCRA,STATE_CA
+e96935a0-916e-4e8d-9d47-44c2ddd2b7f8,b1c07cd7-c38a-4ace-abca-3c5b77684491,c66a3020-1fd7-44c5-a326-25aa21dacd65,2023,annualWasteAmount,unknown,EPCRA,STATE_CA
+7b49a2a5-3f29-4542-93d9-06624f3d8f85,b1c07cd7-c38a-4ace-abca-3c5b77684491,7f4b554e-366f-4445-b95b-9a3043d7c553,2023,daysOnSite,365,EPCRA,STATE_CA
+659e282e-265f-4320-bdb4-172d5dae11af,b1c07cd7-c38a-4ace-abca-3c5b77684491,7f4b554e-366f-4445-b95b-9a3043d7c553,2023,commonName,Brake fluid,EPCRA,STATE_CA
+30a7ec52-8b83-4313-83e2-b6cb10776dd2,b1c07cd7-c38a-4ace-abca-3c5b77684491,7f4b554e-366f-4445-b95b-9a3043d7c553,2023,stateWasteCode,unknown,EPCRA,STATE_CA
+45af8e83-8edd-4e23-8523-f9104816c92a,b1c07cd7-c38a-4ace-abca-3c5b77684491,7f4b554e-366f-4445-b95b-9a3043d7c553,2023,physicalStateInTransit,liquid,EPCRA,STATE_CA
+b1399549-cb92-4158-916f-e89df09d1d96,b1c07cd7-c38a-4ace-abca-3c5b77684491,7f4b554e-366f-4445-b95b-9a3043d7c553,2023,radioactive,no,EPCRA,STATE_CA
+2c8c09a3-4052-4592-8053-09d70719a4a6,b1c07cd7-c38a-4ace-abca-3c5b77684491,7f4b554e-366f-4445-b95b-9a3043d7c553,2023,annualWasteAmount,unknown,EPCRA,STATE_CA
+3d431fbe-b3ab-4d62-99f8-0eabb02282db,b1c07cd7-c38a-4ace-abca-3c5b77684491,26771274-bcc2-43a3-b71b-bc8eca582915,2023,daysOnSite,365,EPCRA,STATE_CA
+cc7f06d3-fba4-4e85-9a82-e5fb529b4310,b1c07cd7-c38a-4ace-abca-3c5b77684491,26771274-bcc2-43a3-b71b-bc8eca582915,2023,commonName,Brake fluid,EPCRA,STATE_CA
+dc0f24bb-b625-435d-b015-45b3af6c5ff5,b1c07cd7-c38a-4ace-abca-3c5b77684491,26771274-bcc2-43a3-b71b-bc8eca582915,2023,stateWasteCode,unknown,EPCRA,STATE_CA
+bd43f891-8de5-4136-b3f3-f5074fcefe88,b1c07cd7-c38a-4ace-abca-3c5b77684491,26771274-bcc2-43a3-b71b-bc8eca582915,2023,physicalStateInTransit,liquid,EPCRA,STATE_CA
+d1d8dc92-6634-4f65-abb7-9c431c4fae1c,b1c07cd7-c38a-4ace-abca-3c5b77684491,26771274-bcc2-43a3-b71b-bc8eca582915,2023,radioactive,no,EPCRA,STATE_CA
+31639bd0-1ad2-4e64-92a0-221a6198caeb,b1c07cd7-c38a-4ace-abca-3c5b77684491,26771274-bcc2-43a3-b71b-bc8eca582915,2023,annualWasteAmount,unknown,EPCRA,STATE_CA
+c4d45518-6847-4a92-a60d-0b58b4ff183d,b1c07cd7-c38a-4ace-abca-3c5b77684491,721e8ba0-b7f2-4b2f-a0f2-09f0853d7bd5,2023,stateWasteCode,unknown,EPCRA,STATE_CA
+6eb78d49-1ff2-41a0-addd-0fecf0cc9d48,b1c07cd7-c38a-4ace-abca-3c5b77684491,10c85505-fa72-4b6d-bd53-4a27671e601e,2023,daysOnSite,365,EPCRA,STATE_CA
+b46a89f4-2298-492e-9804-ec526c72924c,b1c07cd7-c38a-4ace-abca-3c5b77684491,10c85505-fa72-4b6d-bd53-4a27671e601e,2023,commonName,motor oil,EPCRA,STATE_CA
+7b4553dc-7299-4a50-8c5f-f9e61b6a6842,b1c07cd7-c38a-4ace-abca-3c5b77684491,10c85505-fa72-4b6d-bd53-4a27671e601e,2023,stateWasteCode,unknown,EPCRA,STATE_CA
+a4721cd1-1911-4755-a815-1acd5439748a,b1c07cd7-c38a-4ace-abca-3c5b77684491,10c85505-fa72-4b6d-bd53-4a27671e601e,2023,physicalStateInTransit,liquid,EPCRA,STATE_CA
+bff012e0-ca29-440c-b35e-b2059b5767a3,b1c07cd7-c38a-4ace-abca-3c5b77684491,10c85505-fa72-4b6d-bd53-4a27671e601e,2023,radioactive,no,EPCRA,STATE_CA
+0762877c-a064-4b19-8ee7-ac3fa58e83cf,b1c07cd7-c38a-4ace-abca-3c5b77684491,10c85505-fa72-4b6d-bd53-4a27671e601e,2023,annualWasteAmount,unknown,EPCRA,STATE_CA
+efbd7a9c-169f-4649-bfb6-afe3ca7dbcc1,b1c07cd7-c38a-4ace-abca-3c5b77684491,b61888ab-87f8-4a78-9a07-aac3480afd96,2023,daysOnSite,365,EPCRA,STATE_CA
+baf17091-ec71-4ffa-8239-d3578d18bc1c,b1c07cd7-c38a-4ace-abca-3c5b77684491,b61888ab-87f8-4a78-9a07-aac3480afd96,2023,commonName,motor oil,EPCRA,STATE_CA
+2accfc79-50ef-4aab-a107-fa3efbd57896,b1c07cd7-c38a-4ace-abca-3c5b77684491,b61888ab-87f8-4a78-9a07-aac3480afd96,2023,stateWasteCode,unknown,EPCRA,STATE_CA
+e33f28a3-3824-4c54-a94a-a2ba2c65ddf7,b1c07cd7-c38a-4ace-abca-3c5b77684491,b61888ab-87f8-4a78-9a07-aac3480afd96,2023,physicalStateInTransit,liquid,EPCRA,STATE_CA
+64e0d142-44a3-4818-8aa5-2259b17e6b6d,b1c07cd7-c38a-4ace-abca-3c5b77684491,b61888ab-87f8-4a78-9a07-aac3480afd96,2023,radioactive,no,EPCRA,STATE_CA
+6cf5e49f-bf58-4449-b9fd-037c2dc77094,b1c07cd7-c38a-4ace-abca-3c5b77684491,b61888ab-87f8-4a78-9a07-aac3480afd96,2023,annualWasteAmount,unknown,EPCRA,STATE_CA
+bf05822a-92bc-44be-9d90-1aff9cc4b1f2,b1c07cd7-c38a-4ace-abca-3c5b77684491,b16beaf2-55e4-47e9-a2a0-d15132af2d12,2023,daysOnSite,365,EPCRA,STATE_CA
+0a3e8bb7-4f2a-4f3d-8682-8f38bba5a935,b1c07cd7-c38a-4ace-abca-3c5b77684491,0613f9a5-95ef-44fa-9411-8fffc83d8ece,2023,annualWasteAmount,unknown,EPCRA,STATE_CA
+726afb96-df23-4857-8a1a-0b6c79ece7b6,b1c07cd7-c38a-4ace-abca-3c5b77684491,89521e1c-db91-49cf-b7c5-df060718b675,2023,stateWasteCode,unknown,EPCRA,STATE_CA
+b86357bc-83dc-4f21-95c7-cf4cf7b67203,b1c07cd7-c38a-4ace-abca-3c5b77684491,85d15a05-7544-40f0-b928-6177c44d2482,2023,commonName,motor oil,EPCRA,STATE_CA
+5eaca7f4-c69d-44e0-9305-6df5ed6c4dff,b1c07cd7-c38a-4ace-abca-3c5b77684491,53e1e898-2919-40bd-9faa-75f20a741d10,2023,daysOnSite,365,EPCRA,STATE_CA
+d3bd8c1a-109d-4360-bd50-f591b8d2d2eb,b1c07cd7-c38a-4ace-abca-3c5b77684491,4e4f5b00-cd2d-4893-997e-dfb24e1862ea,2023,stateWasteCode,unknown,EPCRA,STATE_CA
+e1334c62-b3f4-47dd-91df-3ea6535061de,b1c07cd7-c38a-4ace-abca-3c5b77684491,89fe1e37-6138-456b-a491-f0a33fe1d86b,2023,stateWasteCode,unknown,EPCRA,STATE_CA
+6f195eee-6d4e-49eb-92d5-bcff5281ae4d,b1c07cd7-c38a-4ace-abca-3c5b77684491,89fe1e37-6138-456b-a491-f0a33fe1d86b,2023,physicalStateInTransit,liquid,EPCRA,STATE_CA
+bdb16ab3-0a70-4cd3-8feb-32b48bed8b86,b1c07cd7-c38a-4ace-abca-3c5b77684491,89fe1e37-6138-456b-a491-f0a33fe1d86b,2023,radioactive,no,EPCRA,STATE_CA
+353a8eb3-1cd1-4899-9b1a-9f33c861202d,b1c07cd7-c38a-4ace-abca-3c5b77684491,89fe1e37-6138-456b-a491-f0a33fe1d86b,2023,annualWasteAmount,0,EPCRA,STATE_CA
+6864c8ce-d03c-47d5-803d-3de92a2b373d,b1c07cd7-c38a-4ace-abca-3c5b77684491,74e690ab-a5e5-4d65-a965-b38ddd9d583a,2023,daysOnSite,365,EPCRA,STATE_CA
+aa834387-fcb6-43f6-827c-a11d2e0e89d4,b1c07cd7-c38a-4ace-abca-3c5b77684491,74e690ab-a5e5-4d65-a965-b38ddd9d583a,2023,commonName,motor oil,EPCRA,STATE_CA
+c061410e-fe1b-4a69-97a9-25f73f5c7243,b1c07cd7-c38a-4ace-abca-3c5b77684491,74e690ab-a5e5-4d65-a965-b38ddd9d583a,2023,stateWasteCode,unknown,EPCRA,STATE_CA
+1d9f985f-f6ab-4261-ac05-221904f7fcf8,b1c07cd7-c38a-4ace-abca-3c5b77684491,74e690ab-a5e5-4d65-a965-b38ddd9d583a,2023,physicalStateInTransit,liquid,EPCRA,STATE_CA
+ec8d5f03-8862-418d-b9c0-542f5a3b1bae,b1c07cd7-c38a-4ace-abca-3c5b77684491,74e690ab-a5e5-4d65-a965-b38ddd9d583a,2023,radioactive,Not Applicable,EPCRA,STATE_CA
+6547ec85-118a-4878-9c44-a0fbc5f916ff,b1c07cd7-c38a-4ace-abca-3c5b77684491,0537f744-a6d6-42d7-ae29-00322fb0a473,2023,annualWasteAmount,unknown,EPCRA,STATE_CA
+387ed033-7c23-4bc3-a9c7-a340b8145759,b1c07cd7-c38a-4ace-abca-3c5b77684491,85d15a05-7544-40f0-b928-6177c44d2482,2023,daysOnSite,365,EPCRA,STATE_CA
+fd33cc6b-29e5-40f5-a291-1bfeff1e80df,b1c07cd7-c38a-4ace-abca-3c5b77684491,70e01d10-5a77-461b-91a0-dd159002a79c,2023,annualWasteAmount,0,EPCRA,STATE_CA
+fdc7664d-13c1-4667-b2d6-7f5550d43c90,b1c07cd7-c38a-4ace-abca-3c5b77684491,1f803b93-2902-43e4-baab-e31836b88d06,2023,daysOnSite,365,EPCRA,STATE_CA
+cce51c56-8b5e-42e0-a428-8dcb26c7635c,b1c07cd7-c38a-4ace-abca-3c5b77684491,56fde5d5-f121-4280-8b72-1d7e9d4216ad,2023,commonName,motor oil,EPCRA,STATE_CA
+ccfcd2fb-5a40-49d1-a0a7-9211da754a90,b1c07cd7-c38a-4ace-abca-3c5b77684491,56fde5d5-f121-4280-8b72-1d7e9d4216ad,2023,stateWasteCode,unknown,EPCRA,STATE_CA
+e004cdba-6875-433d-9e44-cdd3a2277e84,b1c07cd7-c38a-4ace-abca-3c5b77684491,56fde5d5-f121-4280-8b72-1d7e9d4216ad,2023,physicalStateInTransit,liquid,EPCRA,STATE_CA
+989e6c2a-1083-4b88-a022-26f3da1156b2,b1c07cd7-c38a-4ace-abca-3c5b77684491,56fde5d5-f121-4280-8b72-1d7e9d4216ad,2023,radioactive,no,EPCRA,STATE_CA
+86796973-c2a6-400a-96df-e03ccbc6b98a,b1c07cd7-c38a-4ace-abca-3c5b77684491,56fde5d5-f121-4280-8b72-1d7e9d4216ad,2023,annualWasteAmount,unknown,EPCRA,STATE_CA
+457401d1-d624-4070-bb9d-9301b5ebd2f5,b1c07cd7-c38a-4ace-abca-3c5b77684491,4acf93ba-ac3d-4add-b8e6-e4e750126c1d,2023,daysOnSite,365,EPCRA,STATE_CA
+fa567549-f732-4e7a-9d58-d0363a27ab00,b1c07cd7-c38a-4ace-abca-3c5b77684491,4acf93ba-ac3d-4add-b8e6-e4e750126c1d,2023,commonName,Oil Dye,EPCRA,STATE_CA
+c16e4b70-6fc2-45fc-abbc-db92b9f7595e,b1c07cd7-c38a-4ace-abca-3c5b77684491,4acf93ba-ac3d-4add-b8e6-e4e750126c1d,2023,stateWasteCode,unknown,EPCRA,STATE_CA
+99939dcc-0366-45f7-948c-fc764e3dba1b,b1c07cd7-c38a-4ace-abca-3c5b77684491,4acf93ba-ac3d-4add-b8e6-e4e750126c1d,2023,physicalStateInTransit,liquid,EPCRA,STATE_CA
+dc638385-736d-4790-992d-9d5dacdc876d,b1c07cd7-c38a-4ace-abca-3c5b77684491,4acf93ba-ac3d-4add-b8e6-e4e750126c1d,2023,radioactive,no,EPCRA,STATE_CA
+bcb92964-e8fb-41b4-a459-0f10dfc1b527,b1c07cd7-c38a-4ace-abca-3c5b77684491,4acf93ba-ac3d-4add-b8e6-e4e750126c1d,2023,annualWasteAmount,0,EPCRA,STATE_CA
+18befd69-b18a-4a2b-b3d2-00f5f3d3db22,b1c07cd7-c38a-4ace-abca-3c5b77684491,53e1e898-2919-40bd-9faa-75f20a741d10,2023,commonName,Fuel Injector Cleaner,EPCRA,STATE_CA
+e1c8e30c-c615-41b0-b303-d099027787a0,b1c07cd7-c38a-4ace-abca-3c5b77684491,53e1e898-2919-40bd-9faa-75f20a741d10,2023,stateWasteCode,unknown,EPCRA,STATE_CA
+4bd5ff40-8e8f-407f-86d7-7ae4452eec45,b1c07cd7-c38a-4ace-abca-3c5b77684491,53e1e898-2919-40bd-9faa-75f20a741d10,2023,physicalStateInTransit,liquid,EPCRA,STATE_CA
+2113cf39-d52d-470a-ba80-b4ca96b0c59f,b1c07cd7-c38a-4ace-abca-3c5b77684491,53e1e898-2919-40bd-9faa-75f20a741d10,2023,radioactive,Not Applicable,EPCRA,STATE_CA
+7037a5be-a44d-4a70-9f75-febc1e149978,b1c07cd7-c38a-4ace-abca-3c5b77684491,53e1e898-2919-40bd-9faa-75f20a741d10,2023,annualWasteAmount,0,EPCRA,STATE_CA
+509c0fd0-e0c6-447e-8bbc-1463201ff6f9,b1c07cd7-c38a-4ace-abca-3c5b77684491,1f803b93-2902-43e4-baab-e31836b88d06,2023,commonName,vacuum pump oil,EPCRA,STATE_CA
+3fa5fcc8-a994-4910-9f0d-d1ce949d5e48,b1c07cd7-c38a-4ace-abca-3c5b77684491,1f803b93-2902-43e4-baab-e31836b88d06,2023,annualWasteAmount,0,EPCRA,STATE_CA
+381ec459-646a-48bd-bdde-294321627a88,b1c07cd7-c38a-4ace-abca-3c5b77684491,74404669-a4b5-47d0-9da1-c9952c712b20,2023,daysOnSite,365,EPCRA,STATE_CA
+f98181b6-3e19-49b2-8ff6-58895ea97b6a,b1c07cd7-c38a-4ace-abca-3c5b77684491,74404669-a4b5-47d0-9da1-c9952c712b20,2023,commonName,motor oil,EPCRA,STATE_CA
+9cac8422-3438-42ab-99c8-6d850dd288e5,b1c07cd7-c38a-4ace-abca-3c5b77684491,74404669-a4b5-47d0-9da1-c9952c712b20,2023,stateWasteCode,unknown,EPCRA,STATE_CA
+c9befda6-5a29-4781-8826-b7b6be523a14,b1c07cd7-c38a-4ace-abca-3c5b77684491,74404669-a4b5-47d0-9da1-c9952c712b20,2023,physicalStateInTransit,liquid,EPCRA,STATE_CA
+084bc7c8-02d4-4664-a7f6-985069c56f93,b1c07cd7-c38a-4ace-abca-3c5b77684491,74404669-a4b5-47d0-9da1-c9952c712b20,2023,radioactive,no,EPCRA,STATE_CA
+9efde261-6f34-4f05-bc78-b5fd871d504f,b1c07cd7-c38a-4ace-abca-3c5b77684491,74404669-a4b5-47d0-9da1-c9952c712b20,2023,annualWasteAmount,unknown,EPCRA,STATE_CA
+dedb2cd8-5ae2-4d72-bf17-8d41137acada,b1c07cd7-c38a-4ace-abca-3c5b77684491,4e4f5b00-cd2d-4893-997e-dfb24e1862ea,2023,daysOnSite,365,EPCRA,STATE_CA
+15be391b-579e-4ae4-881a-8ce9b99cc98a,b1c07cd7-c38a-4ace-abca-3c5b77684491,4e4f5b00-cd2d-4893-997e-dfb24e1862ea,2023,commonName,motor oil,EPCRA,STATE_CA
+3c043e60-8822-44d3-aa59-61ba15d6595f,b1c07cd7-c38a-4ace-abca-3c5b77684491,4e4f5b00-cd2d-4893-997e-dfb24e1862ea,2023,physicalStateInTransit,liquid,EPCRA,STATE_CA
+4b103386-076c-4fe7-89cf-50a2ce6db167,b1c07cd7-c38a-4ace-abca-3c5b77684491,4e4f5b00-cd2d-4893-997e-dfb24e1862ea,2023,radioactive,no,EPCRA,STATE_CA
+c0a85b7d-936c-48a2-8933-22cfb922cbcb,b1c07cd7-c38a-4ace-abca-3c5b77684491,4e4f5b00-cd2d-4893-997e-dfb24e1862ea,2023,annualWasteAmount,unknown,EPCRA,STATE_CA
+240c4b11-9e41-47b6-9e36-e8d0e50562ed,b1c07cd7-c38a-4ace-abca-3c5b77684491,56fde5d5-f121-4280-8b72-1d7e9d4216ad,2023,daysOnSite,365,EPCRA,STATE_CA
+7b279183-6a0b-43ff-a021-0e64c1bd2254,b1c07cd7-c38a-4ace-abca-3c5b77684491,c66a3020-1fd7-44c5-a326-25aa21dacd65,2023,daysOnSite,365,EPCRA,STATE_CA
+a5e5a3d4-0f09-46d5-8991-d497ec7aa04a,b1c07cd7-c38a-4ace-abca-3c5b77684491,94df53b9-0414-4f6c-9586-c77f2d74fdcb,2023,annualWasteAmount,0,EPCRA,STATE_CA
+84c6377f-e93c-4b6e-a92b-751e7ae76906,b1c07cd7-c38a-4ace-abca-3c5b77684491,0537f744-a6d6-42d7-ae29-00322fb0a473,2023,daysOnSite,365,EPCRA,STATE_CA
+f435dbb2-c306-472a-b07b-76ee5543add9,b1c07cd7-c38a-4ace-abca-3c5b77684491,0537f744-a6d6-42d7-ae29-00322fb0a473,2023,commonName,Power Steering Fluid,EPCRA,STATE_CA
+5eab4314-e0ab-4ec5-b30f-68b11678197f,b1c07cd7-c38a-4ace-abca-3c5b77684491,0537f744-a6d6-42d7-ae29-00322fb0a473,2023,stateWasteCode,unknown,EPCRA,STATE_CA
+38d46f56-9dfb-49e7-a6c7-8fee2baaeabb,b1c07cd7-c38a-4ace-abca-3c5b77684491,0537f744-a6d6-42d7-ae29-00322fb0a473,2023,physicalStateInTransit,Liquid,EPCRA,STATE_CA
+832a9a91-72fc-475c-bcb6-df9f5f6c9ebb,b1c07cd7-c38a-4ace-abca-3c5b77684491,0537f744-a6d6-42d7-ae29-00322fb0a473,2023,radioactive,no,EPCRA,STATE_CA
+0f646bf0-6fde-40da-ac72-48fbc3d19d80,b1c07cd7-c38a-4ace-abca-3c5b77684491,85d15a05-7544-40f0-b928-6177c44d2482,2023,stateWasteCode,unknown,EPCRA,STATE_CA
+05b7e1ab-f568-4d4c-b14e-5689a839c5ca,b1c07cd7-c38a-4ace-abca-3c5b77684491,85d15a05-7544-40f0-b928-6177c44d2482,2023,physicalStateInTransit,liquid,EPCRA,STATE_CA
+dcf71754-f6b9-462d-afea-7f6c70442531,b1c07cd7-c38a-4ace-abca-3c5b77684491,85d15a05-7544-40f0-b928-6177c44d2482,2023,radioactive,Not Applicable,EPCRA,STATE_CA
+08ebc0fe-0c24-414e-b5aa-5d6efc21808f,b1c07cd7-c38a-4ace-abca-3c5b77684491,85d15a05-7544-40f0-b928-6177c44d2482,2023,annualWasteAmount,0,EPCRA,STATE_CA
+a2076fbf-4106-441b-b5f6-35ddf345a87d,b1c07cd7-c38a-4ace-abca-3c5b77684491,0613f9a5-95ef-44fa-9411-8fffc83d8ece,2023,daysOnSite,365,EPCRA,STATE_CA
+b2297945-5303-4641-b36d-dc1685c49152,b1c07cd7-c38a-4ace-abca-3c5b77684491,0613f9a5-95ef-44fa-9411-8fffc83d8ece,2023,commonName,Automatic Transmission Fluid,EPCRA,STATE_CA
+1afcf872-b79d-45e2-91bb-3b4393f18c53,b1c07cd7-c38a-4ace-abca-3c5b77684491,0613f9a5-95ef-44fa-9411-8fffc83d8ece,2023,stateWasteCode,unknown,EPCRA,STATE_CA
+6d224639-d96a-4028-8440-d891f31fb4a7,b1c07cd7-c38a-4ace-abca-3c5b77684491,0613f9a5-95ef-44fa-9411-8fffc83d8ece,2023,physicalStateInTransit,liquid,EPCRA,STATE_CA
+1cbd322d-6df1-46e6-9ea7-95cb5db7b1c2,b1c07cd7-c38a-4ace-abca-3c5b77684491,0613f9a5-95ef-44fa-9411-8fffc83d8ece,2023,radioactive,no,EPCRA,STATE_CA
+33654fe2-37c2-4c14-bc70-9a2639cbbed3,b1c07cd7-c38a-4ace-abca-3c5b77684491,b16beaf2-55e4-47e9-a2a0-d15132af2d12,2023,commonName,motor oil,EPCRA,STATE_CA
+3c6ea787-b4e0-48a7-815c-e8522251dd59,b1c07cd7-c38a-4ace-abca-3c5b77684491,b16beaf2-55e4-47e9-a2a0-d15132af2d12,2023,stateWasteCode,unknown,EPCRA,STATE_CA
+8959b984-14f9-4f17-8313-0cfd1145f99d,b1c07cd7-c38a-4ace-abca-3c5b77684491,b16beaf2-55e4-47e9-a2a0-d15132af2d12,2023,physicalStateInTransit,liquid,EPCRA,STATE_CA
+af9ad829-ea39-46c2-a674-f3a5e2e1abf1,b1c07cd7-c38a-4ace-abca-3c5b77684491,b16beaf2-55e4-47e9-a2a0-d15132af2d12,2023,radioactive,no,EPCRA,STATE_CA
+5d70a72c-2b1b-42ea-8791-277008e47115,b1c07cd7-c38a-4ace-abca-3c5b77684491,b16beaf2-55e4-47e9-a2a0-d15132af2d12,2023,annualWasteAmount,unknown,EPCRA,STATE_CA
+75364c73-6376-4ab5-a528-f980c2e9ede4,b1c07cd7-c38a-4ace-abca-3c5b77684491,89fe1e37-6138-456b-a491-f0a33fe1d86b,2023,daysOnSite,365,EPCRA,STATE_CA
+bd384f81-b0f2-479a-b317-bf70ba16358e,b1c07cd7-c38a-4ace-abca-3c5b77684491,89fe1e37-6138-456b-a491-f0a33fe1d86b,2023,commonName,coolant,EPCRA,STATE_CA
+4ca8c247-7d9d-4be5-b833-f47748c5a4d6,b1c07cd7-c38a-4ace-abca-3c5b77684491,74e690ab-a5e5-4d65-a965-b38ddd9d583a,2023,annualWasteAmount,unknown,EPCRA,STATE_CA
+c0680c50-c243-4d5d-84ac-4c19bc7ff361,b1c07cd7-c38a-4ace-abca-3c5b77684491,94df53b9-0414-4f6c-9586-c77f2d74fdcb,2023,daysOnSite,365,EPCRA,STATE_CA
+73521f1d-245a-4ff6-a970-43ab6de561d9,b1c07cd7-c38a-4ace-abca-3c5b77684491,94df53b9-0414-4f6c-9586-c77f2d74fdcb,2023,commonName,power steering fluid,EPCRA,STATE_CA
+7a4ffd14-d81d-4332-aa01-67c13e76e0f9,b1c07cd7-c38a-4ace-abca-3c5b77684491,94df53b9-0414-4f6c-9586-c77f2d74fdcb,2023,stateWasteCode,unknown,EPCRA,STATE_CA
+4af29355-f1b2-49b3-bace-ebef4c3ea422,b1c07cd7-c38a-4ace-abca-3c5b77684491,94df53b9-0414-4f6c-9586-c77f2d74fdcb,2023,physicalStateInTransit,liquid,EPCRA,STATE_CA
+bc4230d2-b8da-425b-9370-712168afb5d0,b1c07cd7-c38a-4ace-abca-3c5b77684491,94df53b9-0414-4f6c-9586-c77f2d74fdcb,2023,radioactive,no,EPCRA,STATE_CA
+929c7db6-e1bf-4f21-8e3d-f1252c86c116,b1c07cd7-c38a-4ace-abca-3c5b77684491,89521e1c-db91-49cf-b7c5-df060718b675,2023,physicalStateInTransit,liquid,EPCRA,STATE_CA
+6529e3a1-c880-4be9-803c-ff5eece6a6d3,b1c07cd7-c38a-4ace-abca-3c5b77684491,89521e1c-db91-49cf-b7c5-df060718b675,2023,radioactive,no,EPCRA,STATE_CA
+f27cf79c-ea90-444f-9a9e-a5dea7e8f589,b1c07cd7-c38a-4ace-abca-3c5b77684491,89521e1c-db91-49cf-b7c5-df060718b675,2023,annualWasteAmount,0,EPCRA,STATE_CA
